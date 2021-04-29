@@ -1,0 +1,2737 @@
+PS|PC_HL|MENO|PRIEZVISKO|TITUL|VEK|ZAMESTNANIE|TP_OBEC|POZNAMKA
+1|1|Jozef|Sásik|Ing.|61|predseda SĽS Andreja Hlinku|Banská Bystrica|
+1|2|Andrej|Trnovec|RNDr.|56|odborný pracovník|Bratislava|
+1|3|Marián|Kňažko|Ing.|55|stredoškolský učiteľ|Považská Bystrica|
+1|4|Richard|Burkovský|Ing.|55|ekológ - projektant pre životné prostredie|Banská Bystrica|
+1|5|Miroslav|Faktor|Ing., PhD.|57|výskumník - vynálezca|Žilina|
+1|6|Viliam|Zopp|Ing.|81|tajomník Slovenskej ľudovej strany A. Hlinku|Bratislava|
+1|7|Martin|Bálik||30|bezpečnostný pracovník|Banská Štiavnica|
+1|8|Vladimír|Rosinský||59|obchodník|Banská Bystrica|
+1|9|Milan|Prašovský||44|bezpečnostný pracovník|Banská Bystrica|
+1|10|Vladimír|Bizoň|Ing.|66|pilot vo výslužbe|Ludanice|
+1|11|Janka|Slobodníková||54|živnostníčka|Priechod|
+1|12|Martin|Gábor|Ing.|49|lesný inžinier - pestovný technik|Košice|
+1|13|Anna|Jablonovská||67|dôchodkyňa|Poprad|
+1|14|Ľubomír|Zubčák|Ing.|62|odborný lesný hospodár|Zvolen|
+1|15|Juraj|Galbavý|Ing.|47|lesný inžinier - projektant|Bratislava|
+1|16|Peter|Halás|Ing.|62|dôchodca|Podbrezová|
+1|17|Dušan|Ďuriška|Ing.|58|vedúci projektant|Kameňany|
+1|18|Igor|Ďurana||56|živnostník|Banská Bystrica|
+1|19|Juraj|Pivka|Ing.|72|geodet|Banská Bystrica|
+1|20|Ivan|Ťapušík|Ing.|48|projektant - taxátor|Nitra|
+1|21|Roman|Štrba|Mgr.|54|manažér|Banská Bystrica|
+1|22|Ondrej|Drugda|Ing.|74|znalec v odbore lesníctvo|Lučenec|
+1|23|František|Kelemen|Ing.|60|samostatný projektant|Lučenec|
+1|24|Ján|Dilík||72|školský informátor|Banská Bystrica|
+1|25|Eduard|Samlek||71|spisovateľ|Tlmače|
+1|26|Marta|Dilíková||67|domáca|Banská Bystrica|
+1|27|Kristián|Korheľ||23|elektrotechnik|Blhovce|
+1|28|Miroslav|Zemko|PhDr.|48|majiteľ chránenej dielne|Banská Bystrica|
+1|29|Ondrej|Palanský||25|filmár|Banská Bystrica|
+1|30|Ľubomír|Fabian||56|dôchodca|Tlmače|
+1|31|Michal|Gubár||38|stavebný technik|Dolná Lehota|
+1|32|Dušan|Slobodník||62|hudobný skladateľ|Priechod|
+1|33|Ivan|Pokrívka||60|stavebný pracovník|Ostrý Grúň|
+1|34|Ivan|Franko||52|štátny zamestnanec|Priechod|
+1|35|Vojtech|Tóth||62|robotník|Orechová Potôň|
+1|36|Jozef|Valovič||47|strojár|Častkovce|
+1|37|Andrea|Macúriková||46|aranžérka|Ratkovská Suchá|
+1|38|Ján|Jambrich||61|technik|Banská Bystrica|
+1|39|Jozef|Katreniak||61|montážny technik|Banská Bystrica|
+2|1|Tomáš|Drucker|JUDr. Ing.|41|manažér|Bratislava|
+2|2|Lucia|Kurilovská|Dr.h.c. prof. JUDr., PhD.|52|rektorka, vysokoškolská pedagogička|Bratislava|
+2|3|Michal|Sýkora||66|starosta obce Štrba|Štrba|
+2|4|Katarína|Cséfalvayová|Ing., PhD.|34|vysokoškolská pedagogička, poslankyňa Národnej rady Slovenskej republiky|Dunajská Streda|
+2|5|Branislav|Becík|Ing., PhD.|42|starosta obce Dvory nad Žitavou|Dvory nad Žitavou|
+2|6|Anna|Ghannamová|Mgr.|50|riaditeľka centra sociálnych služieb|Bratislava|
+2|7|Rudolf|Kusý|Mgr.|43|starosta mestskej časti Bratislava - Nové Mesto|Bratislava|
+2|8|Tomáš|Kuča|Ing.|42|odborník na mediálnu komunikáciu, novinár|Zlaté Moravce|
+2|9|Martin|Fedor|Mgr., MEconSc.|45|poslanec Národnej rady Slovenskej republiky|Trenčianske Teplice|
+2|10|Peter|Kresák|doc. JUDr., CSc.|65|vysokoškolský učiteľ, právnik|Bratislava|
+2|11|Zuzana|Dolinková|JUDr.|37|právnička, výkonná riaditeľka Zväzu ambulantných poskytovateľov|Bratislava|
+2|12|Miroslav|Kočan|Mgr.|47|manažér|Bratislava|
+2|13|Radomír|Šalitroš|Ing., MIM|38|ekonóm|Košice|
+2|14|Miroslav|Kollár|Ing. Mgr., MPH|70|vysokoškolský učiteľ, občiansky aktivista|Bratislava|
+2|15|Marek|Dragula|Ing.|44|súkromný podnikateľ|Trebišov|
+2|16|Otokar|Klein|PhDr. Mgr. art.|45|primátor mesta Nové Zámky|Nové Zámky|
+2|17|Jaroslav|Kašuba|Mgr.|38|manažér|Nová Bystrica|
+2|18|Michal|Bobela||41|mladý farmár|Pichne|
+2|19|Viktor|Wiedermann|Ing.|50|primátor mesta Ilava|Ilava|
+2|20|Samuel|Vavrík|Ing.|34|manažér|Piešťany|
+2|21|Lukáš|Baňacký|Ing.|40|starosta mestskej časti Bratislava - Lamač|Bratislava|
+2|22|Tomáš|Suchý|JUDr., PhD.|37|advokát, vysokoškolský pedagóg|Žarnovica|
+2|23|Marcel|Maťovčík|Mgr.|47|prednosta Okresného úradu Martin|Martin|
+2|24|Renáta|Majchráková|Mgr.|50|starostka obce Svrčinovec|Svrčinovec|
+2|25|Ján|Palenčár||44|1. viceprezident Slovenského živnostenského zväzu|Bratislava|
+2|26|Peter|Zavada||48|manažér|Slovinky|
+2|27|Martin|Baran|Ing.|46|starosta obce Bešeňová|Bešeňová|
+2|28|František|Mikulášik|Ing.|58|riaditeľ marketingu|Kežmarok|
+2|29|Martin|Kanás|JUDr.|43|advokát|Šurany|
+2|30|Ľubomír|Fiksel|Ing.|38|prednosta Okresného úradu Partizánske|Partizánske|
+2|31|Branislav|Grimm|Mgr.|60|pedagóg|Senica|
+2|32|Martin|Pikus||38|technik|Horná Streda|
+2|33|Tibor|Horváth|Bc.|47|zamestnanec Obecného úradu Jasov|Košice|
+2|34|Michal|Rusko|Mgr.|55|zástupca riaditeľky, špeciálny pedagóg|Selce|
+2|35|Alexandra|Slobodová||42|aktivistka pre zdravotne postihnuté deti|Trnava|
+2|36|Richard|Oravec|Mgr.|38|živnostník|Pezinok|
+2|37|Roman|Osika|Ing.|48|vedúci oddelenia, Mestský úrad Žilina|Teplička nad Váhom|
+2|38|Martin|Kollár|MUDr.|40|stomatológ|Kolačkov|
+2|39|Vladimír|Svrček|Ing.|51|výkonný riaditeľ|Kysucké Nové Mesto|
+2|40|Ľubica|Karasová|Mgr.|48|starostka obce Palárikovo|Palárikovo|
+2|41|Miriam|Murgašová||44|medicínska reprezentantka|Košice|
+2|42|Viktoriia|Sikomas|Mgr.|33|psychologička|Drahovce|
+2|43|Ľubomír|Kršjak||59|majster odborného výcviku|Horná Ždaňa|
+2|44|Pavol|Hyravý||31|obchodník, predajca automobilov|Ružomberok|
+2|45|Martin|Lidaj|Ing.|42|manažér|Senica|
+2|46|Róbert|Srogončík|JUDr. Ing.|52|riaditeľ zariadenia sociálnych služieb|Námestovo|
+2|47|Milan|Papcun|Ing.|43|špecialista pobočkovej siete|Košice|
+2|48|Slavomír|Vosovič|Ing.|47|finančný poradca|Poprad|
+2|49|Felicita|Chromjaková|prof. Ing., PhD.|52|univerzitná profesorka|Kysucké Nové Mesto|
+2|50|Michal|Fáber|Mgr.|27|konzultant pre záležitosti Európskej únie|Horná Ždaňa|
+2|51|Miloš|Rybár|PhDr.|29|starosta obce Bánov|Bánov|
+2|52|Ľudovít|Fábry|Mgr.|51|odborný radca, Okresný úrad Partizánske|Cigeľ|
+2|53|Tomáš|Polák|Ing.|32|vedúci odboru, Okresný úrad Piešťany|Vrbové|
+2|54|Martin|Hollý|Ing.|45|podnikateľ|Bratislava|
+2|55|Tomáš|Hrušovský|Ing.|39|akvizičný riaditeľ|Dolná Trnávka|
+2|56|Martina|Šoltésová|Mgr.|35|hovorkyňa|Bratislava|
+2|57|Radovan|Prstek||21|učiteľ|Šaštín - Stráže|
+2|58|Vladimír|Pucheľ||56|riaditeľ|Šajdíkove Humence|
+2|59|Martin|Farbar|PaedDr.|40|pedagóg|Hraň|
+2|60|Pavol|Škorník|Mgr.|42|pedagóg|Korňa|
+2|61|Juraj|Koco|Ing.|62|výsluhový dôchodca|Snina|
+2|62|Andrea|Šulíková|Ing.|41|starostka obce Branovo|Branovo|
+2|63|Peter|Kalamen||37|podnikateľ|Partizánske|
+2|64|Roman|Oškera|PhDr.|50|riaditeľ|Limbach|
+2|65|Stanislav|Hromádka|Ing.|28|manažér sekcie|Handlová|
+2|66|Rastislav|Eliáš||42|manažér|Myjava|
+2|67|Martina|Klacek|Mgr.|40|vedúca odboru verejného obstarávania|Žiar nad Hronom|
+2|68|Ján|Žofčák||62|dôchodca|Moravany|
+2|69|Jozef|Zemanik||57|stavbyvedúci, stavebný dozor|Nové Zámky|
+2|70|Oto|Hlavatý|PhDr.|60|vysokoškolský pedagóg|Nové Zámky|
+2|71|Marcel|Čelinský||34|teamleader, manažér|Košice|
+2|72|Michal|Fundárek||32|prevádzkový manažér|Bytča|
+2|73|Ján|Pivovarník|JUDr.|63|dôchodca|Stará Ľubovňa|
+2|74|Boris|Koprda|Ing.|42|prednosta Obecného úradu Dvory nad Žitavou, ekonóm|Nové Zámky|
+2|75|Cyril|Cabadaj||39|starosta obce Žabokreky nad Nitrou|Žabokreky nad Nitrou|
+2|76|Michal|Verchola||59|dôchodca|Piešťany|
+2|77|Michal|Herda||29|poslanec Mestského zastupiteľstva Partizánske|Partizánske|
+2|78|Ján|Antal|Ing.|44|technik|Hnúšťa|
+2|79|Vratislav|Zimerman|Mgr.|29|živnostník|Trenčín|
+2|80|Radovan|Šulek||35|kuchár|Bratislava|
+2|81|Vanda|Koštialová|Mgr.|25|manažérka|Myjava|
+2|82|Daniel|Sklenčár|Bc.|25|študent právnickej fakulty|Humenné|
+2|83|Ľuboš|Kolárik|Mgr.|54|starosta obce Golianovo|Golianovo|
+2|84|Miroslav|Rác|Dr. h. c., DiS. art.|33|umelec, klavirista|Levice|
+2|85|Ivan|Brusnický|Mgr.|65|právnik|Horné Saliby|
+2|86|Tomáš|Leveš|Bc., MBE|23|samostatne zárobkovo činná osoba|Revúca|
+2|87|Alexandra|Pažúrová||28|medicínska reprezentantka|Zvolen|
+2|88|Ivan|Herda||49|občiansky aktivista|Tovarníky|
+2|89|Andrea|Švrčková|MUDr. Mgr., MHA|46|lekárka, ortopedička|Holíč|
+2|90|Juraj|Nižník||68|technik, ekonóm|Prešov|
+2|91|Veronika|Vilusová|Mgr.|26|právnička|Trebišov|
+2|92|Ján|Kosiba|doc. Ing., PhD.|36|vysokoškolský pedagóg|Podhájska|
+2|93|Juraj|Kľučár||35|samostatne zárobkovo činná osoba|Vranov nad Topľou|
+2|94|Norbert|Kádek|Ing.|51|viceprimátor mesta Nové Zámky, manažér|Nové Zámky|
+2|95|Adriana|Martošová|Ing.|27|doktorandka|Trenčín|
+2|96|Martin|Zachara||38|manažér|Hrubá Borša|
+2|97|Ľubomír|Jurík||72|spisovateľ|Bratislava|
+2|98|Daniel|Mnich|Ing.|40|podnikateľ|Žarnovica|
+2|99|Erik|Cimbala|Ing.|44|vedúci dopravy|Košice|
+2|100|Andrej|Kulik||65|dôchodca|Dlhé Klčovo|
+2|101|Mária|Bielešová||58|poslankyňa Mestského zastupiteľstva Partizánske|Partizánske|
+2|102|Justína|Besterciová|PaedDr.|26|personálna manažérka|Sečovce|
+2|103|Katarína|Cabadajová|Ing.|59|ekonómka|Komárno|
+2|104|Daniela|Vasiľová|Mgr.|43|špeciálna pedagogička|Svidník|
+2|105|Iveta|Rajčániová|Mgr.|53|riaditeľka základnej školy|Nové Zámky|
+2|106|Andrej|Grolmus|Mgr.|37|podnikateľ|Partizánske|
+2|107|Jarmila|Haringová||54|vedúca školskej jedálne|Koplotovce|
+2|108|Miroslav|Korec||31|programátor|Bošany|
+2|109|Marian|Mikloško|JUDr.|59|výsluhový dôchodca|Slovenská Ľupča|
+2|110|Andrej|Kažimir||54|koordinátor práce, lakovník|Gaboltov|
+2|111|Juraj|Mikloš|Mgr.|41|živnostník|Bratislava|
+2|112|Rudolf|Bilka|Ing.|69|audítor, ekonóm|Popudinské Močidľany|
+2|113|Tomáš|Szegedi|PhDr.|40|procesný inžinier|Košice|
+2|114|Marta|Kasášová|Mgr.|53|lektorka|Veľké Lovce|
+2|115|Peter|Kľučár||37|samostatne zárobkovo činná osoba|Vranov nad Topľou|
+2|116|Tibor|Černák||60|starosta obce Bardoňovo|Bardoňovo|
+2|117|Justína|Kalamenová||21|študentka vysokej školy|Trenčianske Bohuslavice|
+2|118|Peter|Repčík|Ing.|33|projektant|Hlohovec|
+2|119|Maroš|Hvizdák||40|geodet|Predmier|
+2|120|Andrea|Hagarová|Mgr. et. Mgr., MBA|35|realitná právnička|Banská Bystrica|
+2|121|Juraj|Sýkora|Mgr., MPH, MBA|46|riaditeľ|Baška|
+2|122|Michal|Bucko|Ing.|31|samostatne zárobkovo činná osoba|Lipany|
+2|123|Radoslav|Zamborský|MUDr., PhD., MPH|41|lekár, ortopéd, traumatológ|Bratislava|
+2|124|Marcel|Tóth|PhDr. et Bc.|41|zdravotnícky pracovník, manažér|Svätý Jur|
+2|125|Pavol|Jurkáček|Mgr.|62|manažér občianskeho združenia|Topoľčany|
+2|126|Pavol|Removčík|Ing.|59|manažér|Župčany|
+2|127|Jana|Oršulová|MUDr.|66|lekárka pre deti a dorast|Nové Zámky|
+2|128|Petra|Tothová||35|interiérová dizajnérka|Partizánske|
+2|129|Petra|Bednáriková|JUDr.|38|právnička|Nové Zámky|
+2|130|Ján|Becáni|Mgr.|32|právnik|Kokava nad Rimavicou|
+2|131|Jana|Podhorcová|Mgr.|33|advokátska koncipientka|Detva|
+2|132|Soňa|Matejíčková|Ing.|27|administratívno - ekonomická pracovníčka|Šurany|
+2|133|Olga|Randel|Mgr., PhD.|46|manažérka|Ruská Nová Ves|
+2|134|Diana|Bottliková|Ing.|25|obchodná manažérka|Kozárovce|
+2|135|Martin|Tomaško|Ing.|32|projektový manažér|Košice|
+2|136|Veronika|Dánielová|Bc.|33|pracovníčka Úradu práce, sociálnych vecí a rodiny|Košice|
+2|137|Dominik|Bilko|Ing.|39|súkromný podnikateľ|Komárno|
+2|138|Mária|Čuntová|Mgr.|32|terénna sociálna pracovníčka|Sabinov|
+2|139|Erika|Jurkáčeková||60|ekonómka|Topoľčany|
+2|140|Jana|Rexová|Ing.|56|vedúca pracovníčka|Nováky|
+2|141|Alena|Muzslayová||68|dôchodkyňa|Poprad|
+2|142|Andrea|Marić|Mgr.|44|štátna úradníčka|Bratislava|
+2|143|Peter|Ťulák|Bc.|25|živnostník|Myjava|
+2|144|Miroslav|Pálinkáš|Ing.|49|manažér|Nesvady|
+2|145|Róbert|Oravecz|Mgr.|60|vodič|Dubník|
+2|146|Rudolf|Dadulák|Mgr.|44|samostatne zárobkovo činná osoba|Košice|
+2|147|Peter|Jeleňák||38|podnikateľ|Spišská Belá|
+2|148|Igor|Húževka||58|zamestnanec bezpečnostnej služby|Bratislava|
+2|149|Anica|Medić|Bc.|25|študentka vysokej školy|Bratislava|
+2|150|Pavol|Konštiak|doc. Ing., PhD.|62|1. viceprezident Zväzu obchodu SR|Bratislava|
+3|1|Richard|Sulík|Ing.|52|predseda strany SaS|Bratislava|
+3|2|Lucia|Ďuriš Nicholsonová||43|europoslankyňa|Bratislava|
+3|3|Branislav|Gröhling|Mgr.|45|poslanec NR SR|Bratislava|
+3|4|Alojz|Baránik|JUDr.|65|advokát|Bratislava|
+3|5|Jana|Cigániková|Mgr., MBA|36|poslankyňa NR SR|Bratislava|
+3|6|Peter|Cmorej|Mgr. Ing.|36|finančný analytik|Bratislava|
+3|7|Karol|Galek|RNDr., MSc.|40|poslanec NR SR|Svit|
+3|8|Martin|Klus|doc. PhDr., PhD., MBA|39|poslanec NR SR|Banská Bystrica|
+3|9|Ján|Oravec|PhDr., CSc.|55|prezident Združenia podnikateľov Slovenska|Cerová|
+3|10|Juraj|Droba|Mgr., MBA, MA|48|predseda Bratislavského samosprávneho kraja|Bratislava|
+3|11|Jarmila|Halgašová|Ing.|56|podnikateľka, odborníčka na potraviny|Bratislava|
+3|12|Anna|Zemanová|RNDr.|60|environmentalistka, poslankyňa NR SR|Bratislava|
+3|13|Marián|Viskupič|RNDr. Ing.|42|poslanec NR SR|Šúrovce|
+3|14|Peter|Osuský|MUDr., CSc.|66|lekár, pedagóg, poslanec NR SR|Bratislava|
+3|15|Ondrej|Dostál|Mgr.|48|právnik, sociológ, poslanec NR SR|Bratislava|
+3|16|Miroslav|Žiak|Ing.|32|expert na potravinárstvo|Prievidza|
+3|17|Milan|Laurenčík|Ing.|61|poslanec NR SR|Terchová|
+3|18|Roman|Foltin|Ing., PhD.|53|generálny manažér SaS|Bratislava|
+3|19|Radovan|Sloboda|Ing.|53|športový manažér|Banská Bystrica|
+3|20|Radovan|Kazda|Ing.|48|vydavateľ|Bratislava|
+3|21|Ivan|Husár|Mgr.|57|tréner, manažér športového klubu|Šamorín|
+3|22|Ján|Rudolf|Ing., PhD.|42|expert na eurofondy|Veľké Úľany|
+3|23|Monika|Filipová|Mgr., PhD.|35|štátna zamestnankyňa|Čebovce|
+3|24|Jozef|Kanuščák||46|konateľ spoločnosti|Lipany|
+3|25|Anna|Paľovová|Mgr.|55|manažérka|Zvolen|
+3|26|Tomáš|Popovič|Bc.|24|právny asistent|Bratislava|
+3|27|Ladislav|Matejka|Ing.|37|stavebný technik|Trenčín|
+3|28|Zuzana|Zimenová|Mgr.|54|poslankyňa NR SR|Šamorín|
+3|29|Vladimír|Halaj|Mgr.|59|podnikateľ|Lučenec|
+3|30|Pavol|Milan|JUDr.|47|asistent europoslanca|Moldava nad Bodvou|
+3|31|Miroslav|Dráb|Mgr.|40|riaditeľ hokejového klubu|Dolný Kubín|
+3|32|Juraj|Petrovič|Mgr.|48|projektový manažér|Bratislava|
+3|33|Iveta|Pospíšilová|PhDr.|56|riaditeľka zariadenia pre seniorov|Považská Bystrica|
+3|34|Michal|Uherčík|Ing.|39|konzultant v priemysle|Martin|
+3|35|Juraj|Jevin|Ing.|33|starosta|Pusté Čemerné|
+3|36|Miloš|Domorák||49|živnostník|Bratislava|
+3|37|Peter|Jurčo|Ing.|46|produktový manažér|Liptovský Mikuláš|
+3|38|Radovan|Geci||42|podnikateľ, manažér|Michalovce|
+3|39|Peter|Čech|Ing.|47|elektrotechnik|Košice|
+3|40|Ján|Luterán|JUDr.|35|advokát|Prešov|
+3|41|Marek|Juro|Mgr.|45|manažér|Humenné|
+3|42|Ľudovít|Beťko|Ing.|39|projektant|Ružomberok|
+3|43|Jozef|Pajer|JUDr.|52|advokát|Čadca|
+3|44|Maroš|Skopal|Mgr.|40|riaditeľ školy|Krupina|
+3|45|Ľudovít|Paulis|MUDr. RNDr., PhD.|38|vysokoškolský učiteľ|Nitra|
+3|46|Juraj|Blusk|Ing.|41|súkromný podnikateľ|Kostolište|
+3|47|Pavol|Kalman|Ing.|54|ekonóm|Senica|
+3|48|Slavomír|Božoň|Ing.|48|stavebný inžinier|Poprad|
+3|49|Vladimír|Poruban|Ing.|38|projektový manažér|Trenčín|
+3|50|Polat|Elalmis||30|podnikateľ|Bratislava|
+3|51|Soňa|Tchirová|JUDr.|44|právnička|Svidník|
+3|52|Beáta|Badibangová||49|zástupkyňa starostu|Strečno|
+3|53|Rudolf|Drexler|Ing.|56|IT manažér|Kysucké Nové Mesto|
+3|54|Boris|Kačáni|Ing.|55|vedúci oddelenia výstavby mestského úradu Stupava|Bratislava|
+3|55|Ivan|Holko|doc. MVDr., PhD.|47|veterinárny lekár|Preseľany|
+3|56|Zaher|Mahmoud|MUDr.|62|lekár - chirurg|Lučenec|
+3|57|Ivan|Debnár|Ing.|31|finančný kontrolór|Zlaté Moravce|
+3|58|Jarmila|Tesková|Mgr.|53|riaditeľka školy|Považská Bystrica|
+3|59|Robert|Tánczos|Ing., Bc.|44|výsluhový dôchodca|Jahodná|
+3|60|Andrej|Buday|Ing.|68|živnostník|Prešov|
+3|61|Ľuboš|Sopoliga|Mgr.|43|špeciálny pedagóg|Hanušovce nad Topľou|
+3|62|Ľudmila|Smreková|Mgr.|43|administratívna pracovníčka|Stará Ľubovňa|
+3|63|Roman|Hudík|Ing.|44|technik|Bernolákovo|
+3|64|Martin|Pilnik|Mgr.|47|lekárnik|Lovčica - Trubín|
+3|65|Branislav|Bukviar||27|podnikateľ|Rimavská Sobota|
+3|66|Daniel|Kravec|Mgr.|28|advokátsky koncipient|Trnava|
+3|67|Martin|Práznovský|JUDr.|46|podnikateľ|Pata|
+3|68|Miroslav|Procháska|Mgr.|44|konateľ|Prievidza|
+3|69|Michal|Kováč|Ing.|41|podnikateľ|Lučenec|
+3|70|Ondrej|Gömöry|Mgr.|38|učiteľ|Veľký Krtíš|
+3|71|Štefan|Duffek|Ing.|55|informatik|Holíč|
+3|72|Dušan|Šaradín||49|podnikateľ|Levoča|
+3|73|Juraj|Krátky|Ing.|50|projektový manažér|Žiar nad Hronom|
+3|74|Peter|Briestenský|Ing.|54|manažér|Bytča|
+3|75|Igor|Prieložný|Bc.|36|remeselník, filmár|Bratislava|
+3|76|Peter|Ševčík|Ing.|30|podnikateľ|Bánovce nad Bebravou|
+3|77|Sylvia|Jánosdeák||39|manažérka prevádzky|Plešivec|
+3|78|Michal|Hlatký||35|facility manažér|Stará Turá|
+3|79|Michal|Gallik|Ing.|33|IT konzultant|Lendak|
+3|80|Vladislav|Krasický||41|riaditeľ logistiky|Moravany nad Váhom|
+3|81|Štefan|Nemlaha||46|realitný maklér|Bratislava|
+3|82|Lenka|Jakubčová|Mgr.|36|advokátka|Bratislava|
+3|83|Pavol|Žák||36|projektový manažér|Liptovská Sielnica|
+3|84|Marián|Václavík|Ing.|50|technik|Bratislava|
+3|85|Ivan|Bilohuščin|Ing.|34|finančný analytik|Bratislava|
+3|86|Róbert|Klimo|Ing.|41|špecialista na výdajné automaty|Martin|
+3|87|Richard|Sklenka||47|SZČO|Martin|
+3|88|Peter|Pacek|Ing.|39|audítor|Považská Bystrica|
+3|89|Ľudmila|Zajacová|RNDr., CSc.|70|dôchodkyňa|Bratislava|
+3|90|Vladimír|Hojstrič|Mgr.|31|asistent poslanca NR SR|Prakovce|
+3|91|Martina|Lopatková|PhDr.|26|asistentka poslankyne NR SR|Naháč|
+3|92|Michal|Kečkéš||27|vzťahový manager|Bratislava|
+3|93|Dušan|Rusňák|Ing.|41|riaditeľ príspevkovej organizácie mesta|Malacky|
+3|94|Ľubomír|Pätoprstý||54|projektový manažér|Bratislava|
+3|95|Michal|Smolka||32|živnostník|Dolný Kubín|
+3|96|Filip|Fianta|Mgr.|34|podnikateľ|Slovenský Grob|
+3|97|Marcel|Suchár|Mgr.|49|euroadvokát|Bratislava|
+3|98|Ladislav|Miko||29|youtuber|Bratislava|
+3|99|Jozef|Bitala||57|podnikateľ|Veľké Rovné|
+3|100|Milan Ján|Pilip|Mgr.|39|štátny zamestnanec|Bardejov|
+3|101|Zuzana|Aufrichtová||44|architektka, starostka MČ Bratislava-Staré Mesto|Bratislava|
+3|102|Michael|Hanzalík||22|študent|Ruskovce|
+3|103|Lukáš|Čelinák|Mgr.|30|referent vzdelávania|Nitra|
+3|104|Vladimír|Švec||48|podnikateľ|Terchová|
+3|105|Jozef|Tittel|Bc.|29|ekonóm|Bratislava|
+3|106|Ivan|Drienik||30|IT projekt manažér|Považská Bystrica|
+3|107|Jakub|Zápala|Bc.|27|SZČO - podnikateľ|Bratislava|
+3|108|Igor|Mičech|JUDr.|32|právnik|Gbeľany|
+3|109|Tibor|Bindas|MUDr.|56|nezamestnaný|Prešov|
+3|110|Pavel|Vrábik|Ing.|40|projektový manažér|Bratislava|
+3|111|Ľuboš|Filiač|MUDr.|35|lekár|Podolínec|
+3|112|Kristína|Kováčová|Bc.|23|študentka|Veľký Ďur|
+3|113|Ladislav|Kuna||21|študent|Myjava|
+3|114|Róbert|Kašša|Mgr.|44|novinár, športový tréner|Žilina|
+3|115|Matej|Galo||34|compliance manager|Vrbové|
+3|116|Ján|Kelemen|Ing.|37|živnostník|Senec|
+3|117|Anton|Turoň|Ing., PhD.|50|znalec|Žilina|
+3|118|Andrej|Antal||22|študent|Bratislava|
+3|119|Zuzana|Šubová|Ing.|50|realitná maklérka|Bratislava|
+3|120|Martin|Barto|Ing., CSc.|61|konzultant|Bratislava|
+3|121|Andrej|Hučko|Bc.|30|regionálny manažér|Bratislava|
+3|122|Michal|Kubinský|Ing.|34|informačný technik|Bratislava|
+3|123|Michal|Komada|Mgr.|33|učiteľ|Veľký Krtíš|
+3|124|Marcela|Zvrškovcová||37|podnikateľka|Banská Štiavnica|
+3|125|Daniel|Juráček|Mgr.|44|starosta|Bošáca|
+3|126|Andrej|Sumka||22|študent|Žabokreky|
+3|127|Marek|Borik||41|živnostník|Prievidza|
+3|128|Stanislav|Mihalkovič||60|dôchodca|Trnava|
+3|129|Jozef|Kramec|Mgr.|45|podnikateľ, živnostník|Lučenec|
+3|130|Andrej|Pirník|Ing.|43|SZČO|Medzilaborce|
+3|131|Juraj|Lednický||32|operátor výroby|Púchov|
+3|132|Vladimír|Vittek||22|študent|Hamuliakovo|
+3|133|Stanislav|Vančo|Ing.|52|prekladateľ|Trnava|
+3|134|Lukáš|Bonko|Ing.|30|vedúci interného auditu|Bratislava|
+3|135|Matej|Matušech|Ing.|25|živnostník|Svinná|
+3|136|Peter|Polák|Ing., PhD.|46|poľnohospodársky odborník|Veľká Dolina|
+3|137|Marcel|Sivák||37|bankový manažér|Snina|
+3|138|Róbert|Olšiak||41|obchodný manažér|Zvolen|
+3|139|Karol|Uváčik|Ing.|51|podnikateľ|Trenčín|
+3|140|Gabriela|Fedičová|Mgr.|40|preventistka mestskej polície, redaktorka, spisovateľka|Veľké Kapušany|
+3|141|Ján|Ciglan||56|podnikateľ|Podbrezová|
+3|142|Tomáš|Moravčík|Mgr.|34|projektový manažér|Dolný Kubín|
+3|143|Michal|Sklienka|Ing.|38|manažér hotela|Veličná|
+3|144|Peter|Andráši|Ing.|52|podnikateľ|Šaľa|
+3|145|Peter|Žiak|Ing.|41|manažér plánovania|Levice|
+3|146|Juraj|Olejček|DiS.art|72|správca nehnuteľnosti|Poniky|
+3|147|Mária|Urbanová||60|asistentka europoslanca|Banská Bystrica|
+3|148|Jozef|Drahovský||56|dopravný analytik|Bratislava|
+3|149|Branislav|Bosák|Ing.|49|ekonóm|Banská Bystrica|
+4|1|Boris|Kollár|Mgr.|54|poslanec NR SR|Bratislava|
+4|2|Milan|Krajniak|Bc.|47|poslanec NR SR|Bratislava|
+4|3|Petra|Krištúfková|Bc.|42|poslankyňa NR SR|Bratislava|
+4|4|Peter|Pčolinský|Mgr.|37|poslanec NR SR|Nižný Hrabovec|
+4|5|Ľudovít|Goga|Ing.|51|poslanec NR SR|Bratislava|
+4|6|Adriana|Pčolinská|doc. PaedDr., PhD.|41|poslankyňa NR SR|Bratislava|
+4|7|Zuzana|Šebová|Ing.|50|poslankyňa NR SR|Levice|
+4|8|Jozef|Lukáč|PhDr.|46|poslanec NR SR|Záborské|
+4|9|Štefan|Holý|Mgr.|41|právnik|Trnava|
+4|10|Martin|Borguľa|Ing.|42|poslanec BSK|Bratislava|
+4|11|Ľuboš|Krajčír|PhDr.|33|zástupca starostu|Bratislava|
+4|12|Monika|Péter|JUDr.|40|právnička|Bratislava|
+4|13|Miloš|Svrček|JUDr. Bc., PhD., LL.M.|36|generálny manažér hnutia|Michalovce|
+4|14|Petra|Hajšelová|JUDr.|37|právnička|Prievidza|
+4|15|Igor|Kašper|Ing.|40|krajský poslanec, ekonóm|Banská Bystrica|
+4|16|Jaroslav|Karahuta|MVDr.|58|riaditeľ spoločnosti|Vyšná Šebastová|
+4|17|Jozef|Hlinka|Ing., PhD.|56|živnostník|Bratislava|
+4|18|Eva|Hudecová|Mgr.|30|politologička|Nitra|
+4|19|Ľuboš|Kabát||48|SZČO|Biely Kostol|
+4|20|Martin|Dzielavský|Mgr.|38|podnikateľ|Trebišov|
+4|21|Jozef|Mozol|Mgr.|32|moderátor|Krásno nad Kysucou|
+4|22|Róbert|Bartoš||49|konateľ spoločnosti|Nové Zámky|
+4|23|Marek|Košč||47|key account manager|Prešov|
+4|24|Martin|Petriska||23|študent univerzity|Zvolen|
+4|25|Ján|Mizerák|Ing.|59|podnikateľ|Banská Bystrica|
+4|26|Matúš|Méheš|JUDr.|39|advokát|Bratislava|
+4|27|Ľuboš|Šuca||36|podnikateľ|Spišská Nová Ves|
+4|28|Radomír|Kizek||43|SZČO|Medzany|
+4|29|Marcela|Kulifajová|Ing.|45|konzultantka v oblasti vzdelávania|Bratislava|
+4|30|Michal|Gašaj|Ing., PhD.|37|vicestarosta|Bratislava|
+4|31|Daniel|Gelien|Mgr.|44|starosta obce|Slaská|
+4|32|Ján|Jedinák|Bc.|29|IT architekt|Kežmarok|
+4|33|Lukáš|Pčolinský|Mgr.|34|pedagóg|Nižný Hrabovec|
+4|34|Sylvia|Horváthová|Mgr.|40|psychologička|Lok|
+4|35|Rastislav|Kunst|Mgr.|47|riaditeľ ZŠ s MŠ|Bratislava|
+4|36|Dalibor|Steindl|Ing., MBA|43|riaditeľ|Martin|
+4|37|Gizela|Kevélyová||49|manažérka vzdelávania|Veľký Kýr|
+4|38|Martin|Meričko|Ing.|30|starosta obce|Lukačovce|
+4|39|Ján|Paško|Mgr.|34|manažér|Važec|
+4|40|Tomáš|Gbúr|MBA|26|manažér|Banská Bystrica|
+4|41|Zuzana|Chamulová||56|detská sestra|Vígľaš|
+4|42|Dušan|Havlík|Ing.|45|finančný manažér|Nové Zámky|
+4|43|Lenka|Hierzer Štiber|Bc.|41|starostka obce|Slovenská Kajňa|
+4|44|Daniel|Ručkay||42|SZČO|Piešťany|
+4|45|Sylvia|Kulašik||54|manažérka|Bratislava|
+4|46|Richard|Rosival||39|mestský policajt|Košice|
+4|47|Silvia|Chudá||43|špecialistka rozvoja maloobchodnej siete|Trnava|
+4|48|Katarína|Heredošová|Mgr., DiS. art.|44|riaditeľka školy|Sabinov|
+4|49|Roland|Kečkéš|Bc.|32|country manager|Nitra|
+4|50|Marcel|Janco|Ing.|44|znalec v odbore cestná doprava|Považská Bystrica|
+4|51|Jana|Plšková|Mgr.|44|klientská pracovníčka banky|Zamarovce|
+4|52|Vladimír|Čech||54|živnostník|Žilina|
+4|53|Regan|Belovič|MUDr. Mgr.|49|podnikateľ|Šaľa|
+4|54|Patrik|Živojinov|Bc.|39|odborný poradca|Ilava|
+4|55|Michal|Michalov|Ing., MBA|35|súkromný podnikateľ|Košice|
+4|56|Juraj|Moravčík|Mgr.|35|štátny zamestnanec|Šamorín|
+4|57|Michal|Kňažek||40|operátor výroby|Bolešov|
+4|58|Ján|Vengrín||45|mestský policajt|Tisovec|
+4|59|Marián|Kráľ|Mgr.|42|hovorca mesta|Čadca|
+4|60|Miroslav|Pisko||50|poisťovací poradca|Prakovce|
+4|61|Michaela|Gašparíková||26|konateľka|Žilina|
+4|62|Mária|Čujová|Mgr.|40|riaditeľka materskej školy|Spišská Nová Ves|
+4|63|Ľuboslav|Chvasta||57|živnostník|Laškovce|
+4|64|Ján|Kucman|Mgr.|37|projektový manažér|Trnava|
+4|65|Katarína|Líška||41|ekonómka|Jedľové Kostoľany|
+4|66|Milan|Bezák||41|podnikateľ|Žabokreky nad Nitrou|
+4|67|Andrea|Krajčiová|Bc.|36|pomocná vychovávateľka|Jasenie|
+4|68|František|Kmec||41|technik BOZP|Kysak|
+4|69|Zuzana|Jurčenková||40|SZČO|Prešov|
+4|70|Ján|Sarvaš|Mgr.|40|starosta|Majerovce|
+4|71|Michal|Vicáň|Mgr.|35|manažér pre stratégiu a rozvoj|Bratislava|
+4|72|Ján|Skukálek||44|SZČO|Trnava|
+4|73|Alena|Krišková||65|majsterka odborného výcviku|Podolie|
+4|74|Peter|Janda|Ing., PhD.|31|vedúci kvality inžinierov|Zvolen|
+4|75|Samuel|Zemko||29|obchodný zástupca|Šaľa|
+4|76|Patrik|Špalek|PaedDr.|27|revízny technik|Oščadnica|
+4|77|Dávid|Béreš|JUDr.|27|advokátsky koncipient|Bratislava|
+4|78|Gábor|Oros|Mgr.|29|právnik|Galanta|
+4|79|Lambert|Kajanovič||35|obchodný manažér|Nové Zámky|
+4|80|Erika|Ďurdíková||48|SZČO|Púchov|
+4|81|Roman|Vajaš|Mgr.|47|projektový manažér|Myjava|
+4|82|Ladislav|Černý|Mgr.|43|lekárnik|Veľký Krtíš|
+4|83|Martin|Rusnák||40|riaditeľ|Námestovo|
+4|84|Ján|Gondek||52|starosta obce|Lesnica|
+4|85|Attila|Widerman|Ing.|33|výkonný riaditeľ|Galanta|
+4|86|Jana|Germanová|Bc.|40|poistná managerka|Trebišov|
+4|87|Anna|Domianová|Ing.|55|podnikateľka|Nitra|
+4|88|Milan|Molnár|Mgr.|47|riaditeľ školy|Lučenec|
+4|89|Tomáš|Kujan||38|konateľ|Žilina|
+4|90|Jana|Lučová||30|SZČO|Bardejov|
+4|91|Ján|Frankovič|Ing.|44|ekonóm|Košice|
+4|92|Július|Chovanec||51|manager|Bratislava|
+4|93|Ján|Bihari|Mgr.|43|projektový manažér|Sereď|
+4|94|Adrián|Vrečič||28|podnikateľ|Komárno|
+4|95|Pavel|Hazucha|Ing.|44|učiteľ odborných predmetov|Partizánske|
+4|96|František|Chamula||59|invalidný dôchodca|Vígľaš|
+4|97|Ingrida|Stankovianska|Mgr.|38|referentka vo verejnej správe|Ľubeľa|
+4|98|Juraj|Adam|Mgr.|31|manažér|Drienica|
+4|99|Ladislav|Šutý|Ing.|57|asistent poslanca NR SR|Bratislava|
+4|100|Patrick|Linhart|BSc.|43|potravinový kritik|Bratislava|
+4|101|Tomáš|Kinik|Ing.|35|regionálny manažér|Prešov|
+4|102|Lukáš|Tóth||32|podnikateľ|Lehnice|
+4|103|Norbert|Járik||42|vedúci skladového hospodárstva|Bánov|
+4|104|Boris|Ilkyw|Ing.|38|pracovník v IT sfére|Trenčín|
+4|105|Tibor|Pipas|MUDr.|52|lekár|Tornaľa|
+4|106|Peter|Sieklik||49|konateľ|Ružomberok|
+4|107|Marek|Sapara|Bc.|44|mestský policajt|Levoča|
+4|108|Róbert|Šegeda|JUDr.|43|advokát|Malacky|
+4|109|Patrik|Sloboda|Bc.|27|process engineer|Holíč|
+4|110|Miroslav|Bauer|Ing.|58|SZČO|Bratislava|
+4|111|Liliana|Štefanková|Ing.|62|starobná dôchodkyňa|Topoľčany|
+4|112|Daniela|Tuchyňová||54|vedúca personálneho oddelenia|Prievidza|
+4|113|Milan|Vetrák||45|bezpečnostný pracovník|Brezno|
+4|114|Roman|Rosenberg||53|podnikateľ|Žilina|
+4|115|Martin|Rogovský|Mgr.|42|manažér|Košice|
+4|116|Martin|Ondruš|MUDr.|52|lekár - stomatológ|Bratislava|
+4|117|Mário|Obuch|Mgr.|47|kontrolór|Lehnice|
+4|118|Viera|Reich|Mgr.|53|živnostníčka|Kopčany|
+4|119|Klára|Cigáňová|Bc.|48|pedagogická asistentka|Jelšovce|
+4|120|Radovan|Bíreš||31|SZČO|Stará Turá|
+4|121|Tomáš|Vitéz||36|SZČO|Poltár|
+4|122|Ľuboš|Gottwald|Mgr.|34|projektový manažér|Vrútky|
+4|123|Marián|Mečír|JUDr., PhD.|30|právnik|Veľké Kostoľany|
+4|124|Ján|Tomáš|BSBA|39|portfólio manager v IT|Trnávka|
+4|125|Jakub|Pandoš||22|študent|Lackovce|
+4|126|Boris|Kuzmický|PhDr.|41|podnikateľ|Nitra|
+4|127|Martin|Ježík||34|obchodný predajca|Bánovce nad Bebravou|
+4|128|Erika|Revajová|PhDr.|39|riaditeľka|Ružomberok|
+4|129|Ján|Muránsky|Ing.|35|SZČO|Hnúšťa|
+4|130|Tibor|Andráš|Bc.|31|operátor výroby|Svit|
+4|131|Daniel|Moravčík|Mgr.|26|key account manager|Malé Leváre|
+4|132|Martin|Ondrúšek||36|súkromný podnikateľ|Orovnica|
+4|133|Zuzana|Achbergerová|Bc.|42|konateľka realitnej kancelárie|Svätý Jur|
+4|134|Slavomír|Sakalik||46|manažér spoločnosti|Svidník|X
+4|135|Monika|Jankovičová|JUDr.|49|projektová managerka, právnička|Košice|
+4|136|Róbert|Kováč||52|poradca - ochrana spotrebiteľa|Nové Zámky|
+4|137|Peter|Klement||46|nastavovač CNC strojov|Brezová pod Bradlom|
+4|138|Jaroslav|Matovič|JUDr.|45|vedúci referátu|Modra|
+4|139|Richard|Smitka|Mgr.|25|advokátsky koncipient|Dolný Kubín|
+4|140|Dominik|Šotik||21|študent|Prešov|
+4|141|Andrea|Čajkovičová||48|administratívna pracovníčka|Pezinok|
+4|142|Michal|Tomin|Bc.|23|právnik|Červeník|
+4|143|Dominika|Zambová||35|rodičovská dovolenka|Košice|
+4|144|Hedviga|Machayová|Bc.|35|podnikateľka v oblasti BOZP a OPP|Zvolen|
+4|145|Norbert|Mihalik||45|predák|Košice|
+4|146|Maroš|Mačuha|Mgr., PhD.|46|SZČO|Bratislava|
+4|147|Marián|Šinkovič|Mgr.|49|manažér|Pečeňady|
+4|148|Daniel|Brogyányi|MgA.|61|výtvarník|Bratislava|
+4|149|Jozef|Dušenka|Ing.|53|konateľ spoločnosti|Prešov|
+4|150|Pavol|Weiss|Mgr. art.|57|spisovateľ - dramatik|Bratislava|
+5|1|Róbert|Švec||43|politológ|Nitra|
+5|2|Marián|Chudý||41|SZČO|Leopoldov|
+5|3|Pavol|Poprocký|Bc.|24|študent|Rumince|
+5|4|Pavol|Skýpala||38|pracovník vo výrobe|Poltár|
+5|5|Alžbeta|Szénásiová||54|SZČO|Levice|
+5|6|Radomír|Pikna|Mgr.|47|administratívny pracovník|Leopoldov|
+5|7|Daniela|Fratričová||34|SZČO|Leopoldov|
+5|8|Maroš|Sabolčák||39|manažér|Podlužany|
+5|9|Rastislav|Bartoš|Ing.|34|SZČO|Malé Zlievce|
+5|10|Pavol|Soóš||33|konateľ s. r. o.|Stropkov|
+5|11|Katarína|Boková||37|dispečerka|Turčianske Kľačany|
+5|12|Jaroslava|Samuelová||54|opatrovateľka|Maňa|
+5|13|Marcel|Polačik||30|vedúci smeny|Nitra|
+5|14|Adam|Kurinec||29|produktový expert|Leopoldov|
+5|15|Svetana|Angelová||67|dôchodkyňa|Príbovce|
+5|16|Ľuboš|Sukup||34|java developer|Skalica|
+5|17|František|Šípoš||52|mechanik|Omšenie|
+5|18|Ivana|Hreháčová||52|referentka|Trebišov|
+5|19|Ivan|Chudý|Ing.|48|podnikateľ|Topoľčany|
+5|20|Gabriel|Huraj|Ing.|47|SZČO|Sabinov|
+5|21|Peter|Višnyi||65|SZČO|Košice|
+5|22|Ladislav|Kopel||57|zriaďovač|Martin|
+5|23|Martina|Sabolčáková|Ing.|38|inšpektorka|Podlužany|
+5|24|Jozef|Pištek|Ing.|63|dôchodca|Čadca|
+5|25|Natália|Klempaiová|Ing.|65|dôchodkyňa|Námestovo|
+6|1|Andrej|Kiska|Ing.|57|predseda strany ZA ĽUDÍ|Poprad|
+6|2|Veronika|Remišová|Mgr. art., M. A., ArtD.|43|poslankyňa Národnej rady SR|Bratislava|
+6|3|Juraj|Šeliga|Mgr.|29|právnik, podpredseda strany ZA ĽUDÍ|Hruštín|
+6|4|Jana|Žitňanská|Mgr.|45|podpredsedníčka strany ZA ĽUDÍ|Bratislava|
+6|5|Vladimír|Ledecký|PhDr.|54|starosta obce Spišský Hrhov|Spišský Hrhov|
+6|6|Michal|Luciak|Mgr.|40|podpredseda strany ZA ĽUDÍ|Bratislava|
+6|7|Mária|Kolíková|Mgr.|45|advokátka|Bratislava|
+6|8|Miroslav|Kollár|Ing.|50|primátor mesta Hlohovec|Hlohovec|
+6|9|Tomáš|Valášek|M. A.|47|diplomat a zahraničnopolitický expert|Bratislava|
+6|10|Marek|Hattas||32|primátor mesta Nitra|Nitra|
+6|11|Vladimíra|Marcinková|Mgr.|28|právnička a odborníčka pre oblasť sociálnych vecí|Spišský Hrhov|
+6|12|Tomáš|Lehotský|Ing.|40|projektový manažér|Poprad|
+6|13|Marek|Antal|Ing.|53|manažér|Košice|
+6|14|Alexandra|Pivková|PhDr.|55|primátorka mesta Lučenec|Lučenec|
+6|15|Viera|Leščáková|PaedDr.|45|riaditeľka školy|Veľký Šariš|
+6|16|Miriam|Šuteková|Mgr.|45|riaditeľka odboru ŽSK|Žilina|
+6|17|Andrea|Letanovská|MUDr., PhD.|50|lekárka|Bratislava|
+6|18|Michal|Kovács|Ing., PhD.|33|odborník na školstvo, vzdelávanie a vedu|Bratislava|
+6|19|Tomáš|Meravý|Ing.|34|ekonóm|Viničné|
+6|20|Marek|Machata|Mgr. et Mgr.|37|odborník pre oblasť sociálnych vecí|Bratislava|
+6|21|Csaba|Kiss||54|riaditeľ galérie|Šamorín|
+6|22|Zuzana|Kumanová|Mgr., PhD.|50|etnografka|Bratislava|
+6|23|Liliana|Rástocká|MSc.|30|environmentalistka|Bratislava|
+6|24|Vladimír|Dolinay|Mgr.|38|učiteľ|Bratislava|
+6|25|Marek|Krempaský|MVDr., PhD.|33|veterinárny lekár|Spišské Hanušovce|
+6|26|Miloslav|Baco|Mgr.|45|manažér obchodnej spoločnosti|Trenčín|
+6|27|Tomáš|Smutný|Ing.|29|manažér|Dúbravy|
+6|28|Jakub|Tomiš|Mgr.|28|regionálny aktivista|Dolný Lopašov|
+6|29|Dušan|Velič|doc. Dr. Ing., DrSc.|53|vysokoškolský pedagóg a vedec|Bratislava|
+6|30|Tomáš|Martaus|JUDr.|28|právnik|Liptovský Mikuláš|
+6|31|František|Majerský|Mgr.|35|záchranár|Poprad|
+6|32|Martin|Kvetko||26|živnostník|Muránska Dlhá Lúka|
+6|33|Martin|Kríž|Mgr.|45|pedagóg|Pezinok|
+6|34|Stanislav|Thomka|Ing.|35|projektový manažér a poslanec zastupiteľstva ŽSK|Martin|
+6|35|Janka|Šípošová|PhDr., CSc.|70|dôchodkyňa|Bratislava|
+6|36|Anna|Laurinec Šmehilová|PhDr., PhD.|40|odborná garantka sociálnych služieb|Nitra|
+6|37|Martin|Kasarda|doc. PhDr., Dr.|51|vysokoškolský pedagóg|Lehnice|
+6|38|Zuzana|Želinská|Ing.|37|finančná riaditeľka|Košice|
+6|39|Tomáš|Kozák|PaedDr.|33|manažér|Prievidza|
+6|40|Filip|Barbarič|JUDr., MPH|31|manažér v zdravotníctve|Nitra|
+6|41|Pavel|Kmeč|MUDr.|63|lekár - kardiológ|Banská Bystrica|
+6|42|Peter|Dobiš|Ing.|39|výkonný riaditeľ|Veľký Biel|
+6|43|Oliver|Berecz|Mgr.|36|starosta obce Trnovec nad Váhom|Trnovec nad Váhom|
+6|44|Milan|Oršula|Ing.|36|manažér v automobilke|Považská Bystrica|
+6|45|Peter|Huba|JUDr. Ing., PhD.|34|právnik|Košice|
+6|46|Eva|Wernerová|Ing.|59|krajinná architektka, majiteľka ateliéru|Piešťany|
+6|47|Miroslav|Medvecký|Mgr.|49|ekonóm|Ochodnica|
+6|48|Rastislav|Hauliš|Mgr.|42|obchodný manažér|Hlohovec|
+6|49|Martin|Šefc|PhDr. Mgr., MPH|41|manažér záchrannej služby|Vikartovce|
+6|50|Ján|Buocik|Mgr.|42|advokát|Bratislava|
+6|51|Marek|Ledecký|Ing.|38|manažér|Košické Oľšany|
+6|52|Ján|Karman|Ing.|38|stavebný inžinier|Bratislava|
+6|53|Ladislav|Mášik|JUDr., LL.M., MBA|42|právnik|Nitra|
+6|54|Valéria|Mokrá|MUDr.|49|lekárka|Poruba|
+6|55|Tibor|Kompuš||53|podnikateľ|Košice|
+6|56|Marian|Berky|Mgr.|42|pedagóg|Lučenec|
+6|57|Jozef|Varmus|JUDr., PhD.|60|advokát|Čadca|
+6|58|Patrik|Dubovský|Mgr., PhD.|54|vedecký pracovník Ústavu pamäti národa|Dunajská Streda|
+6|59|Michal|Didik||45|starosta obce Čirč|Čirč|
+6|60|Ľubomír|Boháč|Ing. arch.|62|architekt|Bratislava|
+6|61|Tatiana|Hrindová|PhDr., PhD.|52|sestra - vysokoškolská pedagogička|Krásnovce|
+6|62|Michal|Kardoš|Ing.|36|odborník na hospodárstvo a inovácie|Bratislava|
+6|63|Jarmila|Králová|Ing., PhD.|48|fytopatologička|Nitra|
+6|64|Monika|Faltinková||43|manažérka|Trenčín|
+6|65|Martin|Sopko|Ing.|35|projektový manažér|Košice|
+6|66|Jaroslav|Matzenauer||42|manažér|Rimavská Sobota|
+6|67|Richard|Hrubý|MUDr., PhD., MBA|50|lekár - onkológ|Žilina|
+6|68|Marek|Polonec|Bc.|45|konateľ|Trnava|
+6|69|Magdaléna|Čurillová||28|účtovníčka, mzdárka a personalistka|Levoča|
+6|70|Martin|Kanovský|prof. Mgr., PhD.|49|vysokoškolský pedagóg|Bratislava|
+6|71|Branislav|Pupala|prof. PhDr., CSc.|54|vysokoškolský pedagóg|Bratislava|
+6|72|Klára|Dynisová|Bc.|55|organizačno-administratívna pracovníčka|Bratislava|
+6|73|Štefan|Tomaščin|Bc.|46|ekonóm|Hurbanovo|
+6|74|Pavol|Jurkovič|Ing.|62|súdny znalec|Prievidza|
+6|75|Eduard|Mihók|Mgr.|59|učiteľ|Rožňava|
+6|76|Zuzana|Jančová|Ing.|43|odborná referentka|Sielnica|
+6|77|Radovan|Ondrejka|Mgr.|38|riaditeľ spoločnosti|Liptovské Sliače|
+6|78|Michal|Kolínek||40|finančný poradca|Skalica|
+6|79|Ľudmila|Andrejková|Mgr.|37|SZČO|Hanušovce nad Topľou|
+6|80|Róbert|Pajdlhauser|Ing.|52|projektový manažér|Bratislava|
+6|81|Erik|Jedinák|Ing.|31|manažér|Sukov|
+6|82|Tomáš|Galo|Ing.|44|manažér pre oblasť automatizácie|Bratislava|
+6|83|Marek|Polák|Bc.|46|vedúci strediska tesárov a železiarov|Trnovec nad Váhom|
+6|84|Dagmar|Štiavnická|PhDr., PhD., MBA|59|riaditeľka zariadenia pre seniorov|Považská Bystrica|
+6|85|Slavomír|Čižmár|Ing.|44|obchodný riaditeľ|Michalovce|
+6|86|Dušan|Tuček||30|podnikateľ|Detva|
+6|87|Ivan|Dudáš|Ing.|58|majiteľ a riaditeľ spoločnosti|Dolný Kubín|
+6|88|Viktor|Vígh|Bc.|26|projektový manažér|Galanta|
+6|89|Ondrej|Babjarčík|Ing.|39|účtovník|Humenné|
+6|90|Eva|Fifiková||63|podnikateľka|Vištuk|
+6|91|Matúš|Polák|Ing.|34|finančný poradca|Kežmarok|
+6|92|Adrian|Haraszti|Mgr.|42|vedúci obvodu|Kráľovský Chlmec|
+6|93|Ivan|Pompoš|Mgr.|52|stredoškolský učiteľ|Levice|
+6|94|Tibor|Hlobeň||59|SZČO|Nové Mesto nad Váhom|
+6|95|Peter|Bednár|Mgr.|32|manažér v cestovnom ruchu|Spišská Nová Ves|
+6|96|Jana|Kamenská|Mgr.|42|riaditeľka školy|Lučenec|
+6|97|Jaroslav|Rakučák|PhDr., Dis., PhD.|45|sociálny pracovník|Liptovská Lúžna|
+6|98|Michal|Marhefka|Mgr.|32|prednosta úradu|Podolínec|
+6|99|Michal|Greško||64|dôchodca|Sládkovičovo|
+6|100|Peter|Sádovský|Ing.|51|manažér|Bratislava|
+6|101|Ján|Kušnír|Ing.|44|manažér projektov dopravnej infraštruktúry|Stupava|
+6|102|Martin|Ceľuch|Ing., PhD.|42|ekológ|Bardejov|
+6|103|Ľudovít|Lebó|Ing.|51|riaditeľ príspevkovej organizácie|Nové Zámky|
+6|104|Paulína|Srovnalíková|Ing., PhD., MBA|51|SZČO|Považská Bystrica|
+6|105|Martin|Kopejtko|Mgr.|42|stredoškolský učiteľ|Košice|
+6|106|Jozef|Maraček|Ing.|55|technický pracovník|Žarnovica|
+6|107|Michal|Kovačic|PaedDr., PhD.|57|vysokoškolský pedagóg|Ružomberok|
+6|108|Tomáš|Köppl|Ing.|49|grafik|Trnava|
+6|109|Vladimír|Šandala|Mgr.|55|kontrolór|Svidník|
+6|110|Jakub|Valach|Ing.|30|stavebný inžinier|Bánovce nad Bebravou|
+6|111|Marcel|Frimmel||54|generálny riaditeľ|Trenčianske Stankovce|
+6|112|Mária|Krupská|Bc.|36|ekonómka|Slivník|
+6|113|Lenka|Haburajová Ilavská|doc. PhDr., PhD.|41|vysokoškolská pedagogička|Nitra|
+6|114|Anton|Kučík|Mgr.|41|súkromný podnikateľ|Trenčín|
+6|115|Milan|Lesňák|Ing.|40|lektor rozvoja sektorových zručností|Košice|
+6|116|Branislav|Matúška|Mgr.|38|obchodný manažér|Poltár|
+6|117|Igor|Siakeľ||42|technik IT|Necpaly|
+6|118|Juraj|Pavlík|Ing.|55|obchodný zástupca|Dunajská Streda|
+6|119|Róbert|Jančošek|Mgr.|30|obchodný zástupca|Bardejov|
+6|120|Silvia|Hodálová|Mgr.|44|vydavateľka odborných zdravotníckych publikácií|Bratislava|
+6|121|Jaroslav|Boško|Ing.|38|finančný manažér|Považská Bystrica|
+6|122|Štefan|Mirga|Ing.|73|agroinžinier, bezpečnostný pracovník|Nitra|
+6|123|Mária|Šalátová|Ing.|30|obchodno-marketingová manažérka|Lehota|
+6|124|Lenka|Richterová|Ing.|38|manažérka|Kanianka|
+6|125|Ľubor|Pavlásek||55|obchodný manažér|Košice|
+6|126|Zlatko|Kameništiak|Mgr. Ing.|44|analytik, ekonóm, právnik|Zvolen|
+6|127|Marian|Kubala||45|SZČO|Čadca|
+6|128|Dušan|Dechet|Ing.|44|projektový manažér|Leopoldov|
+6|129|Peter|Makara|MUDr., MPH|46|všeobecný lekár pre dospelých|Snina|
+6|130|Ladislav|Pribulla|Mgr.|34|projektový manažér|Prešov|
+6|131|Pavol|Zůbek||50|manažér|Košice|
+6|132|Vincent|Gnip||39|manažér|Zvolen|
+6|133|Marcel|Neuschl|Ing.|28|stavebný inžinier|Handlová|
+6|134|Martin|Bernát|Mgr.|41|operátor výroby|Malá Ida|
+6|135|Jaroslav|Rusina||40|živnostník|Medzibrod|
+6|136|Oľga|Vyšná||60|ekonómka|Liptovský Mikuláš|
+6|137|Anna|Racková|Mgr.|33|právnička|Krajné|
+6|138|Tomáš|Štefani||26|podnikateľ|Malá Poľana|
+6|139|Filip|Pastorek||23|študent|Bratislava|
+6|140|Radana|Holocsi|Mgr.|33|politologička|Rovinka|
+6|141|Richard|Vaculčiak||23|manažér, podnikateľ|Lovinobaňa|
+6|142|Martin|Rusilo||21|študent|Brezová pod Bradlom|
+6|143|Simona|Miháliková|Bc.|26|študentka|Bolešov|
+6|144|Máté|Lanc|Bc.|22|študent|Galanta|
+6|145|Veronika|Ferková|Ing., DipIFR|33|asistentka audítora|Bratislava|
+6|146|Dávid|Staruch|Bc., MBA|36|odborník v oblasti IT a telekomunikácií|Bratislava|
+6|147|Jakub|Šak|Mgr.|27|administratívny pracovník|Medzilaborce|
+6|148|Michal|Božík|Mgr.|28|psychológ|Kaplna|
+6|149|Oliver|Titka||27|študent|Nitra|
+6|150|Ján|Benčík||71|dôchodca|Ružomberok|
+7|1|František|Oravec||48|SZČO|Haniska|
+7|2|Jaroslav|Jánoš|Ing.|52|obchodný manažér|Košice|
+7|3|Raymond|Kopka||48|obchodný manažér|Nitrianske Hrnčiarovce|
+7|4|Štefan|Bagin||61|samostatne hospodáriaci roľník|Kolárovo|
+7|5|Patrik|Magdoško||42|manažér|Strážske|
+7|6|Mária|Paľová||26|hlavná kontrolórka obce|Rohožník|
+7|7|Martin|Boldižár|MVDr., PhD. MRCVS.|45|veterinárny lekár|Košice|
+7|8|Robert|Pikáli||55|výrobný riaditeľ|Kolárovo|
+7|9|Ján|Schürger|Ing., PhD.|35|obchodný manažér|Vyšný Medzev|
+7|10|Jaroslav|Pavelek|Ing. Bc.|54|konateľ|Vitanová|
+7|11|Jozef|Tokár||63|dôchodca|Brezno|
+7|12|Mária|Csenkeyová|Bc.|42|SZČO|Bratislava|
+7|13|Ladislav|Karafa||35|manažér|Haniska|
+7|14|Peter|Valek|Ing.|39|lesník|Námestovo|
+7|15|Marek|Boka|Ing.|42|novinár|Michalovce|
+7|16|Zuzana|Holocsiová||35|SHR - farmárka|Janíky|
+7|17|Marta|Burdová|PaedDr.|45|odborná lektorka|Humenné|
+7|18|Rastislav|Josipčuk||42|SZČO|Vinné|
+7|19|Liana|Petrušková|Mgr.|41|terénna sociálna pracovníčka|Michalovce|
+7|20|Adriana|Ferenčíková|Mgr.|54|učiteľka|Trstená|
+7|21|Ladislav|Slebodník|Ing.|62|technik|Bratislava|
+7|22|Ján|Cenkner||47|pracovník v poľnohospodárstve|Lastomír|
+7|23|Štefan|Dvorčák|Ing.|60|technik|Nižná Slaná|
+7|24|Vasil|Šíp||37|lesník|Ulič|
+7|25|Emília|Čuntalová||44|operátorka výroby|Povina|
+7|26|Andrej|Galo|Ing.|43|ekonóm|Piešťany|
+7|27|Ján|Lacko||52|športový manažér|Košice|
+7|28|Jana|Groholová||43|administratívna pracovníčka|Košice|
+7|29|Marián|Tóth||41|geodet|Košice|
+7|30|Aladár|Kiss|Ing.|59|nemocničný pracovník|Medveďov|
+7|31|Miloš|Okrutský||47|manažér kvality|Udiča|
+7|32|Vladislav|Fedič|Ing.|27|poradca|Ruský Hrabovec|
+7|33|Lucia|Bakšiová||22|nezamestnaná|Geča|
+7|34|Lívia|Mušinská||37|živnostníčka|Čaňa|
+7|35|Ján|Fördös||43|samostatne hospodáriaci roľník|Kolárovo|
+7|36|Ladislav|Kalmár||43|konateľ|Kolárovo|
+7|37|Lukáš|Paľo||30|samostatne hospodáriaci roľník|Rohožník|
+7|38|Martina|Groholová||38|nezamestnaná|Košice|
+7|39|Štefan|Karas||48|SZČO|Slovinky|
+7|40|Marek|Petrík|Bc.|31|pracovník v poľnohospodárskej výrobe|Košice|
+7|41|Pavol|Gaži||44|traktorista|Valaliky|
+7|42|Jaroslav|Szabó||52|SZČO|Seňa|
+7|43|Tomáš|Šefčík||31|SZČO|Jasenica|
+7|44|Tomáš|Bagin||34|samostatne hospodáriaci roľník|Imeľ|
+7|45|Jaroslav|Cerovský||53|SZČO|Hriňová|
+7|46|Erika|Bašteková|Bc.|31|záhradníčka|Jasenica|
+7|47|Bibiána|Rusnáková||53|maloobchodná špecialistka|Ľubotice|
+7|48|Patrik|Božidar||24|SZČO|Dlhé nad Cirochou|
+7|49|Patrik|Zajac||26|pracovník v poľnohospodárskej výrobe|Haniska|
+7|50|Tibor|Pál||43|samostatne hospodáriaci roľník|Kolárovo|
+7|51|Tibor|Borka||52|samostatne hospodáriaci roľník|Vrbová nad Váhom|
+7|52|Ľubomír|Begáni||45|elektrotechnik|Blažice|
+7|53|Silvia|Magurová||42|kaderníčka|Strážske|
+7|54|Róbert|Kamzík||46|bača|Lehota nad Rimavicou|
+7|55|Dominika|Ondiková||23|nezamestnaná|Rohožník|
+7|56|Peter|Varga||52|hasič - záchranár|Košice|
+7|57|Martin|Mošpan||36|signalista na železnici|Žbince|
+7|58|Oto|Csizmár||49|konateľ dopravnej zdravotnej služby|Haniska|
+7|59|Alžbeta|Baginová||57|poľnohospodárka|Kolárovo|
+7|60|Jaroslav|Valenta||64|dôchodca|Košice|
+7|61|Katarína|Molnárová||49|fakturantka|Kolárovo|
+7|62|Imrich|Mati||38|farmár|Čaňa|
+7|63|Erik|Hlavatý||26|SZČO|Prešov|
+7|64|Pavel|Egri||62|SZČO|Dunajská Streda|
+7|65|Nikoleta|Holá||41|SZČO|Dunajská Streda|
+7|66|Roland|Bagin||34|samostatne hospodáriaci roľník|Kolárovo|
+7|67|Judita|Forróová||55|predavačka|Topoľníky|
+7|68|Ján|Deminger||52|nezamestnaný|Komárno|
+7|69|Milan|Belko|Mgr.|28|štátny radca|Banská Bystrica|
+7|70|Adrián|Štefánik||21|učiteľ|Bratislava|
+7|71|Anton|Berczy|Bc.|52|technik|Topoľčianky|
+8|1|Ondrej|Matej|Ing.|50|konateľ spoločnosti|Prešov|X
+8|2|Ľubomír|Ochotnický|Ing., MBA|53|manažér|Marianka|X
+8|3|František|Stručka|Ing.|49|projektový manažér|Bratislava|X
+8|4|Jaroslav|Málek|JUDr.|62|právnik|Bratislava|X
+8|5|Ludvík|Posolda|Mgr.|61|konateľ spoločnosti|Bratislava|X
+8|6|Roman|Hrnčirík|Ing.|51|ekonóm|Holíč|X
+8|7|Viktor|Magic|Ing.|48|stavebný inžinier|Bratislava|X
+8|8|Lenka|Beňačková|M.A.|34|projektová manažérka|Topoľčany|X
+8|9|Adriana|Trojanovičová|Mgr.|46|učiteľka anglického jazyka|Sabinov|X
+8|10|Jozef|Mišenko||29|konateľ stavebnej spoločnosti|Orlov|X
+8|11|Matej|Bórik|MBA|34|manažér|Martin|X
+8|12|Jaroslav|Mäsiar|Ing.|41|manažér v oblasti dopravy|Prievidza|X
+8|13|Veronika|Ladňáková|Mgr.|30|študentka, koordinátorka projektov v OZ|Martin|X
+8|14|Marián|Adamišín|Ing.|48|obchodný riaditeľ|Bardejov|X
+8|15|Stanislav|Ondirko|Ing.|52|súdny znalec v odbore cestná doprava|Drienica|X
+8|16|Adam|Šipoš||42|zamestnanec obecného úradu|Bernolákovo|X
+8|17|Martina|Cibulášová|Mgr.|45|manažérka|Prešov|X
+8|18|Peter|Tinath|MUDr.|29|lekár|Orlov|X
+8|19|Adam|Kordiak||22|manažér spoločnosti|Námestovo|X
+8|20|Eduard|Vokál|Ing.|59|technik|Lipany|X
+8|21|Vladimír|Kažimír||49|živnostník|Bardejov|X
+8|22|Michal|Staško|Mgr. art.|47|dizajnér|Piešťany|X
+8|23|Tomáš|Beharka||39|konateľ spoločnosti|Vrútky|X
+8|24|Ján|Vysocký|Mgr.|48|manažér|Ľubotice|X
+8|25|Martin|Mečiar||46|zamestnanec obecného úradu|Most pri Bratislave|X
+8|26|Anton|Kupšo|JUDr.|52|advokát|Vysoká nad Kysucou|X
+8|27|Martin|Gácik|PhDr.|45|živnostník, regionálny historik|Bytča|X
+8|28|Zuzana|Lakatošová|Mgr.|34|mediátorka|Bratislava|X
+8|29|Pavol|Zemko|Mgr.|55|projektový manažér|Martin|X
+8|30|Marek|Jaš|Mgr.|47|konateľ spoločnosti|Prešov|X
+8|31|Vladimír|Klimeš|Mgr.|65|riaditeľ spoločnosti|Ľubica|X
+8|32|Petra|Kocáková|Bc.|24|študentka|Holíč|X
+8|33|Ján|Brozman|Ing.|51|starosta obce|Drienovská Nová Ves|X
+8|34|Ján|Knapík||48|živnostník|Orlov|X
+8|35|Ingrid|Janáková|Mgr.|45|manažérka kvality|Ľubotice|X
+8|36|Juliána|Lukačovičová|DiS.|23|zubná technička|Oravské Veselé|X
+8|37|František|Majirský||70|dôchodca|Prešov|X
+8|38|Dorota|Kurejová|Mgr.|44|asistentka|Fričovce|X
+8|39|Roman|Žilinčík|Ing.|45|tajomník pre cirkevné školy|Zvolen|X
+8|40|Emília|Bernátová|PhDr.|67|dôchodkyňa|Bratislava|X
+8|41|Ľuboš|Ľupták||50|konateľ spoločnosti|Lišov|X
+9|1|Andrej|Danko|JUDr.|45|poslanec NR SR|Miloslavov|
+9|2|Jaroslav|Paška|Ing. arch.|65|poslanec NR SR|Bratislava|
+9|3|Eva|Smolíková|Mgr.|56|poslankyňa NR SR|Dolný Ohaj|
+9|4|Anton|Hrnko|PhDr., CSc.|65|historik|Stupava|
+9|5|Gabriela|Matečná|Ing.|55|ministerka|Bratislava|
+9|6|Štefan|Zelník|MUDr., PhD.|65|poslanec NR SR|Žilina|
+9|7|Tibor|Bernaťák|JUDr.|45|poslanec NR SR|Bratislava|
+9|8|Dušan|Tittel|Ing.|53|poslanec NR SR|Bratislava|
+9|9|Karol|Farkašovský|PhD.|64|poslanec NR SR|Bratislava|
+9|10|Rudolf|Urbanovič|Ing.|59|štátny tajomník|Liptovský Mikuláš|
+9|11|Stanislav|Kmec||54|poslanec NR SR|Snežnica|
+9|12|Eva|Antošová|Ing.|55|poslankyňa NR SR|Nitra|
+9|13|Radovan|Baláž|Ing.|37|poslanec NR SR|Banská Bystrica|
+9|14|Magdaléna|Kuciaňová|JUDr.|63|poslankyňa NR SR|Moravany nad Váhom|
+9|15|Juraj|Soboňa|Ing.|58|poslanec NR SR|Solčany|
+9|16|Tibor|Jančula||50|poslanec NR SR|Bernolákovo|
+9|17|Peter|Pamula||49|poslanec NR SR|Dobšiná|
+9|18|Martina|Lubyová|JUDr., Mgr., PhD.|52|ministerka školstva, vedy, výskumu a športu|Bratislava|
+9|19|Peter|Gajdoš|Ing.|60|minister obrany|Bratislava|
+9|20|Erik|Zbiňovský||51|SZČO|Prešov|
+9|21|Ján|Krišanda|Mgr.|55|športový manažér|Majerovce|X
+9|22|Erik|Gemzický|Ing., PhD.|37|starosta obce|Ľubeľa|
+9|23|Tibor|Mikuš|Ing., PhD.|67|energetik|Suchá nad Parnou|
+9|24|Zdenko|Čambal|PhDr.|57|primátor mesta Holíč|Holíč|
+9|25|Alena|Zvarová Bašistová|doc. PhDr., PhD.|43|vysokoškolská učiteľka|Košice|
+9|26|Ján|Hoľko|RSDr., CSc.|65|generálny tajomník služobného úradu|Bratislava|
+9|27|Lukáš|Machala|JUDr.|45|štátny radca|Bratislava|
+9|28|Cyril|Leško|PhDr.|68|analytik|Župčany|
+9|29|Pavol|Bečarik|Ing.|60|primátor mesta|Spišská Nová Ves|
+9|30|Július|Buchta|Ing.|46|primátor mesta Revúca|Revúca|
+9|31|Emil|Divéky||44|riaditeľ|Diviaky nad Nitricou|
+9|32|Dagmar|Kramplová|Mgr.|61|ekonómka|Bratislava|
+9|33|Jaroslav|Barcaj|Ing.|54|ekonóm|Senica|
+9|34|Michal|Lavrík|PhDr.|45|prednosta okresného úradu v sídle kraja|Dolný Kubín|
+9|35|Jaroslav|Regec|Ing.|56|lesný inžinier|Snina|
+9|36|Lukáš|Parízek|Mgr.|33|štátny tajomník|Bratislava|
+9|37|Maroš|Pavlovič|Mgr.|27|právnik|Topoľčany|
+9|38|Slavomír|Kupka|Bc.|41|špecialista prevádzky|Čadca|
+9|39|Ingrid|Poliaková|PhDr.|53|prednostka okresného úradu|Brezno|
+9|40|Eva|Milučká|Ing.|32|ekonómka|Martin|
+9|41|Zdenko|Kozák||55|riaditeľ spoločnosti|Martin|
+9|42|Slávka|Kramárová|PaedDr.|62|pedagogička|Sereď|
+9|43|Peter|Šaško|MUDr.|46|lekár|Tvrdošín|
+9|44|Milan|Garaj|Ing., PhD.|40|starosta obce|Obyce|
+9|45|Zuzana|Škopcová|Dipl. Ing.|32|riaditeľka kancelárie predsedu SNS|Stupava|
+9|46|Pavol|Goriščák|Mgr.|37|právnik|Bardejov|
+9|47|Martin|Bátovský|Mgr.|49|vedúci oddelenia školstva MsÚ|Levice|
+9|48|Pavel|Gavalec|Ing.|41|prednosta okresného úradu|Poltár|
+9|49|Igor|Vavro|JUDr.|58|prednosta okresného úradu|Prievidza|
+9|50|Rafael|Rafaj|Mgr.|60|publicista, mediálny analytik|Bratislava|
+9|51|Dávid|Demečko|PaedDr., PhD.|38|prednosta okresného úradu|Spišská Nová Ves|
+9|52|Dušan|Kišfaluši|Ing.|35|manažér|Zvolen|
+9|53|Dušan|Galbavý|PaedDr. PhDr., PhD.|40|vedúci odboru školstva|Párnica|
+9|54|Rastislav|Šepták|Ing.|52|technik|Trenčianske Teplice|
+9|55|Jaroslav|Olejar|Mgr.|51|manažér|Giraltovce|
+9|56|Milan|Králik||54|starosta obce|Kysucký Lieskovec|
+9|57|Juraj|Kližan|Ing.|38|starosta obce|Skačany|
+9|58|Anton|Štefko||63|starosta obce|Lutiše|
+9|59|Dušan|Bosák|Ing.|48|podnikateľ|Žiar nad Hronom|
+9|60|Branislav|Borsuk|Ing.|47|riaditeľ štátneho podniku|Nitra|
+9|61|Jozef|Žabka||55|starosta obce|Kotrčiná Lúčka|
+9|62|Miroslav|Kolenčík|Ing.|31|stavebný inžinier|Oravská Lesná|
+9|63|Ján|Jakubianský|Mgr.|47|riaditeľ ÚPSVaR Stará Ľubovňa|Jakubany|
+9|64|Ivan|Bubela|Ing.|54|technický manažér|Považská Bystrica|
+9|65|Eva|Petrášková|MUDr.|60|lekárka|Banská Štiavnica|
+9|66|Branislav|Hrbček||47|starosta obce Lúčky|Lúčky|
+9|67|Stanislav|Haramia|Ing.|55|poľnohospodársky inžinier, projektant|Malacky|
+9|68|Miroslav|Brincko|Mgr.|58|inšpektor BOZP|Levoča|
+9|69|Boris|Mihálik|Ing.|57|vedúci lesnej správy|Hriňová|
+9|70|Jaroslava|Bernátová|MUDr.|43|lekárka, kardiologička|Nové Zámky|
+9|71|Ján|Holodňák|Ing.|56|živnostník|Svidník|
+9|72|Igor|Baboľ|Ing.|61|riaditeľ Technických služieb mesta Hnúšťa|Hnúšťa|
+9|73|Ľudovít|Hajduk|prof. PhDr. Mgr., PhD.|49|riaditeľ, prorektor|Bratislava|
+9|74|Peter|Zelený|MUDr., MPH|41|lekár|Spišská Nová Ves|
+9|75|Patrik|Františka|Ing.|46|riaditeľ hotela|Batizovce|
+9|76|Martin|Mikuš||45|štátny zamestnanec|Bánovce nad Bebravou|
+9|77|Ľuboš|Bernát||45|IT technik|Šarišské Michaľany|
+9|78|Eduard|Hartmann||54|športový manažér|Trenčín|
+9|79|Zdena|Fidriková|JUDr.|49|compliance manažér|Turčianske Teplice|
+9|80|Michal|Mihálik|MBA|33|manažér|Červeník|
+9|81|Vladimíra|Bartovičová|Mgr.|43|vedúca oddelenia správy majetku|Šurany|
+9|82|Juraj|Kološta|Mgr.|39|pedagogický zamestnanec|Nová Baňa|
+9|83|Martina|Demjanová|Ing.|36|zamestnankyňa ÚPSVaR Stropkov|Stropkov|
+9|84|Milan|Husár||60|starosta obce|Nižné Nemecké|
+9|85|Jozef|Galbavý||47|SZČO|Dolná Strehová|
+9|86|Ingrid|Meňky|PhDr.|51|námestník|Nitra|
+9|87|Viera|Nemcová||58|starostka obce|Henckovce|
+9|88|Eva|Harsághy|Ing.|48|ekonómka|Malý Šariš|
+9|89|Janka|Bagiová|Bc.|47|špeciálna pedagogička|Ružomberok|
+9|90|Ladislav|Černák|JUDr.|54|vedúci odboru OÚ|Maňa|
+9|91|Maroš|Borza|Ing.|47|štátny zamestnanec|Pezinok|
+9|92|Andrea|Jankovičová|Ing.|49|riaditeľka|Beluša|
+9|93|Jaroslav|Božik||67|starosta obce|Jacovce|
+9|94|Milan|Mlynár|Ing.|45|starosta obce|Gočovo|
+9|95|Igor|Lacko|Ing.|41|starosta obce Málinec|Málinec|
+9|96|Peter|Zorvan|Ing., PhD.|59|štátny zamestnanec|Banská Štiavnica|
+9|97|Martin|Čornej|Ing.|27|finančný analytik|Michalovce|
+9|98|Peter|Štepianský|Mgr.|41|starosta|Hostie|
+9|99|Ján|Harant|Ing., MBA|58|riaditeľ úradu|Považská Bystrica|
+9|100|Peter|Ďurček|JUDr.|46|štátny tajomník|Bratislava|
+9|101|Michal|Magnes||42|podnikateľ|Trebišov|
+9|102|Ľubomír|Pidaný|Ing.|56|súkromný podnikateľ|Vranov nad Topľou|
+9|103|Juraj|Strempek|Ing.|38|vedúci oddelenia ekonomiky a rozpočtu|Bratislava|
+9|104|Peter|Bendík|PhDr. Mgr.|37|starosta obce Vlková|Vlková|
+9|105|Dominik|Veselovský|Bc.|25|študent práva|Horné Pršany|
+9|106|Ján|Pivovarník|Ing. Mgr., PhD.|53|vysokoškolský pedagóg|Hanušovce nad Topľou|
+9|107|Igor|Daško||48|stavebný technik, starosta|Kameničany|
+9|108|František|Pitoňák|JUDr.|50|advokát|Levoča|
+9|109|Monika|Gergeľová|Mgr.|39|etička|Čaňa|
+9|110|Jana|Ďurčeková|Mgr.|53|starostka obce Malé Vozokany|Malé Vozokany|
+9|111|Milan|Lapšanský|Ing.|47|generálny štátny radca|Nitra|
+9|112|Peter|Šagát|Mgr.|56|prezident odborového zväzu hasičov|Topoľčany|
+9|113|Milan|Rýzek||59|technik|Prietrž|
+9|114|Jaromír|Kudláček|Mgr.|32|generálny štátny radca MV SR|Liptovský Hrádok|
+9|115|Marek|Chovan|JUDr., PhD.|29|vedúci úradu|Láb|
+9|116|Ingrid|Vrkočová|JUDr.|52|štátna zamestnankyňa|Brezová pod Bradlom|
+9|117|Milan|Tropp|Ing.|31|podnikateľ|Stará Lesná|
+9|118|Dušan|Macho|PhDr.|58|starosta obce|Práznovce|
+9|119|Veronika|Mlynárová|Mgr.|39|riaditeľka ÚPSVaR Poprad|Poprad|
+9|120|Ľubomír|Grišlo|Ing.|48|riaditeľ RO SPF|Zamarovce|
+9|121|Marek|Vyhnička||43|riaditeľ spoločnosti|Banská Bystrica|
+9|122|Anton|Lamanec|Ing.|60|podnikateľ|Raslavice|
+9|123|Jana|Beňáková Tulisová|Ing., PhD.|35|asistentka|Bytča|
+9|124|Dušan|Brezovský||54|dôchodca|Gbely|
+9|125|Ingrid|Jedličková|Mgr.|49|živnostníčka|Podzámčok|
+9|126|Ján|Rohár|Bc.|23|študent vysokej školy|Senec|
+9|127|Štefan|Baniar|Mgr.|56|živnostník|Čaka|
+9|128|Denisa|Krásna|Mgr.|44|štátna zamestnankyňa|Bratislava|
+9|129|Martina|Stachová||30|účtovníčka|Bratislava|
+9|130|Mária|Gáborová|PhDr.|53|riaditeľka|Prešov|
+9|131|Andrea|Žideková|MUDr.|47|lekárka - gynekologička - pôrodníčka|Liptovský Mikuláš|
+9|132|Samuel|Sovík|Ing.|35|projektový manažér|Šaľa|
+9|133|Tomáš|Boroš|Ing.|38|výkonný riaditeľ|Plavé Vozokany|
+9|134|Róbert|Švec||39|SZČO|Skačany|
+9|135|Ján|Kalafus||52|SZČO|Nálepkovo|
+9|136|Vladimír|Turan|Ing.|68|dôchodca|Moravany nad Váhom|
+9|137|Miroslav|Barna|Ing.|40|administratívny pracovník|Prešov|
+9|138|Ján|Mihálik|Ing.|31|IT špecialista|Bratislava|
+9|139|Michal|Kanca|Ing.|25|finančný analytik|Michalovce|
+9|140|Miroslav|Libič|Mgr.|46|pedagóg|Bánovce nad Bebravou|
+9|141|Ľubica|Strážayová|Bc.|47|odborná radkyňa|Viničné|
+9|142|Ladislav|Lukáč||46|záchranár, vodič RZP, RLP|Revúca|
+9|143|Martin|Ostrovský|Mgr.|32|ortopedický technik|Horné Orešany|
+9|144|Jozef|Hloška||45|technik - energetik|Martin nad Žitavou|
+9|145|Sylvia|Kmotorková||50|výkonná manažérka|Krušovce|
+9|146|Slavomír|Hanuska|PaedDr.|45|riaditeľ bilingválneho gymnázia|Zvolenská Slatina|
+9|147|Branislav|Ondruška|Mgr.|35|psychológ|Handlová|
+9|148|Miroslav|Sedláček|Mgr.|47|hasič|Kostolné Kračany|
+9|149|Martin|Hudec|PhDr. Mgr.|46|riaditeľ nemocnice|Martin|
+9|150|Anton|Danko|Ing.|61|primátor mesta Poprad|Poprad|
+10|1|Jozef|Rajtár|Dip Mgmt|43|poslanec parlamentu|Bratislava|
+10|2|Michal|Kravčík|Ing., CSc.|64|environmentalista|Košice|X
+10|3|Natália|Blahová|Mgr.|46|sociálna poradkyňa|Zavar|
+10|4|Ľubomír|Galko|Mgr.|52|poslanec parlamentu|Stupava|
+10|5|Miroslav|Ivan|Ing.|53|poslanec parlamentu|Banská Bystrica|
+10|6|Michal|Bucek|MUDr.|65|lekár|Bratislava|
+10|7|Stanislav|Rajnoha|Mgr.|65|historik umenia|Banská Bystrica|
+10|8|Lukáš|Ranik|Ing.|31|viceprimátor mesta|Púchov|
+10|9|Stanislava|Bytčanek|Ing.|43|manažérka, konateľka|Žilina|
+10|10|Oto|Šátek||53|podnikateľ|Tomášov|
+10|11|Renáta|Kaščáková|Mgr.|54|poslankyňa parlamentu|Trenčín|
+10|12|Adam|Hochel|MUDr., PhD., MPH|48|detský chirurg|Bratislava|X
+10|13|Jakub|Nedoba|Mgr.|31|poslanec parlamentu|Bratislava|X
+10|14|Štefan|Pecen|Ing.|68|tlmočník a prekladateľ|Bratislava|
+10|15|Vladimír|Sloboda|Ing.|40|poslanec parlamentu|Bratislava|
+10|16|Radoslav|Pavelka|Mgr.|46|poslanec parlamentu|Nitra|
+10|17|Ivo|Nemčič|Ing.|54|podnikateľ v oblasti elektroniky|Bratislava|
+10|18|Iveta|Fulková|MUDr.|50|lekárka|Spišská Nová Ves|
+10|19|Ondrej|Janíček|MBA|54|prokurista|Trenčín|
+10|20|Pavol|Kubiš||55|technik|Bratislava|
+10|21|Milan|Vrabeľ|Ing.|35|IT systémový inžinier|Raslavice|
+10|22|Pavol|Líška|Ing.|47|manažér|Myjava|
+10|23|Selim|Hikmet|Mgr.|42|podnikateľ - SHR|Bratislava|
+10|24|Dušan|Katuščák|prof. PhDr., PhD.|74|univerzitný profesor|Jazernica|
+10|25|Pavol|Bottka||52|živnostník|Iža|
+10|26|Pavol|Varga|JUDr.|70|novinár|Marianka|
+10|27|Dušan|Rolín|Ing.|69|odborný konzultant|Hronsek|
+10|28|Drahomír|Krčmárek|Ing.|54|stredoškolský učiteľ|Liptovský Ondrej|
+10|29|Ondrej|Kvasnica|Ing., PhD.|36|kybernetik, ekonóm a pedagóg|Trenčín|
+10|30|Martina|Ertel Hajduchová|Bc.|40|grafická dizajnérka|Prievidza|
+10|31|Július|Kovács|RNDr.|60|geofyzik|Veľký Krtíš|
+10|32|Peter|Cvik|Ing. Mgr.|61|výsluhový dôchodca|Bánov|
+10|33|Dušan|Jaššo|Mgr.|39|učiteľ na ZUŠ|Snežnica|
+10|34|Marek|Žiačik|Ing.|42|ekológ|Banská Bystrica|
+10|35|Ján|Cimerman|Ing.|61|vedúci odboru informačných systémov|Banská Bystrica|
+10|36|Juraj|Hríb|Ing.|26|projektant|Zvolen|
+10|37|Miroslav|Ertel||42|fotograf|Cigeľ|
+10|38|Martin|Čurilla|Ing. arch.|48|architekt|Spišské Vlachy|
+10|39|Roman|Krištof||54|konateľ firmy|Trenčianske Teplice|
+10|40|Milan|Trnovský|JUDr.|64|advokát|Liptovský Mikuláš|
+10|41|Robert|Bezek|JUDr., MBA|38|súkromný podnikateľ|Rožňavské Bystré|
+10|42|Oľga|Beständigová|Mgr.|40|krasokorčuliarka|Bratislava|
+10|43|Miroslav|Szabados|Ing.|54|výsluhový dôchodca|Komárno|
+10|44|Jozef|Rybár|Ing.|63|dôchodca|Bratislava|
+10|45|Viliam|Šlahor|Ing.|55|SZČO|Bratislava|
+10|46|Martin|Breštenský|Ing.|59|SZČO|Bratislava|
+10|47|Peter|Šmotlák|Ing.|60|SZČO|Bratislava|
+10|48|Pavol|Bodor||40|SZČO|Zuberec|
+10|49|Roman|Pinke||36|manažér v poľnohospodárstve|Dubník|
+10|50|Kvetoslava|Berkyová||66|asistentka osvety zdravia|Rudňany|
+10|51|Matej|Skurčák||36|živnostník|Habovka|
+10|52|Roman|Krištín|MVDr.|44|veterinár|Veľké Kršteňany|
+10|53|Ivan|Švajlen|Mgr.|41|tlmočník a prekladateľ, učiteľ|Banská Bystrica|
+10|54|Ľudmila|Šimková Filipovičová|Mgr.|42|učiteľka v špeciálnej materskej škole|Biely Kostol|
+10|55|Anna|Menkynová|Mgr.|40|sociálna pracovníčka|Brezová pod Bradlom|
+10|56|Richard|Baranič|Mgr.|25|psychológ|Lokca|
+10|57|Štefan|Hrončo|Ing.|42|pekár|Dunajská Lužná|
+10|58|Eulalia|Štefanová||63|environmentalistka|Zamarovce|
+10|59|Robert|Roland|MUDr.|72|lekár|Košice|
+10|60|Martin|Župa|Ing.|40|konateľ|Košice|
+10|61|Robert|Krampl||45|IT technik|Bratislava|
+10|62|Katarína|Kuchťáková|Mgr.|50|sociálna poradkyňa|Lokca|
+10|63|Marcela|Ivanová||43|živnostníčka|Veľké Uherce|
+10|64|Darina|Rybárová||40|event manažérka|Kanianka|
+10|65|Libuša|Jízdná||40|lyžiarska inštruktorka|Košice|
+10|66|Ivona|Kollárová|doc. Mgr., PhD.|48|vedecká pracovníčka|Bratislava|
+10|67|Milan|Beňo|Ing.|74|samostatne hospodáriaci roľník|Turany|
+10|68|Anna|Schlentcová|Ing.|52|ekologička|Košice|
+10|69|Petra|Sekulová|Mgr.|43|zdravotná sestra|Spišská Nová Ves|
+10|70|Iveta|Geletková|Ing.|33|starostka obce|Mlynky|
+10|71|Daniela|Antalová|Mgr.|56|pedagogická zamestnankyňa, zdravotná sestra|Spišská Nová Ves|
+10|72|Milan|Kormaník|Ing.|55|technický riaditeľ|Liptovský Ján|
+10|73|Štefan|Lazorišák||60|spisovateľ|Košice|X
+10|74|Jozef|Horváth||71|divadelný manažér|Košice|
+10|75|Tibor|Kočík|PaedDr.|67|spisovateľ a etopéd|Košice|X
+10|76|Róbert|Jurčák||56|pracovník bezpečnostnej služby|Košice|
+10|77|Juraj|Šinka|Ing.|61|projektant, konateľ s.r.o.|Trenčín|
+10|78|Jozef|Hrabina|Ing.|54|konateľ spoločnosti|Nitra|
+10|79|Branislav|Hronec||29|SZČO|Detva|
+10|80|David|Bučko|Mgr.|34|podnikateľ|Bratislava|
+10|81|Milan|Michalič|Ing.|56|predseda poľnohospodárskeho družstva|Poruba pod Vihorlatom|
+10|82|René|Kameník|Mgr.|48|vedecký pracovník|Košice|
+10|83|Igor|Krafčík|Ing.|56|obchodný manažér|Košice|
+10|84|Rudolf|Sloboda|Ing.|56|SZČO, projektový manažér|Bratislava|
+10|85|Ľuboš|Šimún||43|živnostník|Likavka|
+10|86|Marek|Krupa|Bc.|31|podnikateľ|Bohdanovce nad Trnavou|
+10|87|Eva|Samolejová|PhDr., MPH.|52|referentka verejného obstarávania|Bratislava|
+10|88|Natália|Pepuchová||26|SZČO|Bratislava|
+10|89|Igor|Hornák|Ing., CSc.|56|manažér|Bratislava|
+10|90|Ingrid|Žilincová||52|ekonómka|Banská Bystrica|
+10|91|Martin|Šikula|Ing.|55|prednosta MsÚ|Banská Bystrica|
+10|92|Marta|Klačanová||52|podnikateľka|Selce|
+10|93|Jaroslav|Bytčanek|Bc.|56|manažér|Čadca|
+10|94|Editka|Takáčová|Mgr.|63|zdravotná sestra|Slovenské Nové Mesto|
+10|95|Ester|Kramárová|Mgr.|25|psychologička|Podlužany|
+10|96|František|Turňa||56|filmár|Bratislava|
+10|97|Patrik|Drahovský|Ing.|49|podnikateľ, konateľ spoločnosti|Nitrianska Blatnica|
+10|98|Juraj|Šváč|MUDr.|57|lekár|Tajov|
+10|99|Vladislav|Kačmár||52|invalidný dôchodca|Stročín|
+10|100|Jana|Kulichová||54|živnostníčka|Iža|
+10|101|Jakub|Skurčák||34|podnikateľ|Habovka|
+10|102|Tomáš|Beck||36|výrobný pracovník|Choča|
+10|103|Peter|Bohunický|Ing.|51|IT konzultant|Žilina|
+10|104|Oto|Kopál|Ing.|74|dôchodca|Jaslovské Bohunice|
+10|105|Ľudmila|Miklovičová||65|dôchodkyňa|Sereď|
+10|106|Daniel|Ferenci|Ing.|43|softvérový inžinier|Bratislava|X
+10|107|David|Štefan||37|manager|Bratislava|
+10|108|Tomáš|Gál|Ing. arch., PhD.|49|architekt|Bratislava|
+10|109|Ľubomír|Macek|Mgr.|52|SZČO|Čereňany|
+10|110|Peter|Zika|Mgr.|41|projektový manažér|Bratislava|
+10|111|Michal|Lipák||25|obchodný manažér|Vranov nad Topľou|
+10|112|Ľuboš|Mancal|Ing., Ing.|45|podnikateľ|Bratislava|
+10|113|Pavel|Petráš||69|environmentalista|Zamarovce|
+10|114|Eva|Filipková||64|dôchodkyňa|Banská Bystrica|
+10|115|Zdeněk|David||66|podnikateľ|Banská Bystrica|
+10|116|Rastislav|Piontek||39|šéfkuchár|Štrba|
+10|117|Jaroslav|Brezňan||44|profesionálny náhradný rodič|Rožňava|
+10|118|Martina|Hermanová|Mgr.|40|terénna sociálna pracovníčka|Boleráz|
+10|119|Katarína|Péchyová|Bc.|43|poštová doručovateľka|Trnava|
+10|120|Ján|Eliaš||66|poľnohospodár|Spišská Belá|
+10|121|Silvia|Šimeková|Mgr.|32|živnostníčka|Vysoké Tatry|
+10|122|Juraj|Šimko|Ing.|43|vedúci oddelenia pre finančné plánovanie a analýzy|Bratislava|
+10|123|Juraj|Štít|Ing.|41|programátor|Pezinok|
+10|124|Rudolf|Klimek|Ing.|41|analytik, programátor|Bratislava|
+10|125|Ľubica|Staroňová|Ing.|58|ekonómka|Liptovský Mikuláš|
+10|126|Marcela|Čaklošová|Mgr.|34|stredoškolská učiteľka|Vitanová|
+10|127|Roman|Gróf||63|dôchodca|Bratislava|
+10|128|Juraj|Ivan||50|obchodný referent|Veľké Uherce|
+10|129|Barbora|Balážová|Ing.|34|účtovníčka|Bratislava|
+10|130|Rastislav|Mackovič|Ing.|49|stavebný dozor|Bratislava|
+10|131|Rudolf|Čerňan||58|živnostník|Lukáčovce|
+10|132|František|Poláček||48|nástrojár|Spišská Belá|
+10|133|Vilma|Mancalová||71|dôchodkyňa|Bratislava|
+10|134|Emil|Sútor||34|koordinátor detského menu|Lučenec|
+10|135|Martina|Pavelková||43|administratívna pracovníčka|Nitra|
+10|136|Katarína|Orosová||44|asistentka predaja|Bratislava|
+10|137|Milan|Sáska|Ing.|57|živnostník|Trenčín|
+10|138|Jakub|Blaha|Bc.|26|študent|Zavar|
+10|139|Daniela|Minčíková|Bc.|25|študentka|Trnava|
+10|140|Jaroslav|Šmíd|Ing., PhD.|54|manažér|Trenčín|
+10|141|Marcela|Barteľová||53|poisťovacia poradkyňa|Spišská Nová Ves|
+10|142|Tatiana|Barteľová|Mgr.|26|billing associate|Spišská Nová Ves|
+10|143|Štefan|Stankovský||68|dôchodca|Stupava|
+10|144|Ivan|Macek|Ing.|34|obchodný zástupca|Nové Zámky|
+10|145|Vladimír|Matfiak|Ing.|58|ekonóm|Spišská Belá|
+10|146|Miroslav|Martišovič||24|študent|Bratislava|
+10|147|Alena|Faiglová|Ing.|55|administratívna pracovníčka|Liptovský Mikuláš|
+10|148|Dušan|Káčer|Mgr.|45|projektový manažér|Nitra|
+10|149|Miroslav|Štelcl||38|odborný predajca|Banská Bystrica|
+10|150|Tibor|Kramár|Mgr., LL.M.|57|manažér súkromných škôl|Nová Dubnica|
+11|1|Mária|Šofranko|PaedDr.|49|pedagogička, občianska aktivistka|Spišská Nová Ves|
+11|2|Jaroslav|Naď|PhDr., PhD.|38|bezpečnostný analytik|Hrubá Borša|
+11|3|Lukáš|Kyselica|Mgr.|42|expert na vyšetrovanie závažných zločinov|Nové Zámky|
+11|4|Anna|Záborská|MUDr.|71|lekárka|Bojnice|
+11|5|Michal|Šipoš|Mgr.|38|aktivista v boji proti hazardu|Stará Ľubovňa|
+11|6|Karol|Kučera||45|šéftréner Národného tenisového centra|Bratislava|
+11|7|Jozef|Pročko|Mgr.|54|herec, moderátor, podnikateľ|Halič|
+11|8|Ján|Mičovský|Ing., CSc.|65|lesník, ochranár|Humenné|
+11|9|Anna|Remiášová||70|občianska aktivistka|Bratislava|
+11|10|Kristián|Čekovský|Mgr.|29|novinár|Hviezdoslavov|
+11|11|Milan|Potocký||44|redaktor, občiansky aktivista|Michalovce|
+11|12|Eva|Horváthová|prof. MUDr., PhD., MPH.|45|lekárka|Bratislava|
+11|13|Roman|Mikulec|Ing.|47|bezpečnostný manažér - špecialista|Bratislava|
+11|14|Erik|Ňarjaš||34|podnikateľ, tanečník|Slivník|
+11|15|Anna|Andrejuvová|Mgr. et. Mgr.|40|politologička, právnička|Bratislava|
+11|16|Milan|Vetrák|JUDr., PhD.|44|právnik, protikorupčný aktivista|Bratislava|
+11|17|Peter|Kremský|Mgr.|51|ekonomický analytik, živnostník|Pezinok|
+11|18|Jozef|Bubnár|Mgr.|33|učiteľ, umelec|Vranov nad Topľou|
+11|19|Zita|Pleštinská|Ing. arch.|58|architektka, starostka obce|Chmeľnica|
+11|20|Dominik|Drdul|Bc.|22|študent, aktivista za práva ŤZP|Trnava|
+11|21|Tomáš|Šudík||24|občiansky aktivista, študent, podnikateľ|Humenné|
+11|22|Ján|Kerekréti||76|generálny sekretár Slovenskej evanjelickej aliancie|Bratislava|
+11|23|Monika|Kavecká|Mgr., MHA, MPH|46|predsedníčka odborového združenia sestier a pôrodných asistentiek, starostka obce|Kunerad|
+11|24|Peter|Liba|Mgr.|39|teológ|Košice|
+11|25|Ján|Szőllős|RNDr. Mgr., CSc.|54|teológ, geograf|Bernolákovo|
+11|26|Jaromír|Šíbl|RNDr., PhD.|57|ochranár|Bratislava|
+11|27|Monika|Kozelová|Mgr.|58|dramaturgička, textárka, aktivistka|Bratislava|
+11|28|Lucia|Drábiková|Mgr., PhD.|42|psychologička, riaditeľka pobočky Centra pomoci pre rodinu, poslankyňa VÚC|Piešťany|
+11|29|Peter|Vons|PaedDr.|61|SZČO|Martin|
+11|30|Peter|Pollák|Mgr.|28|manažér|Levoča|
+11|31|Ján|Herák|Mgr. PhDr.|31|aktivista v sociálnej oblasti|Považská Bystrica|
+11|32|Jana|Majorová Garstková|Mgr.|38|riadiaca pracovníčka|Kežmarok|
+11|33|Anna|Mierna|Ing.|54|primátorka|Skalica|
+11|34|Peter|Dobeš|RNDr.|62|podpredseda Žilinského samosprávneho kraja|Rajecké Teplice|
+11|35|Jarmila|Vaňová|Mgr.|54|pedagogička, terénna sociálna pracovníčka|Ďurkov|
+11|36|Milan|Kuriak||49|správca horskej chaty|Tvrdošín|
+11|37|Róbert|Halák||42|muzikálový herec, člen divadla Nová Scéna|Pezinok|
+11|38|Katarína|Hatráková|PhDr.|45|psychologička|Bratislava|
+11|39|Igor|Hus|Mgr.|51|primátor|Turčianske Teplice|
+11|40|Ján|Krošlák||45|tréner a manažér tenisovej akadémie|Bratislava|
+11|41|Andrej|Stančík|Mgr.|24|doktorand VŠ, SZČO, predseda Občiansko-demokratickej mládeže|Piešťany|
+11|42|Marcel|Mihalik|PaedDr. Ing.|54|náčelník mestskej polície, predseda obecných a mestských polícií|Piešťany|
+11|43|Martin|Čepček|Mgr. et. Mgr.|41|riaditeľ cirkevného centra voľného času|Veľký Lapáš|
+11|44|Romana|Tabák|Bc.|28|športovkyňa|Bratislava|
+11|45|Juraj|Krúpa|PhDr.|43|bezpečnostný analytik|Bratislava|
+11|46|Martina|Brisudová|Mgr.|45|primátorka|Poltár|
+11|47|Radovan|Marcinčin|Mgr.|49|učiteľ|Spišská Nová Ves|
+11|48|Marek|Šefčík|Mgr.|41|učiteľ|Holíč|
+11|49|Juraj|Gyimesi|PhDr.|39|projektový manažér|Kráľovský Chlmec|
+11|50|Richard|Nemec||47|volejbalový tréner|Bratislava|
+11|51|Sebastián|Kozarec||22|živnostník, študent|Dechtice|
+11|52|Vojtech|Tóth|MBA|39|riaditeľ neziskovej organizácie|Košice|
+11|53|Vladimír|Zajačik||71|dôchodca|Rejdová|
+11|54|Peter|Cseh||36|umelec|Dolný Bar|
+11|55|Rastislav|Jílek|Mgr.|42|konateľ spoločnosti|Trebišov|
+11|56|Ivan|Uhrík|Ing. Bc., PhD.|55|ekonóm, manažér|Banská Bystrica|
+11|57|Marián|Václav|Ing.|42|hasič|Bajč|
+11|58|Ján|Mrva|Ing.|50|geodet, kartograf|Bratislava|
+11|59|Peter|Maretta||48|živnostník|Vyšný Kubín|
+11|60|Peter|Blaško|MUDr.|41|lekár, urológ|Žilina|
+11|61|Tomáš|Cehlár|Mgr.|36|aktivista, projektový manažér|Spišská Nová Ves|
+11|62|Miloš|Ziman|Ing.|53|kontrolór|Vyhne|
+11|63|Peter|Majtán|JUDr.|41|bezpečnostný analytik a výkonný riaditeľ|Bratislava|
+11|64|Dionýz|Solár|Ing.|47|učiteľ, majiteľ autoškoly|Nové Zámky|
+11|65|František|Höger|ThLic. PaedDr.|57|učiteľ|Fintice|
+11|66|Slavomír|Reištetter||47|technik|Lipany|
+11|67|Rastislav|Cunik||39|vedúci strediska správy ciest|Šuňava|
+11|68|Eva|Zummerová|Mgr.|50|lektorka|Košice|
+11|69|Ctibor|Melich||39|obchodný manažér|Hurbanovo|
+11|70|Peter|Ziman|MUDr., CSc.|74|súdny znalec z odboru chirurgie|Myjava|
+11|71|Viera|Olbertová|Ing. Mgr.|59|technička v neurologickej ambulancii|Krásno nad Kysucou|
+11|72|Mária|Rechová|PaedDr.|46|štátna zamestnankyňa|Želovce|
+11|73|Patrik|Matištík||41|manažér, riaditeľ hotela v Zuberci, poslanec OZ|Zuberec|
+11|74|Ivan|Uhlár|Mgr.|35|právnik|Bratislava|
+11|75|Martin|Holkovič|Ing.|44|konateľ, obchodný manažér|Bratislava|
+11|76|Juraj|Gordan||51|štátny zamestnanec|Bojnice|
+11|77|Andrej|Mošať|Dr., PhD.|41|inžinier a podnikateľ vo vede a výskume|Popudinské Močidľany|
+11|78|Elena|Fatulová|RNDr.|72|hydrogeologička a aktivistka za ochranu vôd|Bratislava|
+11|79|Michal|Spevák|Mgr.|45|novinár, publicista|Bratislava|
+11|80|Ľubomír|Tongeľ|Ing.|39|organizátor festivalov|Petrovce nad Laborcom|
+11|81|Štefan Patrik|Kováč|ThLic. Mgr.|50|kresťanský aktivista, spisovateľ|Piešťany|
+11|82|Stanislav|Irsák|JUDr.|50|advokát|Hodruša - Hámre|
+11|83|Viktor|Gažo||66|živnostník|Pezinok|
+11|84|Cyril|Crkoň|Bc.|48|stredoškolský učiteľ|Púchov|
+11|85|Dušan|Ondrík||50|starosta|Vitanová|
+11|86|Peter|Brunai||40|vedúci úseku hospodárskej správy|Cabaj - Čápor|
+11|87|Ľubomír|Kuzma|Mgr.|37|IT administrátor|Dunajská Lužná|
+11|88|Milan|Kaplan|Mgr.|33|asistent poslanca NR SR|Michalovce|
+11|89|Juraj|Smatana|Mgr.|53|učiteľ, občiansky aktivista|Považská Bystrica|
+11|90|Peter|Križan||28|živnostník|Dolný Lieskov|
+11|91|Ján|Klačko|Mgr.|40|starosta|Hrubá Borša|
+11|92|Pavel|Obrcian||60|marketingový pracovník|Bratislava|
+11|93|Lukáš|Anderko||26|manažér obchodného tímu|Prešov|
+11|94|Miroslav|Ryaby||38|podnikateľ|Snina|
+11|95|Ján|Berceli|PhDr.|39|podnikateľ|Dunajská Streda|
+11|96|Štefan|Zigo|Ing.|59|inžinier projektov - programátor|Dubnica nad Váhom|
+11|97|Marián|Herdel|Mgr.|44|dispečer|Nová Dubnica|
+11|98|Vladimír|Seman|Ing.|57|redaktor|Novosad|
+11|99|Ľubica|Lapinová||57|opatrovateľka|Podkriváň|
+11|100|Mária|Benová|PhDr.|43|psychologička|Trnava|
+11|101|Rastislav|Blaho|Bc.|22|študent, občiansky aktivista|Trenčín|
+11|102|Marián|Gajdoš|MVDr.|60|súkromný veterinárny lekár|Bratislava|
+11|103|Juraj|Pohár|Mgr.|37|obchodný zástupca|Vydrany|
+11|104|Peter|Filín|Mgr.|37|učiteľ|Timoradza|
+11|105|Anna|Brinkáčová||59|prevádzkovateľka stravovacieho zariadenia|Bratislava|
+11|106|Róbert|Hekl||50|finančný poradca|Prievidza|
+11|107|Eva|Hajdamárová|JUDr.|35|právnička|Levice|
+11|108|Marian|Mikulišin|PaedDr.|51|SZČO|Košice|
+11|109|Elena|Pätoprstá|Ing. arch. Mgr. art.|59|designérka, protikorupčná aktivistka|Bratislava|
+11|110|Mário|Zgút|Mgr.|43|predavač|Dolný Kubín|
+11|111|Peter|Varmuža||43|odborný referent, dispečer|Rohožník|
+11|112|Roland|Száz|Mgr. Bc.|43|podnikateľ, hlavný zdravotnícky záchranár|Komoča|
+11|113|Pavol|Jusko|PhDr.|55|vysokoškolský pedagóg|Bratislava|
+11|114|Michal|Sygút|JUDr.|48|vedúci oddelenia školstva|Turčianske Teplice|
+11|115|Priška|Pavlíková|Ing.|60|SZČO - stavebná inžinierka|Rimavská Sobota|
+11|116|Pavol|Lukačovič|Ing.|45|projektový manažér|Pezinok|
+11|117|Tomáš|Oparty|Mgr.|39|poistný matematik - aktuár|Bratislava|
+11|118|Ingrid|Lukáčová|Mgr.|46|pedagogička|Košice|
+11|119|Peter|Lauko|MUDr.|70|lekár, chirurg, dôchodca|Poprad|
+11|120|Pavol|Priester|MUDr.|29|lekár|Košice|
+11|121|Martin|Tkáč||22|študent|Michalovce|
+11|122|Viera|Horch|Ing.|72|súdna tlmočníčka a prekladateľka, úradníčka|Martin|
+11|123|Augustín|Polák||69|rodinný farmár|Bolešov|
+11|124|Ľubomír|Fidler|JUDr.|56|právnik|Horné Trhovište|
+11|125|Peter|Cák|Ing.|45|riaditeľ hotela|Trnava|
+11|126|Monika|Horváthová|Mgr.|53|sociálna pracovníčka|Lastovce|
+11|127|Milan|Valach||50|manažér SBS|Zvolen|
+11|128|František|Žiga||59|starosta|Bystrany|
+11|129|Miloslav|Šulgan|RNDr., CSc.|61|vedúci oddelenia regionálneho rozvoja|Oščadnica|
+11|130|Oto|Šipoš||59|maliar|Jelka|
+11|131|Branislav|Veselko||57|projektant|Rimavská Sobota|
+11|132|Jozef|Klokner|Ing.|64|ekonomický manažér|Trnava|
+11|133|Monika|Klobušická|Mgr.|42|hovorkyňa|Bratislava|
+11|134|Božena|Filková||47|starostka|Trnávka|
+11|135|Ján|Kerpčár|Bc.|34|predajca elektroinštalačného materiálu|Šarišské Jastrabie|
+11|136|Martin|Petrášek|Bc.|32|samostatne zárobková činná osoba|Žilina|
+11|137|Iveta|Galbavá||53|manažérka zahraničného obchodu|Trenčín|
+11|138|Peter|Jakubove|JUDr.|33|právnik|Lučenec|
+11|139|Kristína|Hančová|Mgr.|30|politologička|Trnava|
+11|140|Peter|Oborník|Mgr., PhD.|36|vysokoškolský pedagóg|Prešov|
+11|141|Richard|Vašečka|Mgr.|46|poslanec NR SR|Svederník|
+11|142|Eduard|Heger|Ing.|43|poslanec NR SR|Bratislava|
+11|143|Marek|Krajčí|MUDr.|45|poslanec NR SR, detský kardiológ|Bratislava|
+11|144|Miroslav|Sopko|Mgr.|45|poslanec NR SR|Zalužice|
+11|145|Ján|Marosz|Mgr.|41|poslanec NR SR|Podhorie|
+11|146|Natália|Milanová|Mgr.|37|poslankyňa NR SR|Bratislava|
+11|147|Ján|Budaj||68|poslanec NR SR, predseda ZMENA ZDOLA|Bratislava|
+11|148|Gábor|Grendel|Mgr.|39|poslanec NR SR|Bratislava|
+11|149|Martin|Fecko|Ing.|57|poslanec NR SR|Prešov|
+11|150|Igor|Matovič|Mgr.|46|poslanec NR SR, predseda hnutia OĽANO|Trnava|
+12|1|Michal|Truban|Ing.|36|predseda politického hnutia|Bratislava|
+12|2|Miroslav|Beblavý|doc. Ing., PhD.|43|poslanec NR SR, predseda politickej strany|Bratislava|
+12|3|Erik|Baláž|Ing.|41|ekológ, podpredseda politickej strany|Liptovský Hrádok|
+12|4|Irena|Bihariová|Mgr.|39|právnička, podpredsedníčka politického hnutia|Trnava|
+12|5|Jozef|Mihál|RNDr.|54|poslanec NR SR, podpredseda politickej strany|Slovenský Grob|
+12|6|Ivan|Štefunko|Mgr.|42|podpredseda politického hnutia|Bratislava|
+12|7|Katarína|Macháčková|JUDr.|49|primátorka mesta, poslankyňa NR SR, podpredsedníčka politickej strany|Prievidza|
+12|8|Zora|Jaurová|Mgr. art.|47|producentka, expertka na kultúrne politiky, podpredsedníčka politického hnutia|Bratislava|
+12|9|Simona|Petrík|Mgr.|37|poslankyňa NR SR, predsedníčka ženskej platformy|Bratislava|
+12|10|Martin|Dubéci|MSc.|33|expert na obranu a bezpečnosť|Bratislava|
+12|11|Juraj|Hipš|Mgr.|43|učiteľ, expert na vzdelávanie|Pliešovce|
+12|12|Vladimír|Šucha|prof. RNDr., DrSc.|58|expert na vzdelávanie, vedu a inovácie|Bratislava|
+12|13|Viera|Dubačová|Mgr. art.|57|poslankyňa NR SR, divadelná režisérka|Banská Bystrica|
+12|14|Zuzana|Števulová|JUDr.|36|právnička|Bystrička|
+12|15|Oskar|Dvořák|Mgr.|28|expert na zdravotníctvo|Bratislava|
+12|16|Martin|Poliačik|Mgr.|39|poslanec NR SR|Bratislava|
+12|17|Martin|Vavrinčík|Mgr.|39|právnik, expert na sociálnu inklúziu|Bratislava|
+12|18|Pavel|Sibyla|Mgr.|41|expert na boj s korupciou, publicista|Bratislava|
+12|19|Jaroslava|Lukačovičová|Ing.|44|expertka na dane a odvody|Bratislava|
+12|20|Dana|Kleinert|Mgr. art.|45|dizajnérka, komunálna poslankyňa|Bratislava|
+12|21|Pavel|Macko|Ing., CSc., MSc.|55|vojenský generál vo výslužbe, bezpečnostný expert|Bratislava|
+12|22|Jana|Hanuliaková|Mgr.|39|manažérka dopravy|Abrahám|
+12|23|Dalibor|Roháč|PhDr., PhD., Mphil.|37|analytik a publicista, zahraničnopolitický expert|Bratislava|
+12|24|Milan|Ftorek||31|event manažér, aktivista|Martin|X
+12|25|Martin|Pekár||36|podnikateľ, expert na dopravu|Trnava|
+12|26|Matej|Petroci|MSc.|28|podnikateľ v cestovnom ruchu|Levoča|
+12|27|Richard|Jánoš|Bc. Ing.|41|podnikateľ v odevnom priemysle, občiansky aktivista|Záborské|
+12|28|Lucia|Plaváková|JUDr., PhD.|35|advokátka, aktivistka za práva menšín|Bratislava|
+12|29|Branislav|Diďák|Mgr.|47|bezpečnostný expert, policajt vo výslužbe|Nitra|
+12|30|Peter|Brozman|Ing. Mgr.|36|právnik, ekonóm|Banská Bystrica|
+12|31|Pavel|Nechala|JUDr., PhD.|41|právnik, protikorupčný expert|Bratislava|
+12|32|Tibor|Forró|Mgr. Ing.|35|predseda maďarskej platformy|Kolárovo|
+12|33|Oto|Žarnay|Mgr.|50|poslanec NR SR, učiteľ|Košice|
+12|34|Matej|Fabšík|Mgr.|34|expert energetik, poslanec VÚC|Kysucké Nové Mesto|
+12|35|Lucia|Štasselová|Ing. arch.|61|architektka, viceprimátorka hlavného mesta|Bratislava|
+12|36|Ondrej|Prostredník|doc. Mgr., PhD.|56|teológ, publicista|Pezinok|
+12|37|Martin|Macharik|Mgr.|45|predseda Kalvárskeho fondu, komunálny poslanec|Banská Štiavnica|
+12|38|Dominik|Hatiar|Mgr.|26|analytik zelených inovácií|Bratislava|
+12|39|Anton|Piták||44|programátor|Rabča|
+12|40|Miroslav|Kocúr|ThDr. SSL. Mgr., PhD.|51|pedagóg, teológ, publicista|Marianka|
+12|41|Alan|Suchánek|MUDr.|66|poslanec NR SR, lekár|Piešťany|
+12|42|Silvia|Pilková||46|spisovateľka|Bratislava|
+12|43|Tamara|Stohlová|MSc.|30|environmentalistka|Bratislava|
+12|44|Miroslava|Vermeiren|Mgr.|35|finančná analytička, environmentálna aktivistka|Bratislava|
+12|45|Noémi|Ráczová|Mgr. art.|47|učiteľka, výtvarníčka|Košice|
+12|46|Richard|Dubovický||34|IT manažér|Prešov|
+12|47|Norbert|Halász|Ing.|48|podnikateľ, podpredseda maďarskej platformy|Trnava|
+12|48|Michal|Páleník|Mgr., PhD.|40|vedec, vysokoškolský pedagóg|Bratislava|
+12|49|Jozef|Žuffa|doc. Dr. theol.|41|vysokoškolský pedagóg, teológ|Bratislava|
+12|50|Martin|Ondráš||43|živnostník|Horné Mýto|
+12|51|Oto|Hodulík|Ing.|33|manažér|Horné Orešany|
+12|52|Dana|Cervanová|Mgr.|53|profesionálny náhradný rodič|Sučany|
+12|53|Viola|Želinská|PhDr.|56|učiteľka|Michalovce|
+12|54|Claudia|Illés|Mgr.|31|podpredsedníčka maďarskej platformy|Komárno|
+12|55|Milena|Fejérová|Mgr. art.|58|podnikateľka|Bratislava|
+12|56|Branislav|Vančo|JUDr.|37|právnik|Bratislava|
+12|57|Richard|Drutarovský|Ing.|48|informatik|Prešov|
+12|58|Zuzana|Vargová|Mgr.|40|podnikateľka|Lučenec|
+12|59|Angelika|Hajníková|PaedDr. Mgr., dipl.p.a.|40|manažérka|Hurbanovo|
+12|60|Dávid|Dej||23|predseda mládežníckej organizácie|Bratislava|
+12|61|Rastislav|Kasan|JUDr.|42|právnik|Levice|
+12|62|Ivan|Hudcovský||40|živnostník|Trenčín|
+12|63|Radoslav|Škraban|Ing.|45|mechanický inžinier|Diviaky nad Nitricou|
+12|64|Peter|Koupil||39|manažér starostlivosti o zákazníkov|Bratislava|
+12|65|Pavol|Škápik|Mgr.|35|dátový analytik|Bratislava|
+12|66|Tomáš|Halász||35|fotoreportér, environmentalista|Bratislava|
+12|67|Renáta|Popundová|Mgr.|49|vedúca zdravotná sestra|Zvolen|
+12|68|Ernő|Kárpáty|Bc.|31|podpredseda maďarskej platformy|Kolárovo|
+12|69|Jozef|Beňo|JUDr., PhD.|41|advokát|Poprad|
+12|70|Jana|Poláčiková|PhDr.|53|vysokoškolská pedagogička|Bratislava|
+12|71|Jaroslav|Kovács|Mgr.|35|projektový manažér, podpredseda maďarskej platformy|Tešedíkovo|
+12|72|Michaela|Kršková|M.A.|37|investičná manažérka|Bratislava|
+12|73|Tomáš|Derka|doc. RNDr., PhD.|48|ekológ, vysokoškolský pedagóg|Vysoká pri Morave|
+12|74|Rastislav|Tešovič|Mgr.|41|právnik|Bratislava|
+12|75|Petra|Hitková|Mgr., PhD.|44|vysokoškolská pedagogička|Bratislava|
+12|76|Natália|Nash|PaedDr.|46|procesná analytička|Bratislava|
+12|77|Emília|Mesarošová|Mgr.|43|zdravotnícka záchranárka|Jastrabie pri Michalovciach|
+12|78|Milan|Laurinc|PhDr., PhD., MPH|42|zdravotná sestra, riaditeľ kancelárie komory sestier|Bratislava|
+12|79|Stanislav|Tkáč|Ing.|51|stavebný inžinier, komunálny poslanec|Košice|
+12|80|Natália|Kochanová|Mgr.|30|právnička|Vrútky|
+12|81|Slavomír|Novák|Ing.|54|lesný inžinier, vedúci odboru mestského úradu|Humenné|
+12|82|Filip|Gaál|JUDr.|32|obchodný manažér|Košice|
+12|83|Oliver|Petrík|MUDr., PhD.|45|lekár|Dolná Mičiná|
+12|84|Juraj|Benčík|Mgr. art.|53|učiteľ a umelec|Martin|
+12|85|Juraj|Dobšovič|Mgr.|32|živnostník|Bratislava|
+12|86|Tomáš|Bořuta|MBA|34|riaditeľ kultúrneho centra|Považská Bystrica|
+12|87|Erik|Radačovský|Mgr.|24|komunálny poslanec|Sabinov|X
+12|88|Jana|Popovičová||55|ekonómka|Veľký Grob|
+12|89|Hedviga|Markotánová||50|účtovníčka|Veľký Ďur|
+12|90|Samuel|Skokňa|Mgr.|29|environmentálny manažér|Sučany|
+12|91|Zuzana|Kotrus Rákociová|Mgr.|44|prednostka mestského úradu|Tlmače|
+12|92|Martin|Hanes|Bc.|41|podnikateľ v stavebníctve|Banská Bystrica|
+12|93|Martin|Vician|Ing.|40|finančný manažér|Bratislava|
+12|94|Richard|Johanides|JUDr.|36|právnik|Trebišov|
+12|95|Radúz|Dula|Mag. FH|40|manažér hotela|Bratislava|
+12|96|Anna|Dojčanová|Mgr.|58|podnikateľka|Bratislava|
+12|97|Jozef|Pavlík||51|podnikateľ|Makov|
+12|98|Tomáš|Mikluščak|Ing., PhD.|33|projektový manažér|Žilina|
+12|99|Zuzana|Magálová|Mgr.|43|občianska aktivistka, komunálna poslankyňa|Bratislava|
+12|100|Veronika|Veslárová|Mgr.|31|právnička|Bratislava|
+12|101|Ján|Glasnák||47|grafik|Žilina|
+12|102|Jozef|Ľos-Božik||21|študent|Svidník|
+12|103|Andrej|Kovarik|Mgr.|36|ekológ, splnomocnenec primátora hlavného mesta pre životné prostredie|Bratislava|
+12|104|Peter|Gregor|Mgr.|38|manažér prevádzky|Trnava|
+12|105|Szilárd|Both|Ing.|57|podnikateľ, konzultant|Šamorín|
+12|106|Dagmar|Kažimírová|MVDr.|53|učiteľka|Košice|
+12|107|Marián|Oravec|Mgr.|54|podnikateľ|Piešťany|
+12|108|Matej|Magura|Ing.|25|geodet|Michalovce|
+12|109|Petra|Hudáková|JUDr.|37|právnička, manažérka|Bratislava|
+12|110|Juraj|Gašpárek||27|obchodný zástupca, projektový manažér|Považská Bystrica|
+12|111|Natália|Svítková|Ing.|33|predsedníčka gymnastického klubu, komunálna poslankyňa|Prievidza|
+12|112|Mariana|Murínová||29|obchodníčka|Ružomberok|
+12|113|Marcel|Mojžiš|Ing.|41|manažér|Banská Bystrica|
+12|114|Lukáš|Šauša||30|IT špecialista|Martin|
+12|115|Matej|Bučko||33|občiansky aktivista|Banská Bystrica|
+12|116|Natália|Jamborová|BSBA|27|finančná analytička v bankovom sektore|Potvorice|
+12|117|Ondrej|Šarník||30|IT špecialista|Prešov|
+12|118|Andrej|Kothaj|Mgr.|32|podnikateľ|Slovenský Grob|
+12|119|Eva|Kalkan||38|podnikateľka|Biely Kostol|
+12|120|Katarína|Nádaská|Mgr., PhD.|52|pracovníčka vo verejnej správe|Bratislava|
+12|121|Lukáš|Čavoj||33|technik prevádzky|Lučenec|
+12|122|Tomáš|Miške|Mgr. Bc.|40|riaditeľ pobočky poisťovne, podpredseda maďarskej platformy|Dunajská Streda|
+12|123|Tomáš|Malec|Mgr., PhD.|28|splnomocnenec primátora hlavného mesta pre poslancov mestského zastupiteľstva, komunálny poslanec|Nové Mesto nad Váhom|
+12|124|Marián|Mališ|Ing.|50|metodik, aktivista v oblasti dopravy|Ivanka pri Dunaji|
+12|125|Veronika|Basta|Ing.|43|projektová a finančná manažérka, komunálna poslankyňa|Rovinka|
+12|126|Jana|Dologová|Ing.|43|lektorka, prekladateľka|Kvetoslavov|
+12|127|Milan|Ďuračka|Ing.|46|živnostník|Bánovce nad Bebravou|
+12|128|Zuzana|Hudeková|Ing., PhD.|55|krajinná architektka|Bratislava|
+12|129|Bronislava|Garajová|JUDr.|43|advokátka|Poltár|
+12|130|Renáta|Igľárová||49|finančná maklérka|Liptovský Mikuláš|
+12|131|Jakub|Krako|Ing., PhD.|29|paralympionik|Bratislava|
+12|132|Michal|Dolňan|JUDr.|37|právnik|Brezno|
+12|133|Jana|Molčanová|MUDr.|47|lekárka|Vranov nad Topľou|
+12|134|Attila|Forgács||36|manažér maďarskej platformy|Kolárovo|
+12|135|Peter|Kapsa||45|manažér|Senica|
+12|136|Helena|Sláviková|Mgr.|53|učiteľka|Šurany|
+12|137|Jaroslav|Fignár|Ing.|59|letecký technik|Bardejov|
+12|138|Lucia|Szorádová|Mgr. Bc. et Bc.|29|tlmočníčka, prekladateľka|Lužianky|
+12|139|Dominika|Iľková|Mgr.|29|bankárka|Trebišov|
+12|140|Martin|Kubina|Bc.|31|dispečer v železničnej doprave|Martin|
+12|141|Libor|Gula|Ing., M.A.|45|finančný manažér, komunálny poslanec|Bratislava|
+12|142|Veronika|Šrobová|Ing.|30|obchodná manažérka|Zuberec|
+12|143|Peter|Paulinský|JUDr.|36|advokát|Moldava nad Bodvou|
+12|144|Ladislav|Blažek|Mgr.|32|ľudskoprávny aktivista za práva menšín|Bratislava|
+12|145|Robert|Greizinger|Mgr.|41|obchodný riaditeľ|Bratislava|
+12|146|Vladimír|Olej|Ing.|35|koordinátor projektov v oblasti energetiky|Liptovský Mikuláš|
+12|147|Martin|Jurikovič|Ing.|28|ekonóm|Trenčín|
+12|148|Dávid|Šingovský|Mgr.|34|marketingový poradca - špecialista|Snina|
+12|149|Iveta|Gavačová|Mgr.|54|advokátka|Stará Turá|
+12|150|Jana|Dubovcová|JUDr.|67|advokátka|Banská Bystrica|
+13|1|František|Gőgh|Ing., DBA|56|starosta|Veľké Úľany|
+13|2|Viliam|Rigo||56|starosta|Veľký Grob|
+13|3|Jozef|Čechovič|Mgr.|46|starosta|Jánovce|
+13|4|Rastislav|Holúbek||42|poslanec NR SR|Bratislava|
+13|5|Henrieta|Dvorská|Mgr.|30|marketingová a kultúrna manažérka|Partizánske|
+13|6|Viliam|Kandra||35|asistent poslanca|Vranov nad Topľou|
+13|7|Milan|Špánik|Ing.|48|poslanec NR SR|Nové Mesto nad Váhom|
+13|8|Peter|Podmajerský||43|obchodný riaditeľ|Myjava|
+13|9|Martin|Augustín||35|SZČO|Igram|
+13|10|Ľubomír|Talda||44|generálny manažér|Púchov|
+13|11|Štefan|Straňák|Ing.|40|výkonný riaditeľ|Horná Kráľová|
+13|12|Michal|Marček||31|štatutár|Omšenie|
+13|13|Juraj|Mokoš||48|konštruktér, designer|Chotín|
+13|14|Kristián|Kevický|Mgr.|49|správca|Bratislava|
+13|15|Igor|Mandák||57|starosta|Selice|
+13|16|Pavol|Tóth|MVDr.|61|starosta|Dlhá nad Váhom|
+13|17|Jozef|Kováč|Mgr.|50|starosta|Mníchova Lehota|
+13|18|Tatiana Simona|Demová|PhDr.|56|SZČO|Bratislava|
+13|19|Barbara|Mokošová||26|maklérka|Chotín|
+13|20|Katarína|Hegyiová|Ing.|43|predajkyňa|Bratislava|
+13|21|Gejza|Gyurcsi||43|manažér reprezentácie SR - vodné pólo|Bratislava|
+13|22|Martin|Hoza|Ing. arch.|53|SZČO - architekt|Bratislava|
+13|23|Ľubor|Hallon|PhDr., CSc.|64|dôchodca|Bratislava|
+13|24|Marco|Porázik||21|študent|Bratislava|
+13|25|Kristián|Sercel||35|živnostník|Veľké Úľany|
+13|26|Zoltán|Máriš||38|živnostník|Veľké Úľany|
+13|27|Peter|Forró|Mgr.|33|SZČO|Čierna Voda|
+13|28|Jozef|Mužlay||44|SZČO|Senec|
+13|29|Denisa|Letuseková|Mgr.|47|zdravotná sestra|Jelka|
+13|30|Mikuláš|Weber||58|podnikateľ|Bratislava|
+13|31|Margaréta|Festbaumová|PhDr.|41|vychovávateľka ZŠ|Senec|
+13|32|Jozef|Kovács||35|vedúci dopravy|Jelka|
+13|33|Katarína|Hamarová|Bc.|44|finančná manažérka|Štvrtok na Ostrove|
+13|34|Ján|Modrocký|JUDr.|29|právnik|Veľké Úľany|
+13|35|Pavol|Augustín||33|manažér|Igram|
+13|36|Peter|Špánik||44|SZČO|Nové Mesto nad Váhom|
+13|37|Boris|Krajčí|Mgr.|49|zdravotník|Nové Mesto nad Váhom|
+13|38|Petronela|Augustínová|Mgr.|33|materská dovolenka|Kaplna|
+13|39|Alojz|Mikóczi|MVDr.|49|podnikateľ|Veľké Úľany|
+13|40|Július|Nemčík||46|sales manager|Dunajská Streda|
+13|41|Marek|Šimko||34|predajca|Nové Mesto nad Váhom|
+13|42|Maroš|Bánoczký|Mgr.|43|operátor|Jelka|
+13|43|Robert|Pál||47|podnikateľ|Bratislava|
+13|44|Martin|Podmajerský|Mgr.|26|price/cost analyst|Kolárovo|
+13|45|Martina|Dudová|PhDr.|46|zdravotná sestra|Košice|
+13|46|Andrea|Lengová||45|zdravotná sestra|Zohor|
+13|47|Milan|Holič||34|SZČO|Myjava|
+13|48|Rebeka|Čechovičová|Mgr.|24|študentka|Jánovce|
+13|49|František|Gőgh|MBA.|29|SZČO|Veľké Úľany|
+13|50|Štefan|Mikóczy||41|predseda družstva|Hrubý Šúr|
+13|51|Tomáš|Šill||42|podnikateľ|Štvrtok na Ostrove|
+13|52|Renata|Neszméry||38|administratívna pracovníčka|Reca|
+13|53|Stanislav|Šurik||34|vodič|Trenčín|
+13|54|Peter|Sýkora||35|výrobný pracovník|Trenčín|
+13|55|Monika|Neszméry||38|predavačka|Reca|
+13|56|Henrieta|Andrášiová|Mgr.|27|asistentka manažéra|Veľké Úľany|
+13|57|Ján|Neszméry||40|SHR|Reca|
+13|58|Miroslav|Vánik||51|informatik|Bratislava|
+13|59|Nikoleta|Lovasová|Ing.|31|finančná referentka|Veľké Úľany|
+13|60|Katarína|Vánik Kaprinay||44|zdravotná sestra|Veľké Úľany|
+13|61|Patrik|Botka||22|študent|Jánovce|
+13|62|Lukáš|Benko||25|SZČO|Bratislava|
+13|63|Tomáš|Mikóczi|Mgr.|28|poľnohospodár|Veľké Úľany|
+13|64|Ján|Modrocký||51|štatutár|Veľké Úľany|
+13|65|Pavol|Neszméry||35|SZČO|Reca|
+13|66|Mária|Modrocká||47|referentka|Veľké Úľany|
+13|67|Marek|Mogrovics||27|skladník|Veľké Úľany|
+13|68|Márk|Winkler||24|referent|Veľké Úľany|
+13|69|Mária|Hodúrová||33|čašníčka|Veľké Úľany|
+13|70|Gábor|Modrocký||28|vodič|Veľké Úľany|
+13|71|Michal|Kiss||59|vodič|Veľké Úľany|
+13|72|Zoltán|Szalai||53|vodič|Veľké Úľany|
+13|73|Adrián|Lovas||32|referent kvality|Veľké Úľany|
+13|74|Klára|Macháčová||50|zdravotná sestra|Dunajská Streda|
+13|75|Zoltán|Steinhauser||52|vodič|Veľké Úľany|
+13|76|Ján|Szijjárto||57|vodič|Jelka|
+13|77|Rastislav|Pavlíček||41|stolár|Banka|
+13|78|Júlia|Šípová||26|recepčná|Veľké Kostoľany|
+13|79|Mária|Kraváriková||50|ekonómka|Veľké Kostoľany|
+13|80|Daniel|Janega||23|SZČO|Veľké Kostoľany|
+13|81|Barbora|Kraváriková||27|recepčná|Veľké Kostoľany|
+13|82|Dana|Vicziánová|Ing.|39|chemička|Jelka|
+13|83|Martin|Petic||37|skladník|Veľké Kostoľany|
+13|84|Pavol|Bernát||41|SZČO|Veľké Kostoľany|
+13|85|Lucia|Lužáková||33|SZČO|Veľké Kostoľany|
+13|86|Gréta|Ondrušová||27|učiteľka, vychovávateľka|Veľké Kostoľany|
+13|87|Alena|Ondrušová||54|účtovníčka|Veľké Kostoľany|
+13|88|Zuzana|Hybská||37|študentka|Senec|
+13|89|Kristián|Vidra||34|SZČO|Jelka|
+13|90|Gabriela|Peticová||34|upratovačka|Veľké Kostoľany|
+13|91|Michal|Lukáč||36|vodič|Jelka|
+13|92|Ladislav|Tanko||39|SZČO|Jelka|
+13|93|Monika|Fördös||44|zdravotná sestra|Vydrany|
+13|94|Erika|Gelnická||26|materská dovolenka|Čierna Voda|
+13|95|Jana|Gőghová||46|SZČO|Veľké Úľany|
+14|1|Pavel|Weiss|Ing.|74|manažér|Bratislava|
+14|2|Vladimír|Chlebo|Ing., CSc.|69|riaditeľ|Košice|
+14|3|Soňa|Snopková|Ing. JUDr.|43|právnička|Bratislava|
+14|4|Miroslav|Boldiš|Ing.|73|dôchodca|Bratislava|
+14|5|Ester|Tvrdoň Flóra|JUDr.|48|IT konzultantka|Svätý Jur|
+14|6|Marek|Šoun||41|manažér|Hubice|
+14|7|Radoslav|Aron||41|riadiaci pracovník|Košice|
+14|8|Vlastimil|Vicen|Dr.h.c. Ing. JUDr.|57|prorektor|Stupava|
+14|9|Jozef|Ivančík||63|dôchodca|Šenkvice|
+14|10|Ferdinand|Búci|RNDr.|62|podnikateľ|Bratislava|
+14|11|Klaudia|Franeková||46|projektová manažérka|Bratislava|
+14|12|Miroslava|Šuttová|Ing.|72|dôchodkyňa|Bernolákovo|
+14|13|Jaroslav|Moravčík||47|riadiaci pracovník|Kočovce|
+14|14|Michal|Madro||67|podnikateľ|Podolie|
+14|15|Jozef|Vašina|JUDr.|58|riaditeľ|Levice|
+14|16|Miloslav|Dupaj||42|manažér|Žiar nad Hronom|
+14|17|Ľubomíra|Kubicová||55|dôchodkyňa|Dubnica nad Váhom|
+14|18|Ladislav|Kozmon|Ing.|60|podnikateľ|Bratislava|
+14|19|Roman|Blanár||56|prevádzkar|Bratislava|
+14|20|Rita|Wagnerová|Ing.|67|dôchodkyňa|Bratislava|
+14|21|Janka Esther|Luknár|Mgr.|42|právnička|Bratislava|
+14|22|Monika|Albertiová|PhDr.|45|metodička|Lovinobaňa|
+14|23|Marko|Madarás|Bc.|27|študent|Bratislava|
+14|24|Silvester|Húska|Mgr.|68|dôchodca|Bratislava|
+14|25|Tomáš|Purgi|Ing.|33|konateľ|Bratislava|
+14|26|Jozef|Illéš|Mgr. art.|74|pedagóg|Bratislava|
+14|27|Rudolf|Varga||45|grafik|Moldava nad Bodvou|
+14|28|Miroslav|Purgat||39|programátor|Prievidza|
+14|29|Jiří|Kolda||54|úradník|Moravský Svätý Ján|
+14|30|Peter|Tököly||47|živnostník|Bratislava|
+14|31|Zuzana|Poťmáková|Ing.|43|manažérka|Rožňava|
+14|32|Marián|Polák|Ing.|41|manažér|Nové Zámky|
+14|33|Kristína|Kupková|Mgr.|32|office manažérka|Trnava|
+15|1|Alojz|Hlina||49|predseda politického hnutia|Bratislava|
+15|2|Milan|Majerský|PaedDr.|48|predseda Prešovského samosprávneho kraja|Levoča|
+15|3|Pavol|Zajac|Ing.|53|stavebný technik|Sedliská|
+15|4|Peter|Bobula|Ing. Mgr.|53|živnostník|Urmince|
+15|5|Caroline|Líšková|Ing., PhD.|48|ekonómka|Bratislava|
+15|6|Eva|Grey|prof. MUDr., PhD., MHA|51|lekárka, profesorka|Bratislava|
+15|7|Miroslava|Szitová|Mgr., PhD.|45|starostka|Smižany|
+15|8|Igor|Janckulík|Bc.|51|poslanec NR SR|Krušetnica|
+15|9|Andrej|Klapica|Dott.|42|ekonóm|Piešťany|
+15|10|Marek|Cimbala|PaedDr., PhD.|35|riaditeľ kancelárie predsedu PSK|Levoča|
+15|11|Milan|Kabina|Mgr.|30|mládežnícky aktivista, manažér|Banská Štiavnica|
+15|12|Marián|Čaučík|Ing.|54|riaditeľ Dobrej noviny|Bratislava|
+15|13|Bohdan|Hroboň|doc. Ing., PhD., M.A.|51|vedecko-výskumný pracovník TFTU|Martin|
+15|14|Renáta|Ocilková|PaedDr. Mgr.|48|pedagogička, koordinátorka pastorácie Rómov|Bratislava|
+15|15|Soňa|Gaborčáková|PhDr.|42|poslankyňa NR SR|Stará Ľubovňa|
+15|16|Elena|Červeňáková|Mgr.|60|poslankyňa NR SR|Košice|
+15|17|Anna|Verešová|Mgr.|55|poslankyňa NR SR|Kamenná Poruba|
+15|18|Jozef|Makúch|doc. Ing.|66|ekonóm|Bratislava|
+15|19|Bohumír|Živčák|ThDr. PaedDr., PhD.|51|laický misionár|Podolínec|
+15|20|Miriam|Kuzárová|Mgr.|42|riaditeľka CitizenGO|Poprad|
+15|21|Marek|Michalčík|Ing.|43|hlavný koordinátor Národného pochodu za život|Brestovany|
+15|22|Ján|Hencel|MUDr., MSc.|50|lekár|Kežmarok|
+15|23|Ondrej|Krajňák|PaedDr. ThDr., PhD.|57|dokumentarista|Bratislava|
+15|24|Martin|Šmilňák|Mgr.|46|riaditeľ cirkevnej školy|Bardejov|
+15|25|Marcel|Mikolášik|Ing.|39|ekonóm|Ivanka pri Dunaji|
+15|26|Dušan|Krnáč|Ing.|69|poľnohospodár|Michalovce|
+15|27|Juraj|Kuciak|Ing.|42|stavebný inžinier|Štiavnik|
+15|28|Miroslav|Dzurech|Ing.|53|riaditeľ Trnavskej arcidiecéznej charity|Hlohovec|
+15|29|Branislav|Borovský|Mgr.|56|konzultant|Bratislava|
+15|30|Katarína|Hulmanová|Ing., Mgr.|61|kresťanská aktivistka|Bratislava|
+15|31|Anton|Hudák|Ing., PhD.|46|znalec v odbore cestná doprava, manažér|Bardejov|
+15|32|Tomáš|Merašický||36|poslanec Trenčianskeho samosprávneho kraja|Partizánske|
+15|33|Ján|Beljak|PhDr., PhD.|40|vedec-archeológ|Zvolen|
+15|34|Marián|Javorka|Ing.|49|starosta|Likavka|
+15|35|František|Orlovský|MUDr.|57|chirurg|Stará Ľubovňa|
+15|36|Roman|Sova|Ing.|52|ekonóm|Senica|
+15|37|Ján|Nigut|Ing.|45|starosta|Košice|
+15|38|Andrej|Čopík|Ing.|42|starosta|Kovarce|
+15|39|Dušan|Pekár|JUDr. Ing.|56|technik|Bratislava|
+15|40|Andrea|Turčanová|Ing.|53|primátorka|Prešov|
+15|41|Stanislav|Horník|Mgr.|44|primátor|Hriňová|
+15|42|Irena|Milecová|Mgr.|58|primátorka|Tisovec|
+15|43|Milan|Kolesár|MVDr.|48|primátor|Jelšava|
+15|44|Michal|Kapusta|MVDr.|46|primátor|Spišské Podhradie|
+15|45|Pavol|Hudáček||59|starosta|Lendak|
+15|46|Jana|Skokanová|PaedDr.|54|starostka|Hrabušice|
+15|47|Ján|Baloga|Ing.|61|starosta|Víťaz|
+15|48|Michal|Strnál|Ing.|35|starosta|Oravská Polhora|
+15|49|Vladimír|Šiška|Ing.|58|starosta|Zuberec|
+15|50|Zdenko|Kubáň|Mgr.|39|starosta|Malatiná|
+15|51|Ján|Kokarda|Ing.|59|starosta|Ždaňa|
+15|52|Ján|Serbin||59|starosta|Baška|
+15|53|Juraj|Guzej|JUDr.|60|starosta|Parchovany|
+15|54|Marek|Rakoš||41|starosta|Raslavice|
+15|55|Ján|Šurkala|Mgr., PhD.|30|starosta|Zborov|
+15|56|Mikuláš|Mašlej||62|starosta|Lúčka|
+15|57|Vladimír|Guoth||58|starosta|Ivachnová|
+15|58|Ladislav|Sedlák|Ing., PhD.|63|starosta|Bobrovec|
+15|59|Marián|Šurjanský|PhDr.|34|starosta|Rudno nad Hronom|
+15|60|Július|Remenár|Mgr.|51|starosta|Ostrý Grúň|
+15|61|Marián|Spišiak|Ing.|64|starosta|Riečka|
+15|62|Peter|Žemba||51|starosta|Mníšek nad Popradom|
+15|63|Peter|Lačný||41|starosta|Teplička|
+15|64|Rastislav|Krajčík|Ing.|53|starosta|Tuchyňa|
+15|65|Daniela|Sigetová||48|starostka|Ratnovce|
+15|66|Daniel|Bago||47|starosta|Tesáre|
+15|67|Štefan|Hrenák|Ing.|54|starosta|Slopná|
+15|68|Peter|Vrablec|Ing.|50|starosta|Závod|
+15|69|Anton|Stanko|Ing.|59|starosta|Veľký Klíž|
+15|70|Rastislav|Zanovit|MUDr.|46|všeobecný lekár|Námestovo|
+15|71|Martin|Jakubov|MUDr.|49|lekár|Stropkov|
+15|72|Monika|Kolejáková|MUDr.|49|lekárka špecialista|Nové Zámky|
+15|73|Jozef|Baláž|MUDr.|41|lekár|Banská Bystrica|
+15|74|Ľubomír|Jacko|MUDr., PhD., MBA|62|lekár|Petrovany|
+15|75|Andrea|Baníková|MUDr.|53|lekárka|Poltár|
+15|76|Imrich|Bakši|Mgr.|34|zdravotnícky záchranár, poslanec KSK|Ždaňa|
+15|77|Anna|Macková|PhDr., MPH|59|sestra|Zvolen|
+15|78|Mária|Javornická|Mgr.|60|sestra|Košice|
+15|79|Zuzana|Máderová|Mgr.|40|sestra|Bratislava|
+15|80|Marek|Šmid|Dr.h.c., prof., doc. JUDr., PhD.|60|vysokoškolský pedagóg|Ivanka pri Dunaji|
+15|81|Marcel|Tkáč|RNDr.|47|riaditeľ spojenej školy|Lúčka|
+15|82|Štefan|Kristofčák|Mgr.|56|riaditeľ gymnázia|Tvrdošín|
+15|83|Pavol|Chmeliar|Mgr.|49|riaditeľ cirkevného gymnázia|Plavnica|
+15|84|Adriana|Bariová|RNDr.|49|riaditeľka spojenej školy|Buzica|
+15|85|Natalija|Kravčenko|Mgr.|45|učiteľka|Hrabovčík|
+15|86|Anna|Kožiaková|Ing.|50|riaditeľka školy|Tisovec|
+15|87|Martin|Baxa|Mgr.|46|učiteľ|Brezno|
+15|88|Jakub|Kintler|Ing., PhD.|40|vysokoškolský učiteľ|Bratislava|
+15|89|Daniel|Mikloško|Mgr., PhD.|43|riaditeľ Domova pre mladých dospelých|Dunajská Lužná|
+15|90|Katarína|Maceková|Mgr.|25|dobrovoľnícka aktivistka|Čajkov|
+15|91|Peter|Forgáč|Mgr.|28|projektový manažér|Granč - Petrovce|
+15|92|Michala|Musalová|Mgr.|27|sociálna pracovníčka|Stará Ľubovňa|
+15|93|Ján|Tkáč|Mgr., MMus Cantab|30|pedagóg, manažér v neziskovej organizácii, publicista|Michalovce|
+15|94|Matúš|Mesároš|Mgr.|25|právnik, koordinátor práce s mládežou|Horné Otrokovce|
+15|95|Stanislav|Genčúr|Bc.|24|študent práva|Brezovica|
+15|96|Boris|Kočko||23|študent|Levoča|
+15|97|Peter|Marek|Bc.|30|odborník v oblasti informačných technológií|Kováčová|
+15|98|Ján|Drahoš||22|študent|Martin|
+15|99|Peter|Šulek|Ing.|33|ekonomický analytik|Bratislava|
+15|100|Martin|Lauko|JUDr.|69|právnik, publicista|Bratislava|
+15|101|Ernest|Birvoň||78|manažér ľudských zdrojov|Lipovec|
+15|102|Jozef|Husár||73|herec-recitátor|Bratislava|
+15|103|Ľubica|Gálisová||75|prezidentka občianskeho združenia|Prievidza|
+15|104|Peter|Makara|Ing.|35|ekonóm|Sedlice|
+15|105|Michal|Babin|PhDr., MBA|57|technik|Humenné|
+15|106|Anna|Grigová|Ing.|61|dôchodkyňa|Rudina|
+15|107|Viliam|Majda|Ing., PhD.|57|projektový manažér|Martin|
+15|108|Ján|Jakubišin|Bc.|43|živnostník|Jaklovce|
+15|109|Ľubor|Kalafus|Mgr.|40|koordinátor pre inovácie|Košice|
+15|110|Ľuboš|Žiško|Mgr.|46|softvérový špecialista|Čereňany|
+15|111|Ján|Kmeť|Mgr., PhD.|51|riaditeľ DSS a ZpS|Trenčín|
+15|112|Ondrej|Uhliarik|Ing.|45|starosta|Jablonové|
+15|113|Václav|Trnka||59|rehabilitačný masér|Levoča|
+15|114|Peter|Štuller|MUDr.|64|detský lekár|Dunajská Streda|
+15|115|Vladimír|Butko|Ing.|64|projektant|Trnava|
+15|116|František|Refka||43|ekonóm|Nitra|
+15|117|Jaroslav|Dubec|ThLic. Mgr. Ing.|56|kanonista|Žitavany|
+15|118|Margaréta|Žigová||41|sociálna pracovníčka|Lovinobaňa|
+15|119|Róbert|Boháčik||43|energetik|Tisovec|
+15|120|Miloslav|Olejár|Ing. arch.|47|architekt|Bardejov|
+15|121|Jozef|Kropiľák||54|živnostník|Sabinov|
+15|122|Jozef|Kúdelčík|doc. RNDr., PhD.|45|vysokoškolský pedagóg|Žilina|
+15|123|Štefan|Markovič|Ing.|64|dôchodca|Ruskov|
+15|124|Igor|Geletka|Mgr. Ing.|47|stavbyvedúci, energetik|Spišská Nová Ves|
+15|125|Ján|Krátky||67|manažér|Trenčín|
+15|126|Ján|Kšiňan|Ing., PhD.|44|plánovač výroby|Bánovce nad Bebravou|
+15|127|Milan|Šindler|Ing.|61|podnikateľ, elektrotechnik|Bratislava|
+15|128|Pavol|Baxa|Ing.|61|zamestnanec verejnej správy|Bratislava|
+15|129|Jozef|Bolješik|JUDr.|38|advokát|Ostrov|
+15|130|Zuzana|Bošnáková|JUDr.|33|právnička, špecialistka verejného obstarávania|Trnava|
+15|131|Peter|Bendik||29|marketingový a športový manažér|Poprad|
+15|132|Peter|Hlavatý||42|realitný maklér|Šaľa|
+15|133|Martin|Čuchor|Ing.|42|technicko-hospodársky pracovník|Zvolen|
+15|134|Anna|Ďuricová|Ing., PhD.|50|vysokoškolská učiteľka|Banská Belá|
+15|135|Patrícia|Bujňáková|PaedDr.|46|učiteľka|Poprad|
+15|136|Michal|Paľovčík|Mgr.|34|administratívny pracovník|Michalovce|
+15|137|Peter|Sučanský|Mgr.|51|živnostník|Čachtice|
+15|138|Andrej|Botek|Ing. arch. Mgr., PhD.|62|vysokoškolský pedagóg|Bratislava|
+15|139|Branislav|Kramár|MUDr.|46|chirurg|Trnava|
+15|140|František|Finta||33|dátový analytik|Nitra|
+15|141|Radovan|Junas|MUDr., MHA|48|lekár|Kremnica|
+15|142|Dávid|Čech|Bc.|26|pedagóg, hudobník|Bartošovce|
+15|143|Michal|Černý|Ing., PhD.|30|vedec - výskumník|Bratislava|
+15|144|Róbert|Korec|Mgr.|48|projektový manažér|Pata|
+15|145|Pavol|Mičuda|Mgr.|59|živnostník|Horovce|
+15|146|Matúš|Lakoštík|Mgr., PhD.|38|viceprimátor|Dolný Kubín|
+15|147|Peter|Weber|Ing.|43|podpredseda Žilinského samosprávneho kraja|Bytča|
+15|148|Peter|Máťoš|PhDr.|32|viceprimátor mesta|Považská Bystrica|
+15|149|Daniel|Rusnák||60|podpredseda Košického samosprávneho kraja|Košice|
+15|150|Lucia|Gurbáľová|Mgr.|48|námestníčka primátora|Košice|
+16|1|Roman|Ruhig|Mgr.|49|právnik|Bratislava|
+16|2|Eva|Zelenayová|Ing.|74|šéfredaktorka|Bratislava|
+16|3|Jozef|Behýl|Mgr.|62|podnikateľ|Bratislava|
+16|4|Štefan|Hrušovský|prof. MUDr., CSc., Dr., SVS|65|gastroenterológ|Bratislava|
+16|5|Iveta|Kurillová|Ing.|51|obchodná riaditeľka|Rovinka|
+16|6|Peter|Futáš|doc. Ing., PhD.|42|vysokoškolský pedagóg|Košice|
+16|7|Martina|Sarková||42|manažérka|Sliač|
+16|8|Jaroslav|Belúch|Mgr.|41|učiteľ|Rosina|
+16|9|Ivan|Melicher|Ing.|56|bezpečnostný analytik|Veľké Orvište|
+16|10|Róbert|Bačinský||54|SZČO|Bratislava|
+16|11|Emil|Vaňko|JUDr.|60|advokát|Tŕnie|
+16|12|Miroslav|Kríž|Ing., PhD.|66|súdny znalec|Bratislava|
+16|13|Vladimír|Malý|Ing.|69|konateľ|Bratislava|
+16|14|Renáta|Knezović|PhDr. Mgr., PhD.|54|riaditeľka domova dôchodcov|Bratislava|X
+16|15|Peter|Hanic|Ing.|68|kultúrny pracovník|Bratislava|
+16|16|Marian|Hlavatovič|Ing.|64|SZČO|Bratislava|
+16|17|Peter|Šedovič|Bc.|31|manažér|Nitra|
+16|18|Miroslav|Bartoš|Mgr.|51|nezávislý audiovizuálny producent|Bratislava|
+16|19|Lýdia|Babarcsíková|Mgr.|35|politologička|Čečejovce|
+16|20|Matúš|Čák|Mgr.|45|zamestnanec MO SR|Trenčín|
+16|21|Nikola|Kutáková|Bc.|27|cashier|Martin|
+16|22|Zuzana|Čičová||63|dôchodkyňa|Drietoma|X
+16|23|Vladimír|Šulan||59|zdravotný ošetrovateľ|Veľký Krtíš|
+16|24|Peter|Zelenay|Mgr.|50|pracovník v gastronómii|Bratislava|
+16|25|Stanislav|Kubica||49|cukrár|Pusté Úľany|
+16|26|Andrej|Marko||29|konateľ|Dechtice|
+16|27|Jozef|Gajdoš|Mgr.|46|mestský policajt|Lipany|
+16|28|Pavol|Richtarčík|Mgr.|50|učiteľ|Spišská Nová Ves|
+16|29|Ján|Grendel||67|dôchodca|Liptovský Mikuláš|
+16|30|Rudolf|Slezák|Ing.|73|dôchodca|Bratislava|
+16|31|Monika|Bagitová||53|dispečerka|Kolárovo|
+16|32|Gabriela|Balajová||53|invalidná dôchodkyňa|Trenčín|
+16|33|Ladislav|Lendvay|Bc.|25|ošetrovateľ-sestra|Veľký Krtíš|
+16|34|Ján|Markovič|Ing.|65|realitný maklér|Bratislava|
+16|35|Jarmila|Karasová||77|novinárka|Bratislava|
+16|36|Martin|Škriňa||40|konateľ spoločnosti|Bratislava|
+16|37|Vincent|Kubek||70|redaktor|Bardejov|
+16|38|Vladimír|Šúth||41|záchranár|Veľký Krtíš|
+16|39|Anna|Cmoríková|PhDr.|59|pracovníčka vo verejnej správe|Plešivec|
+16|40|Alexander|Koreň|PhDr.|65|dôchodca|Nové Mesto nad Váhom|X
+16|41|Mária|Žáková||29|čašníčka|Rovinka|
+16|42|Juraj|Peržo|Mgr.|63|učiteľ|Modra|
+16|43|Ivica|Rokošná||73|dôchodkyňa|Trenčín|
+16|44|Jorge|Porubský||62|tlmočník SZČO|Veľké Kostoľany|
+16|45|Patrik|Frič||25|konateľ|Nová Dubnica|
+16|46|Peter|Rusnák||57|živnostník|Žiar nad Hronom|
+16|47|Iveta|Bleilevensová||47|manažérka|Nové Zámky|
+16|48|Tomáš|Balážik|JUDr.|48|advokát|Košice|
+16|49|Jana|Bédiová|BSBA|45|manažérka|Bratislava|X
+16|50|Vladimír|Chalúpka|Ing.|64|SZČO|Bratislava|
+16|51|Štefan|Štark|Ing.|62|podnikateľ|Košice|
+16|52|František|Lakatoš||39|robotník|Zvolen|
+16|53|Marta|Šajbidorová|Ing.|67|dôchodkyňa|Trenčín|
+16|54|Daniela|Dlasková||66|dôchodkyňa|Trenčín|
+16|55|Jozef|Noskovič||46|vodič|Bratislava|
+16|56|Miroslav|Didi||59|dôchodca|Zvolen|
+16|57|Terézia|Látalová||60|producentka|Košice|
+16|58|Ivan|Bereš|MVDr.|76|dôchodca|Bratislava|
+16|59|Miroslav|Obermajer||45|SZČO|Bratislava|
+16|60|Kamil|Selický||55|nezamestnaný|Nové Zámky|
+16|61|Tibor|Kocian||65|dôchodca|Žiar nad Hronom|
+16|62|Ján|Bolf||72|dôchodca|Spišská Nová Ves|
+16|63|Miroslav|Mečár|doc. Ing., CSc.|71|vysokoškolský učiteľ|Bratislava|
+16|64|Viera|Chalúpková||64|dôchodkyňa|Bratislava|
+16|65|Jozef|Banás||58|vodič|Dubnica nad Váhom|
+16|66|Jozef|Molnár||34|dobrovoľne nezamestnaný|Bratislava|
+16|67|Marián|Ševčík|JUDr., CSc.|69|advokát|Bratislava|
+16|68|Jozef|Kalivoda||53|dobrovoľne nezamestnaný|Stupava|
+16|69|Gabriel|Melega||67|dôchodca|Ňárad|
+16|70|Martin|Kováč|Mgr.|45|obchodno-technický zástupca|Trenčín|
+16|71|Radoslav|Haško|Mgr.|48|podnikateľ|Bratislava|
+16|72|Jozef|Magáč||59|SZČO|Brezovka|
+16|73|Peter|Lahita||55|inštruktor sociálnej rehabilitácie|Levice|X
+16|74|Daniel|Bartko||64|dôchodca|Važec|
+17|1|Štefan|Harabin|JUDr.|62|trestný sudca NS SR s prerušeným výkonom funkcie od 1.12. 2019|Bratislava|
+17|2|Anna|Žatková|Ing.|66|dôchodkyňa|Bratislava|
+17|3|Roman|Michelko|Mgr.|48|riaditeľ vydavateľstva|Bratislava|
+17|4|Miroslav|Líška|Ing.|58|invalidný dôchodca|Dunajská Lužná|
+17|5|Igor|Čombor|MUDr., PhD.|75|primátor|Ružomberok|
+17|6|Ivan|Černega|Ing.|34|podnikateľ|Medzilaborce|
+17|7|Monika Sofiya|Soročinová|Mgr., Mgr.|28|MH SR - zástupkyňa GK expozície EXPO DUBAJ|Klokočov|
+17|8|Rudolf|Durdík|JUDr., PhDr.|48|notár|Šamorín|
+17|9|Juraj|Zervan|JUDr.|64|dôchodca|Bratislava|
+17|10|Vladislav|Tóth||31|podnikateľ|Košice|X
+17|11|Jozef|Kalafut||38|nezamestnaný|Ľubica|
+17|12|Iveta|Gálošová Bušová|JUDr., MBA, LL.M.|40|advokátka|Višňové|
+17|13|Viera|Môciková|Ing.|43|konateľka spoločnosti|Uhrovec|
+17|14|Peter|Šulek||35|social media manager|Hriňová|
+17|15|Štefan|Kaliaš|Mgr.|45|riaditeľ školy|Vranov nad Topľou|
+17|16|Marek|Foltán|Ing.|34|obchodný zástupca|Galanta|
+17|17|Martin|Majoroš|Bc.|23|študent|Bratislava|
+17|18|Tamara|Harabinová|Bc.|23|fyzioterapeutka|Bratislava|
+17|19|Mária|Dudašková|Ing.|57|manažérka|Nová Lesná|
+17|20|Ernest|Nagy|Mgr.|51|podnikateľ|Bratislava|
+17|21|Miroslava|Cisárová|Ing., PhD.|36|pedagogička Univerzity Cyrila a Metoda|Sereď|
+17|22|Richard|Beli|Mgr.|45|podnikateľ|Košice|
+17|23|Jan|Špaček|Ing., MPH|59|štátny radca MZ SR|Košice|
+17|24|Peter|Košík|Ing., PhD.|43|elektrotechnik, občiansky aktivista|Zvolen|
+17|25|Marián|Šprlák||32|vedúci dopravy|Suchá Hora|
+17|26|Mário|Jamrich||27|podnikateľ|Vráble|
+17|27|Renáta|Kleinerová|Ing.|50|ekonómka|Veľké Chyndice|
+17|28|Lukáš|Stieranka||30|podnikateľ|Detva|
+17|29|Milan|Spodniak|Ing.|47|starosta obce|Ratka|
+17|30|Stanislav|Lábaj|Ing.|57|obchodný zástupca|Košice|
+17|31|Jana|Tóthová|Ing.|59|projektová manažérka|Margecany|
+17|32|Tichomír|Bittera||53|podnikateľ|Šamorín|
+17|33|Jozef|Budzel||41|živnostník|Bobrov|
+17|34|Bore|Janeski|MUDr.|59|lekár|Košice|
+17|35|Juraj|Gerberi|PhDr.|67|konzultant|Gabčíkovo|
+17|36|Ali|Kamberovič||51|manažér|Michalovce|
+17|37|Ivan|Hriczko|Mgr.|39|podnikateľ|Košice|X
+17|38|Martin|Endrődy|JUDr.|39|advokát|Ivanka pri Nitre|
+17|39|Jana|Pňačeková|Mgr.|33|podnikateľka|Nesvady|
+17|40|Radovan|Znášik|MA., MPP.|40|projektový manažér|Bratislava|
+17|41|Ľudovít|Líška|Mgr.|59|konateľ spoločnosti|Bratislava|
+17|42|Ernest|Poltársky||63|dôchodca|Pôtor|
+17|43|Jozef|Škultéty|JUDr.|64|konateľ spoločnosti|Uhrovec|X
+17|44|Mária|Bačová||63|SZČO|Košice|
+17|45|Ivan|Plevík|Ing.|48|riaditeľ výroby|Tvrdošín|
+17|46|Juraj|Mezei||57|technik|Bratislava|
+17|47|Stanislav|Gaľa||56|podnikateľ|Michalovce|X
+17|48|Miriama|Strončeková||32|praktická sestra|Bardejov|
+17|49|Ivana|Matušková|Mgr.|46|živnostníčka|Jelenec|
+17|50|Juraj|Krajčík|Ing.|53|podnikateľ|Bratislava|
+17|51|Jozef|Molnár|Ing.|28|account manager|Košice|
+17|52|Martin|Sičák|Ing.|32|bankový poradca|Hunkovce|
+17|53|Tatiana|Maceková||45|administratívna pracovníčka|Dolný Kubín|
+17|54|Martin|Suchár|Ing., PhD.|37|business analytik|Bratislava|
+17|55|Tibor|Toderiška||68|podnikateľ|Prešov|
+17|56|Peter|Papala||41|podnikateľ|Malá Čierna|
+17|57|Marek|Čulen||39|slobodný umelec|Pernek|
+17|58|Mária|Murková||67|dôchodkyňa|Rybník|
+17|59|Milan|Dugovič||49|súkromný podnikateľ|Šenkvice|
+17|60|Lukáš|Červeník||26|predseda občianskeho združenia|Žilina|
+17|61|Václav|Mitošinka|pplk. v. v. Ing.|67|vojak vo výslužbe|Piešťany|
+17|62|Daniel|Krempaský||50|SZČO|Vrbov|
+17|63|Ivan|Tóth||43|montér|Vráble|
+17|64|Ivan|Kopanický|Bc.|42|konateľ|Miloslavov|
+17|65|Michal|Klasovitý|Ing.|42|živnostník|Bratislava|
+17|66|Kinga|Bitterová|Mgr.|29|administratívna pracovníčka|Báč|
+17|67|Juraj|Pataky|Ing.|27|inžinier kvality|Telince|
+17|68|Zoltán|Szelle||58|elektrikár|Šamorín|
+17|69|Miroslav|Drmela||68|dôchodca|Dunajská Lužná|
+17|70|Tomáš|Vlčko|Bc.|23|študent|Nitra|
+17|71|Martin|Jenovčík||29|nezamestnaný|Nová Dedina|
+17|72|Ján|Krempaský||53|lesník|Ľubica|
+17|73|Oliver|Petrík|Ing.|58|dôchodca|Michalovce|X
+17|74|František|Budziňák||57|podnikateľ|Poprad|
+17|75|Tichomír|Kačo||63|podnikateľ|Trebišov|
+17|76|Ladislav|Fábrik|Bc.|46|podnikateľ|Veľký Meder|
+17|77|Ján|Široký||24|IT špecialista|Ruskov|
+17|78|David|Savočko||41|SZČO|Bardejov|
+17|79|František|Kolembus||71|dôchodca|Krásno nad Kysucou|
+17|80|Ján|Jamrich|Ing.|31|živnostník|Vráble|
+17|81|Ľubomír|Kopecký|Ing.|67|konzultant|Trenčín|
+17|82|Lucia|Sűttő|PaedDr., PhD.|31|učiteľka|Veľký Lapáš|
+17|83|Branislav|Kriška|Mgr.|48|športovo-technický riaditeľ|Senec|
+17|84|Stanislava|Červeňová|Mgr.|42|advokátska koncipientka|Miloslavov|X
+17|85|Tibor|Zagyi||64|konateľ|Hriňová|
+17|86|Anna|Kaňáková|Mgr.|33|servírka|Vysoká nad Kysucou|
+17|87|Eva|Šajánková|JUDr.|46|súdna exekútorka|Skalica|
+17|88|Miroslav|Mikulek||50|konateľ spoločnosti|Dvorníky|
+17|89|Róbert|Ondriáš|Mgr.|39|podnikateľ|Bratislava|
+17|90|Roman|Kubíček|Ing.|48|podnikateľ|Skalica|
+17|91|Gabriela|Kučerová|Bc.|50|živnostníčka|Bučany|
+17|92|Július|Kučera|Ing.|50|výrobno-technický riaditeľ|Krupina|
+17|93|Zlatica|Palenčíková|Ing.|46|manažérka|Vranov nad Topľou|
+17|94|Peter|Skalina|JUDr.|43|advokátsky koncipient|Košice|
+17|95|Jozef|Blaško|Mgr.|51|stavebný robotník|Dvorníky|
+17|96|Michaela|Nagyová|Ing.|25|poisťovacia poradkyňa|Martin|
+17|97|Michal|Hanic||31|živnostník|Trnava|
+17|98|Martin|Mitro||42|odborný pracovník|Teplička nad Váhom|
+17|99|Zdenko|Bukovinský||54|majster|Spišské Bystré|
+17|100|Ľubomír|Hrozen||50|zamestnanec mestského úradu|Šaštín - Stráže|
+17|101|Štefan|Surmánek|PhDr., CSc.|67|dôchodca|Košice|
+17|102|Miroslav|Šott||49|vedúci dopravy|Bardejov|
+17|103|Adrián|Stach||46|konateľ|Košice|
+17|104|Dušan|Ďurčák|Ing.|37|manažér hotela|Piešťany|
+17|105|Patrícia|Goča|PhDr.|39|farmaceutka|Partizánske|
+17|106|Ľubica|Blašková|PhDr.|64|občianska aktivistka|Bratislava|
+17|107|Jozef|Grajcár|Mgr.|28|podnikateľ|Bratislava|
+17|108|Peter|Kašša||40|dôchodca|Prievidza|
+17|109|Igor|Macúch|JUDr.|54|advokát|Bratislava|
+17|110|Mikuláš|Varga||68|manager / riadiaci pracovník|Bratislava|
+17|111|Adriana|Kumančíková||54|predajkyňa vozidiel|Biely Kostol|
+17|112|Pavol|Nemec|MUDr.|48|lekár|Bratislava|
+17|113|Marcel|Kotula||44|finančný sprostredkovateľ|Stupava|
+17|114|Pavel|Gernát||58|živnostník|Lipany|
+17|115|Michal|Gajdula||33|živnostník|Bratislava|
+17|116|Natália|Balanová||55|učiteľka súkromného gymnázia|Trenčín|X
+17|117|Jozef|Turjan|Ing.|62|odborný pracovník|Bratislava|
+17|118|Maroš|Hudák||25|online marketér|Vranov nad Topľou|
+17|119|Kamil|Petriska|Ing.|42|manažér v dopravnom staviteľstve|Bernolákovo|
+17|120|Petra|Grebáčová||22|študentka|Beladice|
+17|121|Ildikó|Osvaldová|JUDr.|63|advokátka|Želiezovce|
+17|122|Martina|Hockicková|ThLic.|37|inštruktorka sociálnej rehabilitácie|Košice|
+17|123|Roman|Hudok||32|strážnik|Partizánske|X
+17|124|Stanislav|Michalik|Ing.|53|podnikateľ|Nitra|
+17|125|Jozef|Križan|Ing.|63|dôchodca|Poprad|
+17|126|Michal|Truban||32|vodič|Martin|
+17|127|Adam|Adamec|Bc.|28|zdravotný inštrumentár|Nitra|
+17|128|Branislav|Nemec|Ing., PhD.|37|stavebný dozor|Levice|
+17|129|Vladimír|Bartko|Mgr.|32|informatik - modelovanie finančných dát|Bratislava|
+17|130|Teodor|Doval|Ing.|55|nezamestnaný|Topoľčany|
+17|131|Anežka|Poradová|Ing.|61|ekonómka|Lučenec|
+17|132|Milan|Garaj||61|SZČO|Zákamenné|
+17|133|Zdenka|Ammer||42|pracovníčka banky|Nové Zámky|
+17|134|Ján|Korista||60|poverený riaditeľ|Nová Baňa|
+17|135|Martin|Bielik||39|živnostník|Vráble|
+17|136|Katarína|Jandová||21|nezamestnaná|Vráble|
+17|137|Erik|Majerčák|Ing.|47|ekonóm|Košice|
+17|138|Milan|Ševčík||53|podnikateľ|Banská Bystrica|
+17|139|Ľuboš|Pagáč|Ing., Mgr.|55|živnostník|Nitra|
+17|140|Edita|Farkasová|Mgr.|55|finančná poradkyňa|Lontov|
+17|141|Miroslav|Glonek|Ing.|61|učiteľ|Vrútky|
+17|142|Stanislav|Žužič||42|kvalifikovaný robotník|Bratislava|
+17|143|Matúš|Chylík|Ing.|62|konateľ|Bytča|
+17|144|Ján|Sýkora||51|chemik - vedúci zmeny|Bratislava|
+17|145|Marcela|Gallová||48|živnostníčka|Banská Bystrica|
+17|146|Ľuboslav|Habán|Ing.|73|dôchodca|Bratislava|
+17|147|Rudolf|Gabryš|Ing.|63|starosta obce|Hontianske Moravce|
+17|148|Vladimír|Krekule|Ing.|56|školiteľ|Zbyňov|
+17|149|Miloslav|Haas|PhDr., PhD.|65|živnostník|Bratislava|
+18|1|Árpád|Érsek|PaedDr.|61|minister|Šamorín|
+18|2|Béla|Bugár|Ing.|61|podpredseda NR SR|Šamorín|
+18|3|László|Sólymos|Ing.|51|minister|Bratislava|
+18|4|Ábel|Ravasz|Mgr.|34|splnomocnenec vlády|Dunajská Streda|
+18|5|Tibor|Bastrnák|MUDr.|55|poslanec NR SR, lekár|Komárno|
+18|6|Elemér|Jakab|Mgr.|52|poslanec NR SR|Veľké Raškovce|
+18|7|Andrej|Hrnčiar|Mgr. art.|46|podpredseda NR SR|Dolný Kalník|
+18|8|Alžbeta|Ožvaldová|PhDr.|59|podpredsedníčka BSK|Bratislava|
+18|9|Peter|Krajňák|Mgr.|38|štátny tajomník ministerstva školstva|Prešov|
+18|10|Csaba|Fehér||43|historik|Komárno|
+18|11|Attila|Agócs|Mgr., PhD.|41|primátor|Fiľakovo|
+18|12|Gabriel|Csicsai|MVDr., PhD.|51|štátny tajomník MPRV SR|Dunajská Streda|
+18|13|Viliam|Novotný|MUDr., MPH|46|lekár|Košice|
+18|14|Irén|Sárközy|Ing. JUDr.|49|poslankyňa NR SR|Dunajská Streda|
+18|15|Štefan|Vavrek|Mgr.|37|poslanec NR SR|Hubovo|
+18|16|Konrád|Rigó|Ing.|40|štátny tajomník MK SR|Dunajská Streda|
+18|17|Ladislav|Balódi|Mgr.|48|poslanec NR SR|Vydrany|
+18|18|Michal|Goriščák|JUDr. PhDr., PhD.|34|riaditeľ ÚPSVaR, viceprimátor mesta Svidník|Svidník|
+18|19|Zuzana|Csadyová|Mgr.|54|starostka|Čierna Voda|
+18|20|Karol|Pataky|Ing.|42|primátor|Kráľovský Chlmec|
+18|21|Andrea|Vitkóová|JUDr., PhD.|46|vysokoškolská pedagogička|Štúrovo|
+18|22|Pavol|Burdiga||53|prednosta mestského úradu|Rožňava|
+18|23|Jozef|Jobbágy|Ing.|68|starosta|Svätý Peter|
+18|24|Marián|Tóth|Ing., MBA|42|starosta|Tvrdošovce|
+18|25|Zoltán|Fekete|Ing.|53|starosta|Nýrovce|
+18|26|Ladislav|Nagy|Mgr.|55|prednosta mestského úradu|Tornaľa|
+18|27|František|Juhos|JUDr.|58|prednosta okresného úradu|Trstice|
+18|28|László|Bukovszky|PhDr.|53|splnomocnenec vlády pre národnostné menšiny|Matúškovo|
+18|29|Peter|Petrikán|PaedDr.|48|primátor|Veľké Kapušany|
+18|30|Marek|Rigó||36|starosta|Zlaté Klasy|
+18|31|Róbert|Tölgyesi||50|živnostník|Šaľa|
+18|32|Viktor|Lestyánszky||57|starosta|Ipeľské Predmostie|
+18|33|Bertalan|Bóna|Ing.|62|prednosta okresného úradu|Nové Zámky|
+18|34|János|Sárközi||46|sociálny pracovník|Svätý Peter|
+18|35|František|Oľha|Ing.|49|výrobný riaditeľ|Prešov|
+18|36|Tomáš|Agócs||45|geodet|Gemerský Jablonec|
+18|37|Richard|Koky|Mgr., MHA., MPH|44|koordinátor asistentov osvety zdravia|Svit|
+18|38|Peter|Morvay||30|manažér|Senec|
+18|39|Vladimír|Vágási|Mgr.|57|riaditeľ|Košice|
+18|40|František|Vangel|Bc., PhD, MBA|49|riaditeľ|Dunajská Streda|
+18|41|Norbert|Krušinský|Ing.|37|vedúci prevádzky|Moldava nad Bodvou|
+18|42|Zsolt|Sebő|MUDr.|56|lekár|Komárno|
+18|43|Róbert|Csudai||54|starosta|Hronovce|
+18|44|Ida|Ivánová|Ing.|51|hlavná kontrolórka obce|Vlčany|
+18|45|Marian|Keruľ||55|krajský manažér|Margecany|
+18|46|Zoltán|Antal|Mgr.|57|lekárnik|Tornaľa|
+18|47|Štefan|Kertész|Ing.|58|riaditeľ|Panické Dravce|
+18|48|Agneša|Tóthová||59|podnikateľka|Šamorín|
+18|49|Ágnes|Héder|PaedDr.|58|mediátorka|Komárno|
+18|50|Jaroslav|Cehlárik|Mgr.|36|riaditeľ|Opoj|
+18|51|Robert|Anna|Ing.|55|prednosta okresného úradu|Lipovník|
+18|52|Marek|Hegedus||31|konateľ|Košice|
+18|53|Lajos|Csóka|Ing.|56|starosta|Veľké Kosihy|
+18|54|László|Hajdu|Mgr.|48|podnikateľ|Diakovce|
+18|55|Lajos|Berner||56|starosta|Janíky|
+18|56|Jozef|Želinský|Ing.|33|zástupca primátora|Kráľovský Chlmec|
+18|57|Jozef|Maďar|Mgr.|48|štátny zamestnanec|Handlová|
+18|58|Peter|Hajdú|Mgr. Ing.|33|pedagóg|Košice|
+18|59|Rita|Pásztorová|Ing.|37|starostka|Malá nad Hronom|
+18|60|Angela|Hefty|Mgr., PhD.|40|výskumná asistentka|Hamuliakovo|
+18|61|Žaneta|Jarošová|Mgr.|27|koordinátorka vzdelávania|Medzilaborce|
+18|62|Marcel|Fagyas||43|starosta|Vrbovka|
+18|63|Július|Muranský|MUDr., MPH|50|chirurg|Galanta|
+18|64|Kristián|Kovács||37|manažér|Horná Potôň|
+18|65|Imrich|Zsigmond||30|obchodný zástupca|Vinica|
+18|66|Dušan|Blanarovič||44|hasič-záchranár|Bratislava|
+18|67|Eduard|Daniš||62|dôchodca|Pezinok|
+18|68|Elena|Fialková|Mgr.|63|učiteľka|Mokrance|
+18|69|Ladislav|Kerata|Ing.|45|starosta|Veľká Ves nad Ipľom|
+18|70|Zdenka|Mačicová|Mgr.|51|starostka|Košúty|
+18|71|Beáta|Áčová|PhDr., PhD.|52|vysokoškolská pedagogička|Branč|
+18|72|Iveta|Bačićová||52|osobná asistentka|Bratislava|
+18|73|Peter|Pandy|JUDr.|43|advokát|Kráľovský Chlmec|
+18|74|László|Szendi|Mgr.|55|prednosta okresného úradu|Veľké Kosihy|
+18|75|Jozef|Dúcz|Ing.|53|vodohospodár|Malinovo|
+18|76|Milan|Burčík|Ing.|57|obchodný riaditeľ|Liptovský Hrádok|
+18|77|Ivan|Seňan||37|starosta|Veľká Paka|
+18|78|Atila|Bohács|JUDr.|46|starosta|Boľ|
+18|79|Attila|Boldi||50|konateľ|Košice|
+18|80|Richard|Sárközi||32|spevák|Bratislava|
+18|81|Gabriela|Józan Horváth|Ing.|37|prednostka okresného úradu|Štvrtok na Ostrove|
+18|82|Michal|Jakubis||47|koordinátor|Nováky|
+18|83|Rudolf|Gregorovič|Ing. Mgr.|49|predseda občianskeho združenia|Humenné|
+18|84|Agáta|Janková|PaedDr.|58|stredoškolská učiteľka|Kalonda|
+18|85|Peter|Tóth||48|starosta|Brestovec|
+18|86|Adrian|Kubica|JUDr.|43|starosta|Váhovce|
+18|87|Vladimír|Vavrek||45|SZČO|Veľký Šariš|
+18|88|Alexander|Hubač|Ing.|56|starosta|Bruty|
+18|89|František|Magyari|Ing.|48|starosta|Chotín|
+18|90|Emanuel|Seemann||62|živnostník|Bratislava|
+18|91|Csaba|Csízi|Mgr.|54|prednosta okresného úradu|Číž|
+18|92|Orsolya|Lörinczová||26|podnikateľka|Marcelová|
+18|93|Július|Pallér|Bc.|57|železničiar|Košice|
+18|94|Róbert|Legát||39|podnikateľ|Tornaľa|
+18|95|Karol|Farkas||44|starosta|Trávnik|
+18|96|Róbert|Tomeček|Mgr. PhDr., LLM|35|podnikateľ|Galanta|
+18|97|Valéria|Širochmanová|Mgr.|59|riaditeľka ZŠ|Svätuš|
+18|98|Renáta|Klauková|PhDr.|45|manažérka|Dunajská Streda|
+18|99|Róbert|Mészáros|Ing.|44|manažér železničnej dopravy|Dvory nad Žitavou|
+18|100|Ladislav|Somogyi||50|podnikateľ|Tešedíkovo|
+18|101|Eleonóra|Majorová|Bc.|24|pedagogička|Kolárovo|
+18|102|Ladislav|Kiss|Mgr.|52|starosta|Lúč na Ostrove|
+18|103|Ladislav|Lengyel|Ing.|53|starosta|Virt|
+18|104|Jozef|Kovács|Ing.|59|starosta|Jur nad Hronom|
+18|105|Peter|Hencz||44|starosta|Bátka|
+18|106|Karol|Ferencz|Bc.|44|starosta|Holiša|
+18|107|Monika|Patócs Khernová||34|špecialistka poľovníckej osvety|Jelka|
+18|108|Dominika|Vážna|Mgr.|36|vedúca odboru|Prievidza|
+18|109|Pavel|Kováč|Mgr.|53|učiteľ|Vranov nad Topľou|
+18|110|Viktor|Palko|Ing.|42|súkromný podnikateľ|Čierna nad Tisou|
+18|111|Gabriela|Gönczölová|JUDr. Ing.|47|starostka|Dedina Mládeže|
+18|112|Márk|Varga||23|štátny zamestnanec|Čechynce|
+18|113|Edita|Tóthová||51|manažérka|Šahy|
+18|114|Erika|Kušická|PhDr.|57|riaditeľka ÚPSVaR|Vinica|
+18|115|Robert|Magyar|Ing.|50|špecialista-stavebný inžinier|Košice|
+18|116|Július|Banyák||49|obchodný zástupca|Vydrany|
+18|117|Zuzana|Sláviková|Ing.|54|štátna radkyňa|Horná Kráľová|
+18|118|Attila|Tuloki|Mgr.|49|vedúci úseku|Štúrovo|
+18|119|Karol|Streda||53|starosta|Málaš|
+18|120|Jácint|Kecskeméti|Mgr.|34|analytik|Štúrovo|
+18|121|Pavol|Šebák||51|ochranár|Nová Sedlica|
+18|122|Peter|Palásti|Ing.|27|projektový manažér|Bratislava|
+18|123|Jaroslava|Bagiová|Ing.|49|krajská riaditeľka VšZP|Sládkovičovo|
+18|124|Magdaléna|Zsiga|Ing.|51|riaditeľka ÚPSVaR|Horná Seč|
+18|125|Ján|Szakál|Ing.|66|dôchodca|Pozba|
+18|126|Zuzana|Fitosová||58|starostka|Bodza|
+18|127|Ružena|Kukolíková||64|dôchodkyňa|Rimavská Sobota|
+18|128|František|Varga||34|študent VŠ|Fiľakovo|
+18|129|Štefan|Čermák||55|starosta|Tureň|
+18|130|Ľubomír|Demský|MUDr.|54|lekár|Košice|
+18|131|Ervín|Zeleník|Mgr.|62|výsluhový dôchodca|Prievidza|
+18|132|Peter|Rico|Ing., MBA, LL.M|41|riaditeľ ÚPSVaR|Biel|
+18|133|Ľubica|Horánska|Mgr.|46|štátna zamestnankyňa|Veľký Šariš|
+18|134|Rozália|Tóthová|Mgr.|46|starostka|Patince|
+18|135|Tibor|Tóth|Mgr., MBA|31|manažér vzdelávacej organizácie|Lučenec|
+18|136|Martina|Copáková||40|nezamestnaná|Prešov|
+18|137|Zoltán|Borovský||46|podnikateľ|Veľké Úľany|
+18|138|Attila|Pál|Ing.|50|manažér|Jesenské|
+18|139|Erika|Vaššová|Mgr.|54|odborná pracovníčka komunitného centra|Belina|
+18|140|Norbert|Kovács|Ing.|47|servisný poradca|Dvory nad Žitavou|
+18|141|Tamás|Kiss|Mgr.|26|obchodný zástupca|Kráľovičove Kračany|
+18|142|Tibor|Balázs|Ing.|51|starosta|Gemerská Hôrka|
+18|143|František|Bachorec|Ing.|34|pedagóg|Bajč|
+18|144|Štefan|Horváth|MUDr.|64|lekár|Košice|
+18|145|Valéria|Mihályová|Mgr.|61|pedagogička|Šíd|
+18|146|Stanislav|Kaleja||54|invalidný dôchodca|Sabinov|
+18|147|Tibor|Jerga||48|starosta|Nižná Slaná|
+18|148|Robert|Müller||62|dôchodca|Bratislava|
+18|149|Andrej|Buvalič||57|starosta|Šarišské Čierne|
+18|150|Zoltán|Forró|Ing.|36|manažér|Trstice|
+19|1|Peter|Pellegrini|Ing.|44|predseda vlády SR|Banská Bystrica|
+19|2|Robert|Fico|doc. JUDr., CSc.|55|poslanec NR SR|Bratislava|
+19|3|Denisa|Saková|Ing., PhD.|43|ministerka vnútra SR|Bratislava|
+19|4|Richard|Raši|MUDr., PhD., MPH.|48|podpredseda vlády SR|Košice|
+19|5|Juraj|Blanár|Ing.|53|poslanec NR SR|Žilina|
+19|6|Peter|Žiga|Ing., PhD.|47|minister hospodárstva SR|Košice|
+19|7|Ladislav|Kamenický|Ing.|49|minister financií SR|Bratislava|
+19|8|Jaroslav|Baška|Ing.|44|poslanec NR SR|Dohňany|
+19|9|Erik|Tomáš|Mgr.|44|poslanec NR SR|Bratislava|
+19|10|Matúš|Šutaj Eštok|Mgr.|33|vedúci Úradu vlády SR|Bratislava|
+19|11|Ľuboš|Blaha|Mgr. PhDr., PhD.|40|vysokoškolský učiteľ|Bratislava|
+19|12|Ján|Richter|JUDr.|63|minister|Nitra|
+19|13|Ľubica|Laššáková|PhDr.|59|ministerka kultúry SR|Banská Bystrica|
+19|14|Martin|Nemky|Ing., MBA|39|poslanec NR SR|Nitra|
+19|15|Ján|Podmanický|JUDr. PhDr., PhD.|42|poslanec NR SR|Stará Bystrica|
+19|16|Peter|Kmec|JUDr.|53|diplomat|Senec|
+19|17|Viliam|Zahorčák||60|primátor mesta Michalovce|Michalovce|
+19|18|Marián|Saloň|Ing., PhD.|42|štátny tajomník|Stará Ľubovňa|
+19|19|Ľubomír|Petrák|Ing., CSc.|58|poslanec NR SR|Hurbanova Ves|
+19|20|Boris|Susko|JUDr., PhD.|49|štátny tajomník|Ivanka pri Dunaji|
+19|21|Ľubomír|Vážny|Ing.|62|poslanec NR SR|Banská Bystrica|
+19|22|Jozef|Habánik|doc. Ing., PhD.|43|rektor|Trenčín|
+19|23|Vladimír|Faič||71|poslanec NR SR|Prašice|
+19|24|Dušan|Muňko|Ing.|75|poslanec NR SR|Bratislava|
+19|25|Anton|Stredák|PaedDr.|56|štátny tajomník|Nitra|
+19|26|Róbert|Puci|Ing.|46|poslanec NR SR|Trebišov|
+19|27|Peter|Šuca|PaedDr.|51|poslanec NR SR|Nová Lesná|
+19|28|Ján|Ferenčák|PhDr. Mgr., MBA|45|primátor mesta Kežmarok|Kežmarok|
+19|29|Dušan|Galis||70|poslanec NR SR|Bratislava|
+19|30|Dušan|Jarjabek|doc. Mgr. art.|66|poslanec NR SR|Bratislava|
+19|31|Maroš|Kondrót|Ing.|59|poslanec NR SR|Bratislava|
+19|32|Vladimír|Baláž|MUDr., PhD.|61|lekár|Banská Bystrica|
+19|33|Jana|Vaľová|PhDr.|54|poslankyňa NR SR|Humenné|
+19|34|Richard|Takáč|Ing.|37|obchodný riaditeľ|Prievidza|
+19|35|Marián|Kéry|Mgr.|42|poslanec NR SR|Zlaté Moravce|
+19|36|Jozef|Valocký|MUDr.|63|poslanec NR SR|Galanta|
+19|37|Stanislav|Kubánek|Ing.|68|poslanec NR SR|Prešov|
+19|38|Ján|Blcháč|Ing., PhD.|60|primátor mesta|Liptovský Mikuláš|
+19|39|Augustín|Hambálek|Ing.|62|poslanec NR SR|Trnava|
+19|40|Vladimír|Jánošík|Ing.|54|primátor mesta Lipany|Lipany|
+19|41|Ján|Kvorka||65|poslanec NR SR|Blatnica|
+19|42|Zdenko|Svoboda|Mgr., MBA|37|ekonomicko-technický námestník|Nitra|
+19|43|Branislav|Ondruš|Mgr.|46|štátny tajomník|Bratislava|
+19|44|Pavol|Goga|PaedDr.|56|poslanec NR SR|Topoľčany|
+19|45|Mária|Janíková|PhDr., MBA|49|poslankyňa NR SR, riaditeľka Centra sociálnych služieb|Partizánske|
+19|46|Jozef|Ježík|MUDr.|52|lekár|Zvolen|
+19|47|Peter|Náhlik|PhDr.|38|poslanec NR SR|Trnava|
+19|48|Ján|Senko|PhDr.|61|poslanec NR SR, starosta|Očová|
+19|49|Vojtech|Ferencz|doc. Ing., PhD.|49|štátny tajomník|Bohdanovce|
+19|50|Marek|Mitterpák|Ing., PhD.|45|poslanec NR SR|Košice|
+19|51|Jozef|Smatana|Ing.|57|prednosta okresného úradu|Považská Bystrica|
+19|52|Kvetoslava|Hejbalová|PhDr.|64|stredoškolská učiteľka|Nové Mesto nad Váhom|
+19|53|Michal|Bagačka|Mgr.|56|štátny tajomník|Hnúšťa|
+19|54|Oľga|Nachtmannová|Mgr., PhD.|56|štátna tajomníčka|Bratislava|
+19|55|Marián|Valentovič|Ing.|36|generálny riaditeľ ÚPSVaR|Trebatice|
+19|56|Martin|Karaš|Ing.|35|riaditeľ kultúrnej inštitúcie|Kamienka|
+19|57|Ladislav|Andreánsky|MUDr.|56|lekár|Liptovský Hrádok|
+19|58|Jozef|Cech|PaedDr.|38|starosta|Skalité|
+19|59|Mikuláš|Krajkovič|Mgr., MBA|51|poslanec NR SR|Vápeník|
+19|60|Jaroslav|Demian|Ing.|57|štátny zamestnanec|Brezno|
+19|61|František|Petro|Ing.|58|starosta|Ploské|
+19|62|Michal|Kapuš|Ing.|39|prednosta okresného úradu|Bánovce nad Bebravou|
+19|63|Pavol|Čorba|PhDr.|38|generálny štátny radca|Žilina|
+19|64|Katarína|Roth Neveďalová|Mgr.|37|poradkyňa podpredsedu vlády SR|Bratislava|
+19|65|Zuzana|Matejičková|Bc.|23|študentka|Komárno|
+19|66|Andrea|Žiaková|Ing.|48|prednostka okresného úradu|Lutila|
+19|67|Richard|Eliáš|JUDr.|33|vedúci majetkovoprávneho odboru OÚ|Prešov|
+19|68|Milan|Mojš|Ing.|63|poslanec NR SR|Likavka|
+19|69|Boleslav|Lešo|MVDr., PhD.|53|prednosta okresného úradu|Baškovce|
+19|70|Peter|Kalivoda|Mgr.|42|riaditeľ|Plavecký Štvrtok|
+19|71|Igor|Válek|Ing.|41|riaditeľ ÚPSVaR|Trnava|
+19|72|Miroslav|Čellár|Mgr. Bc.|36|podpredseda Úradu priemyselného vlastníctva SR|Banská Bystrica|
+19|73|Peter|Obrimčák|MUDr.|59|riaditeľ nemocnice|Poprad|
+19|74|Martin|Petruško|JUDr.|46|právnik|Košice|
+19|75|Iveta|Hanulíková|Ing.|55|riaditeľka inštitútu vzdelávania|Bratislava|
+19|76|Vladimír|Kocourek|Ing.|56|prednosta okresného úradu|Senica|
+19|77|Jozef|Stopka|JUDr. Ing., PhD.|52|prednosta okresného úradu|Handlová|
+19|78|František|Mrázik|Ing.|59|SZČO|Žihárec|
+19|79|Igor|Melicher|Mgr.|26|štátny radca|Poltár|
+19|80|Peter|Gaži|Ing.|54|lesný inžinier|Spišská Belá|
+19|81|Ján|Jakubov|Ing.|62|projektový manažér|Košice|
+19|82|Dušan|Dvoran||66|starosta obce|Vysoká pri Morave|
+19|83|Ján|Horváth|Ing.|65|starosta|Chtelnica|
+19|84|Michal|Moško|Mgr.|46|krajský riaditeľ VŠZP|Trenčín|
+19|85|Ervín|Weiss|Mgr., PhD.|33|vysokoškolský pedagóg|Podhorany|
+19|86|Branislav|Hámorník|Ing.|55|prednosta okresného úradu|Lučenec|
+19|87|Michal|Lukša|Mgr., MBA|57|asistent poslanca|Snina|
+19|88|Ján|Mažgút|Mgr.|38|hovorca strany SMER - SD|Bratislava|
+19|89|Peter|Švider|JUDr. PhDr.|34|právnik|Košice|
+19|90|Rastislav|Strečanský|PhDr. Bc.|35|prednosta okresného úradu|Hlohovec|
+19|91|Henrich|Gašparík|MUDr., PhD.|54|riaditeľ NsP|Rudník|
+19|92|Helena|Bohátová|Ing., PhD.|59|riaditeľka ÚPSVaR|Nové Zámky|
+19|93|Martina|Jarošová Gašparová|Mgr.|36|koordinátorka regionálneho centra sociálnej ekonomiky|Levice|
+19|94|Ján|Baňas|Ing.|52|prednosta okresného úradu|Lipany|
+19|95|Miroslav|Kovalčík|Ing.|57|prednosta okresného úradu|Turčianske Teplice|
+19|96|Štefan|Daňo|RSDr. JUDr.|72|advokát|Košice|
+19|97|Adam|Nociar|JUDr., MPH|33|riaditeľ odboru verejného obstarávania|Bratislava|
+19|98|Júlia|Gálová|Mgr.|65|administratívna pracovníčka|Galanta|
+19|99|Dana|Šťastná|Ing.|51|prednostka okresného úradu Ilava|Dubnica nad Váhom|
+19|100|Dáša|Ďurianová|Bc., DBA|57|finančná riaditeľka|Kozárovce|
+19|101|Radovan|Lehocký|Mgr.|44|hlavný inšpektor práce|Dolná Krupá|
+19|102|Ľuboš|Martinák|Ing.|61|poslanec NR SR|Medzilaborce|
+19|103|Iveta|Krajčovičová|Mgr.|54|vedúca zamestnankyňa|Báhoň|
+19|104|Norbert|Rudický|Mgr.|46|vedúci odboru ÚPSVaR|Veľký Meder|
+19|105|Jozef|Hollan|Bc.|57|vedúci vnútornej správy OcÚ Lednické Rovne|Lednické Rovne|
+19|106|Marek|Oremus|Ing.|56|primátor mesta Šurany|Šurany|
+19|107|Rastislav|Kudla|JUDr.|41|právnik|Trenčín|
+19|108|Štefan|Hreha|Ing.|61|riaditeľ sociálnej poisťovne Vranov nad Topľou|Vranov nad Topľou|
+19|109|Miroslav|Gabara|PhDr.|41|riaditeľ ÚPSVaR Námestovo|Tvrdošín|
+19|110|Richard|Bittner|Mgr.|32|štátny zamestnanec|Piešťany|
+19|111|Peter|Flamík|Bc.|46|starosta obce|Prietržka|
+19|112|Peter|Burčo|Ing.|32|starosta obce|Bátovce|
+19|113|Jozef|Magát|Ing.|51|starosta obce|Sľažany|
+19|114|Daniel|Karas|Mgr.|45|SZČO|Banská Bystrica|
+19|115|Jozef|Guliga|Mgr.|37|vedúci kancelárie primátora|Bardejov|
+19|116|Vladimír|Božek|Ing.|61|riaditeľ ÚPSVaR Martin|Kláštor pod Znievom|
+19|117|Martin|Kostelničák|PhDr., PhD.|36|marketingový manažér|Bratislava|
+19|118|Kamil|Blaho||63|starosta obce|Voznica|
+19|119|Eduard|Hulík|Ing. JUDr.|58|advokát|Bratislava|
+19|120|Roman|Urbáník|PaedDr.|56|starosta obce|Močenok|
+19|121|Marián|Siekela|RNDr.|59|prednosta okresného úradu Veľký Krtíš|Krupina|
+19|122|Vladimír|Macašek|Ing.|61|administratívny pracovník|Kysucké Nové Mesto|
+19|123|Ivana|Antošová|Mgr.|51|manažérka|Bratislava|
+19|124|Evamária|Veselská|Mgr.|26|štátna zamestnankyňa|Holíč|
+19|125|Pavol|Dragula|Mgr.|37|riaditeľ odboru služieb zamestnanosti|Turčianky|
+19|126|Milan|Halúz|Bc.|53|obchodný manažér|Levice|
+19|127|Alexander|Daško|Mgr.|50|riaditeľ SZUŠ - LAVUTA|Banská Bystrica|
+19|128|Miroslav|Štefček|Ing.|57|predseda poľnohospodárskeho družstva|Štiavnička|
+19|129|Marian|Slaminka|JUDr.|34|právnik|Bratislava|
+19|130|Kamil|Vaňa||62|správca priemyselného parku|Trnava|
+19|131|Mário|Zajac|Ing.|48|manažér|Dubnica nad Váhom|
+19|132|Marek|Illéš|Ing.|45|generálny riaditeľ|Nitra|
+19|133|Jozef|Žilík|Ing.|60|riaditeľ|Poltár|
+19|134|Marián|Ličko|Ing.|67|dôchodca|Slovenské Pravno|
+19|135|Lília|Lohnická|Ing.|55|stavebná inžinierka|Bratislava|
+19|136|Radko|Gavliak|Ing.|42|riaditeľ ÚPSVaR|Prievidza|
+19|137|Jozef|Mokoš||53|starosta|Nemčice|
+19|138|Ľubomír|Haško||47|SZČO|Veľký Krtíš|
+19|139|Matúš|Mních|JUDr.|57|starosta|Zázrivá|
+19|140|Dušan|Šebok|JUDr.|49|starosta|Kráľová pri Senci|
+19|141|Milan|Galaba|Mgr.|56|štátny zamestnanec|Zlaté Moravce|
+19|142|Anna|Líšková|Mgr.|46|vedúca majetkovoprávneho odboru OÚ|Žiar nad Hronom|
+19|143|Peter|Morong|RNDr.|49|riaditeľ lesného závodu|Brezno|
+19|144|Janka|Krahulíková|Mgr.|58|riaditeľka ÚPSVaR|Topoľčany|
+19|145|Martin|Madlo|Mgr.|39|SZČO|Piešťany|
+19|146|Božena|Reingraberová||55|účtovníčka|Dunajská Lužná|
+19|147|Roman|Malatinec|Mgr. art.|38|podpredseda BBSK|Korytárky|
+19|148|Petronela|Vižďáková|Ing.|56|prednostka okresného úradu Šaľa|Trnovec nad Váhom|
+19|149|Samuel|Janec|MUDr., MPH.|67|lekár|Bratislava|
+19|150|Erik|Kaliňák|Mgr.|28|kreatívny manažér|Bratislava|
+20|1|Stanislav|Mičev|PhDr., PhD.|62|riaditeľ múzea SNP|Banská Bystrica|
+20|2|Ján|Gabonay|JUDr.|53|zástupca zamestnancov|Spišská Nová Ves|
+20|3|Jana|Gidušková||41|administratívna zamestnankyňa|Rudňany|
+20|4|Vladimír|Strmeň||91|dôchodca|Banská Bystrica|
+20|5|Vladimír|Sklenka|PhDr., PhD.|42|projektový manažér|Banská Bystrica|
+20|6|František|Čekel|Ing.|50|konateľ|Spišská Nová Ves|
+20|7|Július|Kolenič|Ing.|46|projektový manažér|Bratislava|
+20|8|Jiří|Horák||52|podnikateľ|Kľak|
+20|9|Andrej|Lúčny|RNDr., PhD.|48|informatik, učiteľ na VŠ|Banka|
+20|10|Ingrid|Zachorecová|Mgr.|51|riaditeľka ZŠ|Hurbanovo|
+20|11|Pavol|Ružička||39|vedúci tréningového centra|Bratislava|
+20|12|Juraj|Hojnoš||59|administratívny zamestnanec|Spišská Nová Ves|
+20|13|Radovan|Medovič|Ing.|44|učiteľ|Rudno nad Hronom|
+20|14|Jaroslav|Kaščák||38|živnostník|Spišská Nová Ves|
+20|15|Tomáš|Lukačovský|Mgr.|27|štátny úradník, odborník na EÚ|Slovenský Grob|
+20|16|Lucia|Cabuková||34|nezamestnaná|Kysucké Nové Mesto|
+20|17|Stanislav|Ďurík||47|poradca v stavebníctve|Banská Bystrica|
+20|18|Viliam|Mokráň|Ing.|62|stavebný inžinier|Nitra|
+20|19|Slavomír|Kandra||50|nástrojár|Spišské Vlachy|
+20|20|František|Dolný|Ing.|63|predseda poľnohospodárskeho družstva|Levoča|
+20|21|Branislav|Filip||42|riaditeľ|Spišské Vlachy|
+20|22|Štefan|Pendrák||55|nastavovač lisov|Spišské Vlachy|
+20|23|Tomáš|Hurajt||38|zástupca zamestnancov|Huncovce|
+20|24|Vladimír|Klemanič|Mgr.|34|nezamestnaný|Banská Bystrica|
+20|25|Ján|Záchenský||54|starosta|Kordíky|
+20|26|Maja|Repiská|Mgr.|51|učiteľka|Rudno nad Hronom|
+20|27|Jana|Mikulová|Bc.|35|zdravotná sestra|Spišské Vlachy|
+20|28|Aladár|Cichý||65|dôchodca|Krompachy|
+20|29|Ľudmila|Baronová||67|dôchodkyňa|Krompachy|
+20|30|Ondrej|Fabrici||63|dôchodca|Kluknava|
+20|31|Štefan|Grisák||67|dôchodca|Slovinky|
+20|32|Radovan|Čechovič||49|družstevník|Bratislava|
+20|33|Jozef|Tomajko||59|majster odborného výcviku|Spišské Vlachy|
+20|34|Jozef|Spodniak|Ing.|31|konateľ|Košice|
+20|35|Marta|Lőrincová||69|dôchodkyňa|Košice|
+20|36|Andrea|Kmeťová|Mgr.|48|učiteľka|Hodruša - Hámre|
+20|37|Dušan|Cichý||55|vodič sanitky|Krompachy|
+20|38|Emil|Hurta||39|vedúci výroby|Veľká Dolina|
+20|39|Ján|Žemba||54|banský elektrotechnik|Spišská Nová Ves|
+20|40|Martin|Kaščák||36|trainee|Spišská Nová Ves|
+20|41|Marta|Poradová||26|nezamestnaná|Spišské Vlachy|
+20|42|Dušan|Mlynár||56|operátor materiálového manažmentu|Poprad|
+20|43|Tomáš|Zvolenský||40|elektrotechnik|Spišská Nová Ves|
+20|44|Ondrej|Porada||51|strojný mechanik|Spišské Vlachy|
+20|45|Anna|Figľarová||38|upratovačka|Krompachy|
+20|46|Andrej|Čurilla||61|zamestnanec bezpečnostnej služby|Krompachy|
+20|47|Vlasta|Borženská||49|kuchárka|Kolinovce|
+20|48|Juraj|Plesník||35|asistent predaja|Lieskovec|
+20|49|Pavol|Palkovič||41|montér-elektrotechnik|Teplička|
+20|50|Miroslav|Šuca||60|tunelár|Spišská Nová Ves|
+20|51|Ondrej|Porada||21|študent|Spišské Vlachy|
+20|52|Adela|Pitková||78|dôchodkyňa|Spišské Vlachy|
+20|53|Michal|Šalata|Bc.|30|personálny manažér, konateľ|Udavské|
+20|54|Zoltán|Baron||69|dôchodca|Krompachy|
+20|55|Katarína|Hojdová||54|invalidná dôchodkyňa|Spišské Vlachy|
+20|56|Marta|Poradová||50|robotníčka|Spišské Vlachy|
+20|57|Andrea|Droppová|PhDr.|46|terénna sociálna pracovníčka|Jánovce|
+20|58|Jozef|Krištály||29|živnostník|Zvolen|
+20|59|Adela|Čekelová||79|dôchodkyňa|Spišská Nová Ves|
+20|60|Pavol|Peteja||32|SZČO|Bardejov|
+20|61|Daniel|Mitter||49|SZČO|Spišská Nová Ves|
+20|62|Lenka|Semanová||48|upratovačka v ZŠ|Krompachy|
+20|63|Ján|Horváth||35|predavač|Letanovce|
+20|64|Katarína|Hojdová||23|manažérka|Spišské Vlachy|
+20|65|Marián|Čekel||43|SZČO|Spišská Nová Ves|
+20|66|Pavol|Hlávka||60|konateľ|Žilina|
+20|67|Ján|Strišovský||27|nástrojár|Spišská Belá|
+20|68|Cyril|Kapitančík||70|dôchodca|Spišské Vlachy|
+20|69|Jozef|Rychnavský||66|dôchodca|Kolinovce|
+20|70|Anna|Rychnavská||70|dôchodkyňa|Kolinovce|
+20|71|Marián|Tarbaj||39|zamestnanec bezpečnostnej služby|Krompachy|
+20|72|Beáta|Antošová||54|účtovníčka|Spišská Nová Ves|
+20|73|Slavomír|Palenčár||69|dôchodca|Spišská Nová Ves|
+20|74|Anna|Palenčárová||66|dôchodkyňa|Spišská Nová Ves|
+20|75|Augustín|Čambál||72|dôchodca|Spišská Nová Ves|
+20|76|Jozef|Pavlanský||70|živnostník|Spišská Nová Ves|
+20|77|Eva|Pavlanská||66|dôchodkyňa|Spišská Nová Ves|
+20|78|Roman|Vansáč||41|pracovný asistent|Spišská Nová Ves|
+20|79|Beáta|Harmanová||52|sanitárka|Spišská Nová Ves|
+20|80|Ján|Plesník|Ing.|61|živnostník|Zvolen|
+21|1|Martina|Šimkovičová|PaedDr.|48|poslankyňa NR SR|Bratislava|
+21|2|Peter|Marček||66|poslanec NR SR|Bratislava|
+21|3|Martin|Bago|Ing.|31|referent IT, bloger alternatívy|Urmince|
+21|4|Rastislav|Lehotský||55|riaditeľ rádia SITY|Bratislava|
+21|5|Peter|Lipták|MUDr.|60|praktický lekár|Bratislava|
+21|6|Miloš|Smejkal|Ing., DBA|62|výsluhový dôchodca-bezpečnostný expert|Čakany|
+21|7|Milan|Náhlik|Mgr.|43|príslušník PZ SR|Bratislava|
+21|8|Karin|Seifert|Ing.|36|asistentka poslanca NR SR|Bratislava|
+21|9|Dagmar|Weissabelová||57|občianska aktivistka|Bratislava|
+21|10|Viliam|Baňák|Ing.|65|podplukovník vo výslužbe|Zvolen|
+21|11|Miriam Marína|Martošová||40|štátna zamestnankyňa|Bratislava|
+21|12|Filip|Ficek||22|študent|Púchov|
+21|13|Marek|Školuda|Mgr.|44|tlmočník, prekladateľ|Banská Bystrica|
+21|14|Jozef|Maté|Mgr.|55|policajt|Bratislava|
+21|15|Svetlana|Bornayová|Mgr.|60|historička|Rimavská Sobota|
+21|16|Juraj|Slivoš||44|podnikateľ|Trnava|
+21|17|Michaela|Valíčková||43|podnikateľka|Vrútky|
+22|1|Gyula|Bárdos|Mgr.|61|manager|Senec|
+22|2|Szabolcs|Mózes|Mgr.|40|riaditeľ|Šamorín|
+22|3|Péter|Őry|Mgr.|47|starosta|Štvrtok na Ostrove|
+22|4|Zsolt|Simon|Ing.|49|poslanec NR SR|Padarovce|
+22|5|József|Menyhárt|PaedDr., PhD.|43|predseda SMK, vysokoškolský pedagóg|Vrakúň|
+22|6|Örs|Orosz|Mgr.|34|poslanec VÚC|Moča|
+22|7|István|Domin|Ing.|41|starosta obce|Iža|
+22|8|Erzsébet|Janits|PhDr.|43|sociologička|Nitra|
+22|9|József|Nagy|Ing.|51|analytik pre životné prostredie|Dunajská Streda|
+22|10|Zoltán|Cziprusz|Ing.|31|stavebný inžinier|Rimavská Sobota|
+22|11|Iván|Farkas|Ing.|54|starosta|Mužla|
+22|12|Zsolt|Gál|Mgr., Ph.D.|41|vysokoškolský učiteľ|Orechová Potôň|
+22|13|Csaba|Furik||49|starosta|Malý Horeš|
+22|14|Tamás|Zupko||40|starosta|Vozokany|
+22|15|Adrianna|Gergely Papp|Mgr.|47|starostka|Debraď|
+22|16|László|Bindics||38|podnikateľ|Gabčíkovo|
+22|17|Pál|Zachar|Ing.|33|inžinier robotiky|Šahy|
+22|18|Beáta|Kiss|PaedDr.|50|riaditeľka školy|Nýrovce|
+22|19|Dávid|Nagy|JUDr., LL.M.|32|advokát|Nové Zámky|
+22|20|Tamás|Iván|Ing.|28|podnikateľ|Moldava nad Bodvou|
+22|21|Miklós|Viola|MUDr.|49|lekár|Kolárovo|
+22|22|Szabolcs|Bolya||37|zástupca starostu|Gbelce|
+22|23|Árpád|Horváth||56|primátor mesta|Kolárovo|
+22|24|Iván|Fenes|PhDr., LL.M, MBA|52|primátor mesta|Gabčíkovo|
+22|25|Juraj|Nagy||47|kultúrny referent|Krásnohorská Dlhá Lúka|
+22|26|Gergely|Agócs|Mgr.|33|starosta|Kráľov Brod|
+22|27|Terézia|Földváryová|Mgr.|52|starostka|Blatná na Ostrove|
+22|28|Orsolya|Ráczová|MSc.|32|expertka na zahraničnú a bezpečnostnú politiku|Dunajská Streda|
+22|29|Zsolt|Baranyay|Mgr.|41|advokát|Žihárec|
+22|30|Marián|Paulisz|Ing.|34|starosta|Dolné Obdokovce|
+22|31|Tibor|Varga||33|starosta|Kapušianske Kľačany|
+22|32|Flóra|Ondová Reiter|Ing.|43|projektová manažérka|Košice|
+22|33|Tomáš|Bojtoš|Ing.|40|stavbyvedúci|Veľký Krtíš|
+22|34|František|Sztruhár|Ing.|43|manažér|Šamorín|
+22|35|Tichomír|Szolárd||53|strojný technik|Vlčany|
+22|36|Daniel|Miklóš|Mgr.|25|manažér|Štúrovo|
+22|37|Zoltán|Marcinkó|Mgr.|35|starosta obce|Belina|
+22|38|Anikó|Régi||52|podnikateľka|Dolinka|
+22|39|János|Deák|Ing.|39|poľnohospodár|Tornaľa|
+22|40|Peter|Juhász|MUDr.|47|primár|Rimavská Sobota|
+22|41|Csaba|Orosz||48|primátor mesta Šamorín|Šamorín|
+22|42|Ladislav|Polák|Ing.|49|starosta obce|Okoč|
+22|43|László|Bacsó|Bc.|45|starosta obce Topoľníky|Topoľníky|
+22|44|Zoltán|Hájos|JUDr.|52|právnik, primátor|Dunajská Streda|
+22|45|Attila|Geönczeöl||43|vinár|Štúrovo|
+22|46|Zoltán|Horváth|MUDr.|56|lekár|Dunajská Streda|
+22|47|Ildikó|Bauer|Mgr.|31|poslankyňa mestského zastupiteľstva|Komárno|
+22|48|György|Kovács|Ing.|41|manažér|Bratislava|
+22|49|Melinda|Bögi Pathó|PhDr.|47|starostka obce|Zalaba|
+22|50|Tibor|Csenger|Ing.|54|podpredseda Nitrianskeho samosprávneho kraja|Želiezovce|
+22|51|Zita|Cseri||53|starostka obce|Veľké Ludince|
+22|52|Marian|Csákvári||43|starosta obce|Čata|
+22|53|Peter|Balázs|Ing.|33|manažér|Veľký Meder|
+22|54|Eva|Csurkó|Mgr.|55|riaditeľka školy|Košice|
+22|55|Karol|Bugár|Ing.|46|manažér|Šamorín|
+22|56|Zoltán|László||47|štátny zamestnanec|Bajč|
+22|57|Csaba|Simon|Mgr.|34|štátny zamestnanec|Rožňava|
+22|58|Zoltán|Huďár|Mgr.|28|pedagóg|Čoltovo|
+22|59|Ladislav|Štefán||38|podnikateľ|Jablonov nad Turňou|
+22|60|László|Flórián|Mgr.|70|dôchodca|Bratislava|
+22|61|Eva|Kaczová|Mgr.|39|starostka|Trstice|
+22|62|László|Biró|Mgr.|51|pedagóg|Galanta|
+22|63|Juraj|Lancz||45|konateľ spoločnosti|Veľká Mača|
+22|64|Alexander|Képes|JUDr.|34|právnik|Buzica|
+22|65|Zoltán|Bara||44|riaditeľ|Komárno|
+22|66|Zoltán|Bóna|Bc.|29|podnikateľ|Bátorove Kosihy|
+22|67|Richárd|Hamerlik|Ing.|52|hlavný vyjednávač|Vinica|
+22|68|Attila|Asbóth||55|podnikateľ|Moča|
+22|69|Tihamér|Gyarmati|Ing.|55|poslanec VÚC|Svätý Peter|
+22|70|Rozália|Szalay|Ing.|60|starostka|Klížska Nemá|
+22|71|Ildikó|Basternák|Mgr.|57|vedúca lekárnička|Hurbanovo|
+22|72|Tibor|Dolník|Mgr.|56|učiteľ|Bátorove Kosihy|
+22|73|Attila|Mikolai|Mgr.|40|manažér|Komárno|
+22|74|Vojtech|Molnár||47|defektoskopista|Plešivec|
+22|75|Tomáš|Molnár|PhDr.|27|konateľ rehabilitačného centra|Vlčany|
+22|76|Magdaléna|Tárnok|Mgr.|43|politologička-historička, podnikateľka|Komárno|
+22|77|Tibor|Nagy|JUDr.|59|advokát|Kolta|
+22|78|Zoltán|Környi||34|regionálny zástupca|Štúrovo|
+22|79|János|Bób|Ing.|62|starosta|Zemné|
+22|80|Tibor|Dobai|Ing.|40|ekonomický riaditeľ|Komoča|
+22|81|István|Takács|Mgr.|33|pedagóg|Kráľovský Chlmec|
+22|82|Ladislav|Kocsis||36|obchodný zástupca|Veľký Kamenec|
+22|83|Zuzana|Veszprémi|Ing.|47|ekonómka|Borša|
+22|84|Ladislav|Szunyog|Ing.|53|manažér|Kráľovský Chlmec|
+22|85|Marcel|Piekarski||24|politológ|Jesenské|
+22|86|Nándor|Pulen||46|logistický manažér|Horné Saliby|
+22|87|Denisa|Jánoška Sándor|Bc.|45|ekonómka|Kráľovičove Kračany|
+22|88|Péter|Szitás|Mgr., PhD.|35|vysokoškolský učiteľ|Komárno|
+22|89|Enikő|Mag Fodor||31|projektová manažérka|Husiná|
+22|90|Csaba|Žitňár|Ing.|37|podnikateľ|Číž|
+22|91|Dávid|Szvorák||30|učiteľ|Fiľakovo|
+22|92|Zoltán|Halász|MVDr., MPH.|44|manažér|Tornaľa|
+22|93|Kristián|Kerekeš|Bc.|33|zdravotnícky záchranár|Večelkov|
+22|94|Eszter|Janitsová||24|študentka VŠ|Nitra|
+22|95|Oto|Báthory||50|nezamestnaný|Rimavská Sobota|
+22|96|Július|Kiss|Mgr.|60|živnostník|Neded|
+22|97|András|Baranyay|Ing.|33|statik|Tešedíkovo|
+22|98|Róbert|Baros|Ing.|43|manažér|Diakovce|
+22|99|Lóránt|Gömöry|Ing.|42|poľnohospodársky inžinier|Vinica|
+22|100|László|Iván|PaedDr.|40|pedagóg|Tornaľa|
+22|101|Gábor|Szalay|JUDr.|27|právnik|Mokrance|
+22|102|Róbert|Balkó|Ing.|48|starosta|Kolíňany|
+22|103|Tomáš|Óváry||37|podnikateľ - SHR|Veľké Kapušany|
+22|104|Zsuzsanna|Nagy||39|projektová manažérka|Oborín|
+22|105|Attila|Kádár|Bc.|32|správca|Dvorníky - Včeláre|
+22|106|Réka|Bokor||32|šéfredaktorka|Svodín|
+22|107|Attila|Mucha||35|IT špecialista|Tešedíkovo|
+22|108|Árpád|Fazekas|Mgr.|46|podnikateľ-konateľ|Šamorín|
+22|109|Attila|Karaffa||39|viceprimátor|Dunajská Streda|
+22|110|Ákos|Horony|Mgr. art., dr.jur.|45|právnik|Dunajská Streda|
+22|111|László|Szabó||52|zástupca primátora|Dunajská Streda|
+22|112|János|Méry||33|novinár, poslanec obecného zastupiteľstva, predseda klubu|Šamorín|
+22|113|Peter|Farkas|Mgr.|46|podnikateľ|Janíky|
+22|114|Ladislav|Csefo|Ing.|32|ekonóm, manažér životného prostredia|Slavec|
+22|115|András|Gasparik||38|konateľ|Ipeľský Sokolec|
+22|116|Beáta|Bollová||45|podnikateľka-konateľka|Krásnohorské Podhradie|
+22|117|Rozália|Hervay|Mgr.|49|ekonómka|Rohovce|
+22|118|Marian|Soóky|PaedDr.|41|riaditeľ školy, poslanec TTSK|Veľký Meder|
+22|119|Pavel|Élesztős|Ing., PhD.|46|vývojový inžinier|Šamorín|
+22|120|Kinga|Gencs|PaedDr.|30|projektová manažérka|Holice|
+22|121|Róbert|Králik||49|tlačový tajomník SMK|Komárno|
+22|122|Peter|Ondrusek||49|konateľ|Hurbanovo|
+22|123|Ján|Markovics||43|karate tréner, podnikateľ|Kameničná|
+22|124|Peter|Furik||55|strojný inžinier|Kráľovský Chlmec|
+22|125|Dávid|Bencze|Mgr.|29|doktorand|Tvrdošovce|
+22|126|Andrea|Jókai||47|administratívna pracovníčka|Moča|
+22|127|Pavel|Domonkos|PhDr.|33|manažér kultúry|Veľké Dvorníky|
+22|128|Dávid|Ragán||22|vedúci pobočky stávkovej kancelárie|Hrhov|
+22|129|Csaba|Vezér||40|projektový manažér|Mužla|
+22|130|Béla|Hajtman|PhDr.|53|pedagóg|Bardoňovo|
+22|131|Anikó|Korčoková||45|sekretárka|Kosihy nad Ipľom|
+22|132|István|Pomichal|Ing., PhD.|54|poľnohospodársky inžinier|Tomášov|
+22|133|István|Samu|Mgr.|40|učiteľ|Kolárovo|
+22|134|Pavol|Balázs||31|živnostník|Fiľakovo|
+22|135|István|Csurkó||63|technik bezpečnosti a ochrany zdravia pri práci a požiarnej ochrany|Košice|
+22|136|Koloman|Bodnár|Ing.|64|manažér|Rimavská Sobota|
+22|137|Róbert|Tatai||27|podnikateľ - šéfkuchár|Gabčíkovo|
+22|138|Árpád|Csörgő|MVDr.|42|veterinárny lekár|Gabčíkovo|
+22|139|János|Bukovszky|RNDr.|47|riaditeľ školy|Svätý Peter|
+22|140|Péter|Varga|Ing.|54|inžinier záhradníctva, riaditeľ školy|Kravany nad Dunajom|
+22|141|Attila|Stubendek|PhD.|35|softvérový inžinier|Komárno|
+22|142|Ladislav|Dubai||39|vedúci zmeny automobilového závodu|Vlčany|
+22|143|Viktor|Bugár|JUDr.|30|právnik|Ohrady|
+22|144|Attila|Baki|PhD.|41|SZČO - živnostník|Trebušovce|
+22|145|Ferenc|Auxt|Mgr.|67|podnikateľ|Rimavská Sobota|
+22|146|Péter|Csúsz|Mgr.|53|učiteľ|Mikušovce|
+22|147|Gabriella|Németh|PhDr.|62|sociálna poradkyňa|Senec|
+22|148|László|Szigeti||62|úradník|Štúrovo|
+22|149|Pál|Csáky|Ing.|63|technik|Bratislava|
+22|150|József|Berényi|Mgr.|52|podpredseda Trnavského samosprávneho kraja|Dolné Saliby|
+23|1|Roman|Stopka|Mgr.|51|podnikateľ|Trenčín|
+23|2|Emil|Vestenický|Ing.|71|dôchodca|Trenčín|
+23|3|Lenka|Mayerová|Mgr.|43|šéfredaktorka|Bratislava|
+23|4|Stanislav|Petrenec|Ing.|62|dôchodca|Krupina|
+23|5|Igor|Kocan||50|vodárenský pracovník|Vranov nad Topľou|
+23|6|Peter|Ličko|Ing.|68|dôchodca|Krupina|
+23|7|Ľubomír|Kotrík||54|tunelár|Opatovce nad Nitrou|
+23|8|Milan|Hehejik|Ing.|72|dôchodca|Dúbrava|
+23|9|Miroslav|Pivoluska|Ing.|69|dôchodca|Trenčín|
+23|10|Milan|Kupšo||38|SZČO|Vysoká nad Kysucou|
+23|11|Ján|Kubica|Mgr.|33|knihovník|Moravské Lieskové|
+23|12|Peter|Dubravay|PhDr.|75|dôchodca|Kysucké Nové Mesto|
+23|13|Ján|Ďuriš||56|SZČO|Košeca|
+24|1|Marian|Kotleba|Ing. Mgr.|42|poslanec NR SR|Banská Bystrica|
+24|2|Rastislav|Schlosár|Mgr.|35|poslanec NR SR|Bacúrov|
+24|3|Martin|Beluský|Ing., PhD.|32|poslanec NR SR|Piešťany|
+24|4|Eduard|Kočiš|Mgr.|37|opatrovateľ v Dome detí Božieho Milosrdenstva|Stropkov|
+24|5|Magdaléna|Sulanová|Ing.|67|SZČO|Bratislava|
+24|6|Miroslav|Urban|MUDr.|46|primár Ústrednej vojenskej nemocnice SNP Ružomberok|Štiavnička|
+24|7|Tomáš|Taraba|Ing. Mgr.|40|predseda politickej strany KDŽP - Aliancia za Slovensko|Pezinok|
+24|8|Danica|Mikovčáková|Mgr.|43|zdravotná sestra - špecialistka|Zvolen|
+24|9|Andrej|Medvecký||32|podpredseda strany|Tvrdošín|
+24|10|Jozef|Šimko|JUDr.|69|primátor mesta|Rimavská Sobota|
+24|11|Peter|Krupa||39|poslanec NR SR|Nová Dubnica|
+24|12|Ondrej|Ďurica||42|asistent poslanca NR SR|Nitra|
+24|13|Stanislav|Mizík|Mgr.|56|poslanec NR SR|Rovné|
+24|14|Vladimír|Zeman|Ing.|74|asistent poslanca NR SR|Bratislava|X
+24|15|Miroslav|Suja|PaedDr.|43|podpredseda strany|Detva|
+24|16|Slavěna|Vorobelová|Ing.|38|predsedníčka strany Národná koalícia|Humenné|
+24|17|Peter|Molda|Ing.|38|manažér krízového riadenia|Smolenice|
+24|18|Rastislav|Kysel||42|asistent poslanca NR SR|Dolná Trnávka|
+24|19|Štefan|Hudák||40|živnostník|Moldava nad Bodvou|
+24|20|Ján|Kecskés|Mgr.|30|poslanec NR SR|Nitra|
+24|21|Vladimír|Chovan|Ing.|56|generálny riaditeľ|Trnava|
+24|22|Marek|Kotleba|Bc.|36|živnostník|Banská Bystrica|
+24|23|František|Drozd||59|redaktor alternatívneho spravodajstva|Čadca|
+24|24|Miroslav|Ramšak|Ing.|35|živnostník|Trebišov|
+24|25|Peter|Oremus|Ing., PhD.|43|riaditeľ spoločnosti|Nitra|
+24|26|Marek|Géci|JUDr.|36|právnik|Ludanice|
+24|27|Lucia|Žužová|JUDr.|45|asistentka poslanca NR SR|Staré|
+24|28|Stanislav|Drobný|Bc.|49|poslanec NR SR|Piešťany|
+24|29|Dušan|Pacalaj||57|starosta|Malá Lehota|
+24|30|Radovan|Hrádek|Mgr.|65|advokát|Gabčíkovo|
+24|31|Matej|Melicherčík|Ing.|31|konateľ|Kalinovo|
+24|32|Marián|Chmelár|Bc.|59|poslanec NR SR|Bratislava|
+24|33|Filip|Kuffa|Ing. et Ing.|32|lesník|Kežmarok|
+24|34|Dušan|Kričko|Mgr.|55|zástupca primátora|Turany|
+24|35|Ladislav|Svíčka||78|dôchodca|Hlohovec|
+24|36|Štefan|Kuffa|PhDr.|58|riaditeľ hospicu Sv. Alžbety|Kežmarok|
+24|37|Štefan|Krnáč|MUDr.|42|lekár|Hriňová|
+24|38|Rudolf|Huliak|Ing.|44|živnostník|Očová|
+24|39|Marián|Mišún|Mgr.|40|robotník v zlievarni|Púchov|
+24|40|Miroslav|Potančok||45|IT špecialista|Banská Bystrica|
+24|41|Anton|Grňo||48|živnostník|Bánovce nad Bebravou|
+24|42|Kristína|Cibuľová Kubašková|Mgr.|43|farmaceutka|Banská Bystrica|
+24|43|Ján|Pastuszek|Bc.|23|asistent poslanca NR SR, študent|Kežmarok|
+24|44|Andrea|Hudecová||40|manažérka financií|Nové Zámky|
+24|45|Natália|Grausová|MUDr.|66|poslankyňa NR SR|Bratislava|
+24|46|Juraj|Suja||59|SZČO|Hradište|
+24|47|Pavol|Lazar||40|živnostník, kontrolór|Žilina|
+24|48|Pavol|Kopecký|Ing.|41|podnikateľ|Kežmarok|
+24|49|Jana|Drengubiaková||46|živnostníčka|Bodorová|
+24|50|Helena|Goldírová|JUDr.|65|právnička|Košice|
+24|51|Peter|Demjan||35|manažér predaja|Humenné|
+24|52|Jozef|Remenár||43|hasič-záchranár, inštruktor v autoškole|Bučany|
+24|53|Tomáš|Špaček||23|študent|Bratislava|
+24|54|Otília|Hamacková|Ing. JUDr., PhD.|64|SZČO|Plevník - Drienové|
+24|55|Lenka|Bočkayová|Mgr.|35|pedagogička|Topoľčany|
+24|56|Adriana|Zavadinková||46|vedúca výroby|Tisovec|
+24|57|Radovan|Kuruc||33|nezamestnaný|Nové Zámky|
+24|58|Jaroslav|Dudáš|Mgr.|44|inžinier kvality|Veľký Krtíš|
+24|59|Emil|Kupčík||47|živnostník|Zubrohlava|
+24|60|Pavol|Nižnánsky|Bc.|36|podnikateľ|Trnava|
+24|61|Mária|Babinová|Mgr.|31|medzinárodná manažérka predaja|Humenné|
+24|62|Tomáš|Janco|Mgr.|33|konzultant|Košice|
+24|63|Zuzana|Bielená|Mgr.|51|vedúca sestra FNsP Žilina|Radoľa|
+24|64|Miroslav|Vetrík|Mgr.|44|podnikateľ|Bratislava|
+24|65|Marián|Tkáč|Ing., PhD.|70|dôchodca|Bratislava|
+24|66|Vladimír|Repka||62|živnostník|Hontianske Tesáre|
+24|67|Tibor|Pénzeš|Mgr.|33|špecialista prevádzkového manažmentu|Nové Zámky|
+24|68|Martin|Malík|Ing.|43|živnostník|Nové Mesto nad Váhom|
+24|69|Katarína|Šlamiarová||37|predavačka|Bzovík|
+24|70|Stanislava|Zervanová|JUDr.|40|starostka obce|Brunovce|
+24|71|Marek|Tršo||38|manažér|Sekule|
+24|72|Michaela|Sahul||45|nezamestnaná|Bánovce nad Bebravou|
+24|73|Peter|Zajac-Vanka|Ing.|64|dôchodca|Bratislava|
+24|74|Marcel|Urban||37|servisný technik|Lúka|
+24|75|Viliam|Púček||49|učiteľ|Smižany|
+24|76|Dušan|Žiak|Ing.|52|konateľ spoločnosti|Rožňava|
+24|77|Juraj|Bartoš||48|vedúci výroby|Košeca|
+24|78|Vladimír|Krnáč||52|SZČO|Kriváň|
+24|79|Roman|Vančo||36|teamleader|Sereď|
+24|80|Alojz|Hančin|Ing.|51|stavebný manažér|Želiezovce|
+24|81|Ján|Stanko||48|starosta obce|Parihuzovce|
+24|82|Kristián|Babic|Bc.|23|študent|Bernolákovo|
+24|83|Stanislav|Dolež||49|živnostník|Nitra|
+24|84|Róbert|Pukalovič|Mgr.|59|tréner, manažér ľadového hokeja|Bratislava|
+24|85|Michaela|Hornáčková||30|asistentka - radkyňa|Bratislava|
+24|86|Branislav|Ladický|Mgr.|33|pedagóg|Trenčín|
+24|87|Peter|Kozinka|Mgr.|38|manažér|Tovarníky|
+24|88|Andrej|Gmitter|Ing.|54|živnostník|Bardejov|
+24|89|Anna|Matuláková|PhDr., PhD.|46|živnostníčka|Bojnice|
+24|90|Juraj|Vodenský|PhDr. Mgr.|41|podnikateľ|Bratislava|
+24|91|Klaudia|Hrušková||42|SZČO|Banská Bystrica|
+24|92|Kristína|Laššáková||34|asistentka poslanca NR SR|Bratislava|
+24|93|Jozef|Michalko|Ing.|53|projektový inžinier|Liptovský Hrádok|
+24|94|Katarína|Gajdošová||36|čašníčka|Malý Šariš|
+24|95|Peter|Ridzoň||28|záchranár|Lom nad Rimavicou|
+24|96|Slavomír|Blažek|Ing., PhD.|32|projektový manažér|Šamorín|
+24|97|Justín|Horvatovič|Mgr.|36|výrobný riaditeľ|Bratislava|
+24|98|Petra|Čiešková|Mgr.|29|asistentka sociálnej práce - terénna sociálna pracovníčka|Rimavská Sobota|
+24|99|Slavomír|Dlubač||45|invalidný dôchodca, živnostník|Banská Belá|
+24|100|Peter|Sagan||36|vodič kamiónu|Oslany|
+24|101|Jana|Špuntová|Ing.|47|riaditeľka|Belá nad Cirochou|
+24|102|Rudolf|Frýželka|Ing.|42|starosta|Úľany nad Žitavou|
+24|103|Mária|Mojžišová||62|poradkyňa spotrebiteľa|Žilina|
+24|104|Miloš|Rybanský||49|zástupca regionálneho riaditeľa|Voderady|
+24|105|Marián|Bartišek||54|administratívny pracovník|Trenčianske Stankovce|
+24|106|Terézia|Lengyelová|Mgr.|70|sestra|Košice|
+24|107|Jozef|Garabík||50|živnostník|Klieština|
+24|108|Zuzana|Jurkechová||34|praktická sestra|Považská Bystrica|
+24|109|Jakub|Novotný|Bc.|25|pracovník v cestovnom ruchu|Košice|
+24|110|Marek|Hlavatý||31|SZČO|Slovenský Grob|
+24|111|Viktor|Gurčík||44|podnikateľ|Ľubica|
+24|112|René|Balák|Dr., PhD.|52|logistic manager|Piešťany|
+24|113|Martin|Ferančík|Mgr.|30|konateľ spoločnosti|Dolný Kubín|
+24|114|Jozef|Baranec||45|SZČO|Žitavany|
+24|115|Bronislav Sebastian|Hudek||23|študent|Rybník|
+24|116|Miroslav|Klimo|Ing.|35|konštruktér|Očová|
+24|117|Juraj|Brandajský||25|asistent poslanca NR SR|Bojná|
+24|118|Dušan|Rajtek||54|živnostník|Kysucký Lieskovec|
+24|119|Ján|Plavucha||27|nezamestnaný|Detvianska Huta|
+24|120|Jozef|Mravec|Ing.|66|dôchodca|Detva|
+24|121|Anton|Čekan||29|test technik|Košice|
+24|122|Martin|Kotleba|Ing.|41|poslanec NR SR|Banská Bystrica|
+24|123|Radovan|Hynek||45|zámočník - zvárač|Trnava|
+24|124|Ondrej|Kurovský||51|živnostník|Vechec|
+24|125|Vladimíra|Šmidtová|Bc.|39|asistentka sociálnej práce|Turčok|
+24|126|Ľubomír|Poltársky||63|dôchodca|Lučenec|
+24|127|Branislav|Grznár|Bc.|28|tenisový tréner|Partizánske|
+24|128|Simona|Lapínová||28|nezamestnaná|Detva|
+24|129|Peter|Kováč||39|obchodný zástupca|Malacky|
+24|130|Peter|Ďurčo|Bc.|42|SZČO|Nová Dedinka|
+24|131|Jozef|Fürek|Ing.|52|SZČO|Bratislava|
+24|132|Zoltán|Zsidó||58|pracovník SBS|Tekovské Lužany|
+24|133|Allan|Gavač|Ing.|57|konateľ spoločnosti|Bratislava|
+24|134|Igor|Ferjo|Mgr.|51|súkromný podnikateľ|Vinné|
+24|135|Mária|Frágnerová||68|SZČO|Nový Ruskov|
+24|136|Pavol|Sitkanič|Mgr.|51|výsluhový dôchodca|Stropkov|
+24|137|Peter|Straňák|MUDr.|66|všeobecný lekár pre deti a dorast|Námestovo|
+24|138|Mario|Gogora|Ing.|43|konateľ spoločnosti|Bratislava|
+24|139|Marek|Belák|Ing.|54|poslanec mesta Martin|Martin|X
+24|140|Ivan|Nemček|Ing.|68|stavebný technik|Bratislava|
+24|141|Ondrej|Katuška|Bc.|29|technik BOZP|Bardejov|
+24|142|Radoslav|Jánošík|Mgr.|38|územný riaditeľ|Točnica|
+24|143|Jozef|Mikuš||80|dôchodca|Častá|
+24|144|Jozef|Týnus|Ing.|62|konateľ s. r. o.|Lučenec|
+24|145|Rudolf|Pardubský||76|národohospodár|Bratislava|
+24|146|Simona|Domová|Mgr.|24|odborná radkyňa|Lučenec|
+24|147|Jakub|Hajduk|PhDr., MPA|29|učiteľ|Mlynárovce|
+24|148|Dušan|Pinčík||63|dôchodca|Hlboké nad Váhom|
+24|149|Marek|Darmo||37|konateľ spoločnosti|Zvolen|
+24|150|Milan|Mazurek||26|asistent poslanca NR SR|Spišská Belá|
+25|1|Eduard|Chmelár|doc. Mgr., PhD.|48|historik, predseda hnutia Socialisti.sk|Galanta|
+25|2|Zuzana|Cingeľová||66|dôchodkyňa|Streda nad Bodrogom|
+25|3|Martin|Sarvaš|Ing. arch.|58|textár, manažér|Bratislava|
+25|4|Alica|Mihale Razgyelová|JUDr.|35|právnička|Macov|
+25|5|Artur|Bekmatov|Mgr., PhD.|29|zamestnanec verejnej správy|Turčianske Teplice|
+25|6|Beáta|Janočková|Ing.|41|manažérka|Blažice|
+25|7|Daniel|Patkoš|Mgr.|44|ekonóm|Macov|
+25|8|Martin|Štunda|Ing.|55|ekonóm, poľnohospodár|Michalovce|
+25|9|Jozef|Ďurica|Ing.|70|dôchodca|Bratislava|
+25|10|Branislav|Vilmon|Ing.|49|programátor|Banská Bystrica|
+25|11|Dušan|Kocur|prof. Ing., CSc.|58|vysokoškolský pedagóg|Košice|
+25|12|Veronika|Balušíková|Mgr.|35|projektová a finančná manažérka|Bratislava|
+25|13|Matej|Pintér|Bc.|24|študent|Veľké Lovce|
+25|14|Miroslav|Pomajdík|Mgr.|33|školský asistent|Arnutovce|
+25|15|Marcel|Kolesár|Ing.|40|procesný manažér|Veľaty|
+25|16|Milan|Jakubík|Ing.|38|starosta|Dobrá Niva|
+25|17|Juraj|Zeman|Ing.|57|podnikateľ|Žilina|
+25|18|Milan|Benkovský|RSDr.|67|dôchodca, živnostník|Senec|
+25|19|Marek|Kopčák|Ing.|40|vedúci servisu|Prešov|
+25|20|Vladimír|Kukliš|JUDr.|67|policajný vyšetrovateľ|Senica|
+25|21|Juraj|Ďurove|doc. Ing., PhD.|70|dôchodca|Košice|
+25|22|Zuzana|Kúdelková|Mgr. PhDr.|54|učiteľka|Valaská|
+25|23|Viliam|Vidumský||54|futbalista|Šarišské Michaľany|
+25|24|Eduard|Maskaľ||56|podnikateľ|Michalovce|
+25|25|Matej|Zuzčák|RNDr.|27|špecialista na IT bezpečnosť, vedec|Čadca|
+25|26|Michal|Gabriš|Ing.|41|IT manažér|Modra|
+25|27|Martina|Kupcová|Mgr.|32|podnikateľka|Michalová|
+25|28|Pavel|Fabian|MVDr.|64|zverolekár, spisovateľ, dôchodca|Bratislava|
+25|29|Adam|Hlavačka|Mgr.|33|IT manažér|Nitra|
+25|30|Dominika|Dudžáková|Mgr.|29|učiteľka|Hrabušice|
+25|31|Otto|Čejka||39|nezamestnaný|Streda nad Bodrogom|
+25|32|Lucia|Sámelová|Mgr.|37|business analyst|Trenčín|
+25|33|Miroslav|Bejda||56|technik|Bardejov|
+25|34|Pavol|Pastirčák|JUDr.|60|starosta|Matysová|
+25|35|Peter|Badida||37|podnikateľ|Trnava pri Laborci|
+25|36|Beata|Novomeská|Mgr.|40|klientská pracovníčka|Bratislava|
+25|37|Ján|Sabadoš|RSDr.|69|dôchodca|Ruskov|
+25|38|Ahmad|Gharaibeh|MUDr., PhD., MPH|52|lekár, vysokoškolský odborný asistent|Košice|
+25|39|Martin|Tuček||36|obchodný zástupca|Nové Sady|
+25|40|František|Múčka||53|pracovník vo výrobe|Hontianske Moravce|
+25|41|Michal|Čipka||39|komunitný pracovník|Dolný Kubín|
+25|42|Blažej|Číž|Ing.|52|konateľ|Martin|
+25|43|Štefan|Bereš|Ing.|52|ekonóm|Košice|
+25|44|Lenka|Patkošová||32|podnikateľka|Bratislava|
+25|45|Norbert|Pavlovič||24|pracovník finančného sektora|Hrnčiarovce nad Parnou|
+25|46|Michal|Paulovič|Mgr.|40|IT konzultant|Turčianska Štiavnička|
+25|47|Martin|Jágrik||38|hospodársky pracovník|Považská Bystrica|
+25|48|Karol|Habala|Ing.|75|podnikateľ|Nižná Kamenica|
+25|49|Tomáš|Vaňa||25|inštruktor vo výrobe|Hurbanovo|
+25|50|Martin|Bystriansky||41|podnikateľ|Zvolen|
+25|51|Lea|Ogáryová||32|špecialistka klinického výskumu|Bobrovec|
+25|52|Martin|Mačinek|Mgr.|48|sociálny pracovník|Žilina|
+25|53|Erik|Mikletič||30|elektrotechnik vo výrobe|Pezinok|
+25|54|Marek|Jackovič||42|vedúci administratívneho oddelenia|Mlynica|
+25|55|Mário|Duchoň||30|podnikateľ|Veľký Lapáš|
+25|56|Milan|Blaho||49|podnikateľ|Martin|
+25|57|Jozef|Vacula|Mgr. art.|30|sládok|Liptovský Mikuláš|
+25|58|Gabriel|Pálkováč|Bc.|29|podnikateľ|Rimavské Janovce|
+25|59|Jaromír|Páleník|Ing.|42|technicko-obchodný pracovník|Bratislava|
+25|60|Elena|Kobolková|Dis.|65|podnikateľka, zdravotná sestra|Rajecké Teplice|
+25|61|Jaroslav|Šiňanský||49|referent|Košice|
+25|62|Juraj|Procházka|Mgr., PhD.|32|vysokoškolský pedagóg|Zvolen|
+25|63|Jozef|Smatana||44|programátor|Kuzmice|
+25|64|Samuel|Romanovský||21|študent|Banská Bystrica|
+25|65|Vladimír|Pavúk|MVDr.|39|veterinárny lekár|Prešov|
+25|66|Michal|Kormoš|Mgr.|31|podnikateľ|Stará Ľubovňa|
+25|67|Matej|Bartík|Ing.|26|bankový úradník|Nitra|
+25|68|Juraj|Štoffa|Mgr.|57|manažér|Sabinov|
+25|69|Soňa|Miksová||46|účtovníčka|Zamarovce|
+25|70|Ľubomír|Tahotný||56|technik|Pezinok|
+25|71|Juraj|Chrien|Ing.|64|programátor|Nitra|
+25|72|Maroš|Čupka|Dis. art.|23|študent|Banská Bystrica|
+25|73|Tomáš|Ďaďo||28|podnikateľ|Dolný Kubín|
+25|74|Slavomír|Keleši||42|podnikateľ|Trenčín|
+25|75|Jaroslav|Ďuriš|Ing.|34|plánovač výroby|Žilina|
+25|76|Anna|Mižikárová||60|nezamestnaná|Poprad|
+25|77|Ján|Hudačko|Ing.|34|manažér|Herľany|
+25|78|Milan|Pačuta||35|nezamestnaný|Veľaty|
+25|79|Michal|Sapieta||36|vedúci výroby|Veľké Rovné|
+25|80|Milan|Nehaj|Ing.|65|manažér|Bratislava|
+25|81|Patrik|Jankovič||47|IT špecialista|Žilina|
+25|82|Miroslava|Hodálová|Mgr.|35|učiteľka ZUŠ|Prešov|
+25|83|Mária|Bujňáková|Ing.|60|vychovávateľka|Košice|
+25|84|Renata|Urbánková||45|hospodárska pracovníčka|Žilina|
+25|85|Ľudmila|Gondová||57|chyžná - hotelová asistentka|Smižany|
+25|86|Anton|Orokocký||60|operátor výroby|Vranov nad Topľou|
+25|87|Milan|Bujko|Mgr.|48|učiteľ|Vranov nad Topľou|
+25|88|Ľubica|Blahová|Mgr. Ing.|46|vedúca nákupu|Martin|
+25|89|Miriam|Straková|Ing.|42|ekonómka|Bratislava|
+25|90|Martin|Jakubčin||47|podnikateľ|Zámutov|
+25|91|Michal|Rybár|Ing.|32|dátový analytik|Bratislava|
+25|92|Tomáš|Staško|Ing.|34|windows application administrator|Ľubotice|
+25|93|Karol|Lupták||62|robotník|Kriváň|
+25|94|Peter|Čaja||49|autoklampiar|Veľký Šariš|
+25|95|Martina|Boroňová||33|vedúca predajne, asistentka predaja|Prešov|
+25|96|Roman|Švrlo||29|robotník|Bytča|
+25|97|Tibor|Môcik|Mgr.|26|licenčný manažér|Bratislava|
+25|98|Ľuboš|Smetanka|Ing., PhD.|56|vedúci pošty|Stropkov|
+25|99|Michal|Kováčik|Ing.|28|softvérový inžinier|Oravská Poruba|
+25|100|Robert|Široký|PhDr.|50|štátny zamestnanec|Senec|
+25|101|Marko|Pribula|Ing.|54|podnikateľ|Trenčianske Stankovce|
+25|102|Richard|Cviklovič||45|praktická sestra|Komjatice|
+25|103|Adrián|Gumulák||37|podnikateľ|Stará Ľubovňa|
+25|104|František|Jaš|Ing., CSc.|70|podnikateľ|Prešov|
+25|105|Jana|Kurincová||41|referentka|Košice|
+25|106|Pavol|Kordoš||52|mechanik|Žitavany|
+25|107|Milan|Šarmír||67|dôchodca|Blatné|
+25|108|Pavol|Segul||31|podnikateľ|Kazimír|
+25|109|Martin|Urbanovský||37|projektový manažér|Bánovce nad Bebravou|
+25|110|Martina|Martišovičová|Mgr.|45|učiteľka|Senec|
+25|111|Ján|Pecko|Mgr.|61|dôchodca|Žilina|
+25|112|Dušan|Beskid||47|servisný technik|Galanta|
+25|113|Hubert|Hlavačka|Ing.|67|dôchodca|Nitra|
+25|114|Ladislav|Andody||44|podnikateľ|Vyškovce nad Ipľom|
+25|115|Monika|Sláviková||40|podnikateľka|Sereď|
+25|116|Ľudovít|Janočko||75|špecialista regenerácie|Blažice|
+25|117|Róbert|Madžo|Ing.|38|ekonóm|Piešťany|
+25|118|Ľubomír|Tóth||51|robotník|Nitra|
+25|119|Milan|Hlubina||63|dôchodca|Nové Zámky|
+25|120|František|Rajna||48|stolár|Abranovce|
+25|121|Lukáš|Turský||32|pracovník bezpečnostnej služby|Horné Obdokovce|
+25|122|Dušan|Hippík||41|sanitár|Topoľčany|
+25|123|Jana|Košťanská|Mgr.|41|procesná špecialistka|Košice|
+25|124|Juraj|Štec|Mgr.|32|vedúci predajne|Svit|
+25|125|Zsolt|Pástor||47|vodič MKD|Neded|
+25|126|Anna|Gregorová|akad. mal.|67|výtvarníčka|Prešov|
+25|127|Marián|Červený||41|podnikateľ|Žilina|
+25|128|Peter|Černák||46|robotník|Myjava|
+25|129|Martin|Tkáč|Ing.|36|dátový analytik|Pezinok|
+25|130|Branislav|Dupkala||57|pracovník vo výrobe|Kysucké Nové Mesto|
+25|131|Marek|Noga||28|podnikateľ|Oravská Lesná|
+25|132|Dušan|Kucharik||63|dôchodca|Žilina|
+25|133|Juraj|Varga||56|prijímací technik|Prešov|
+25|134|Ivan|Mihale||36|podnikateľ|Šamorín|
+25|135|Peter|Košík|Ing.|55|odborný referent|Mošovce|
+25|136|Iveta|Káčerová||50|prevádzkarka|Žilina|
+25|137|Viera|Vidumská||51|opatrovateľka|Šarišské Michaľany|
+25|138|Jaroslav|Švrlo||35|pracovník údržby|Bytča|
+25|139|Ladislav|Nedelka||39|hasič - záchranár|Bratislava|
+25|140|Daniel|Grega|Mgr.|25|geológ|Košice|
+25|141|Martin|Šaffa||41|podnikateľ|Vranov nad Topľou|
+25|142|Rastislav|Horník|Ing.|35|pracovník SBS|Malá Čierna|
+25|143|Marta|Ondrejíčková||73|dôchodkyňa|Macov|
+25|144|Martin|Mikloš||44|prevádzkar|Bobot|
+25|145|Vladislav|Marušic||45|podnikateľ|Pezinok|
+25|146|Liana|Smrečanová|Mgr.|44|zdravotná sestra|Banská Bystrica|
+25|147|Iveta|Lacková||53|upratovačka|Sedlice|
+25|148|Štefan|Leško||46|údržbár|Dulova Ves|
+25|149|Vladimír|Lorinc||66|dôchodca|Prešov|
+25|150|Marek|Hodál|Mgr.|46|obchodný zástupca|Prešov|
